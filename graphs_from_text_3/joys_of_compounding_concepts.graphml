@@ -1,0 +1,2650 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="book_list" attr.type="string"/>
+<key id="d16" for="edge" attr.name="book_count" attr.type="long"/>
+<key id="d15" for="edge" attr.name="books" attr.type="string"/>
+<key id="d14" for="edge" attr.name="width" attr.type="double"/>
+<key id="d13" for="edge" attr.name="description" attr.type="string"/>
+<key id="d12" for="edge" attr.name="relationship_type" attr.type="string"/>
+<key id="d11" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d10" for="node" attr.name="book_list" attr.type="string"/>
+<key id="d9" for="node" attr.name="book_count" attr.type="long"/>
+<key id="d8" for="node" attr.name="books" attr.type="string"/>
+<key id="d7" for="node" attr.name="size" attr.type="double"/>
+<key id="d6" for="node" attr.name="book_title" attr.type="string"/>
+<key id="d5" for="node" attr.name="chapter" attr.type="string"/>
+<key id="d4" for="node" attr.name="importance" attr.type="double"/>
+<key id="d3" for="node" attr.name="type" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="graph" attr.name="processed_date" attr.type="string"/>
+<key id="d0" for="graph" attr.name="title" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">Joys of Compounding</data>
+<data key="d1">2024-11-28T14:46:12.701383</data>
+<node id="Lifelong Learning">
+  <data key="d2">The continuous pursuit of knowledge and skills throughout one's life, essential for long-term success.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Self-Improvement">
+  <data key="d2">The process of enhancing one's knowledge, skills, and character to achieve personal growth.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Reading Habit">
+  <data key="d2">A consistent practice of reading that contributes to knowledge accumulation and wisdom.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Compound Interest">
+  <data key="d2">The process where the value of an investment increases over time due to the interest earned on both the initial principal and the accumulated interest.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Resilience">
+  <data key="d2">The ability to recover quickly from setbacks and persist in the face of challenges.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Mental Models">
+  <data key="d2">Frameworks that help individuals understand how things work and make decisions based on various variables.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="First Principles Thinking">
+  <data key="d2">A problem-solving approach that involves breaking down complex problems into their most fundamental parts.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Delayed Gratification">
+  <data key="d2">The ability to resist the temptation for an immediate reward and wait for a later reward.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Circle of Competence">
+  <data key="d2">The boundaries of knowledge and expertise within which an individual can make informed decisions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Philanthropy">
+  <data key="d2">The desire to promote the welfare of others, typically through the donation of money or resources.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Simplicity">
+  <data key="d2">The quality of being easy to understand or do, often leading to better decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Philosophy">
+  <data key="d2">Investment philosophy is a set of beliefs and principles that guide an investor's decision-making process.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Opportunity Cost">
+  <data key="d2">Opportunity cost is the potential benefit lost when choosing one alternative over another.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Vicarious Learning">
+  <data key="d2">Learning through the experiences and insights of others rather than through direct experience.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Intellectual Humility">
+  <data key="d2">Intellectual humility is the recognition that one’s knowledge is limited and the willingness to learn from others.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Focus">
+  <data key="d2">The ability to concentrate on a specific goal or task without distraction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Curiosity">
+  <data key="d2">A strong desire to learn or know more about something.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Emotional Intelligence">
+  <data key="d2">Emotional intelligence is the ability to recognize, understand, and manage our own emotions and the emotions of others.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Decision Fatigue">
+  <data key="d2">The deteriorating quality of decisions made by an individual after a long session of decision making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Mindset">
+  <data key="d2">The established set of attitudes held by someone, influencing how they interpret and respond to situations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Networking">
+  <data key="d2">The action or process of interacting with others to exchange information and develop professional or social contacts.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Knowledge Acquisition">
+  <data key="d2">The process of gaining knowledge through experience, education, or training.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cognitive Biases">
+  <data key="d2">Systematic patterns of deviation from norm or rationality in judgment, often affecting decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Independence">
+  <data key="d2">Financial independence is the state of having sufficient personal wealth to live without having to work actively for basic necessities.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Strategy">
+  <data key="d2">A plan designed to help an investor achieve their financial goals through various investment vehicles.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Behavioral Edge">
+  <data key="d2">The advantage gained by understanding and managing one's own psychological tendencies in investing.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Patience">
+  <data key="d2">The ability to wait calmly for something desired without frustration.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Capital Allocation">
+  <data key="d2">The process of deciding how to distribute financial resources among various investments.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Risk Management">
+  <data key="d2">The identification, assessment, and prioritization of risks followed by coordinated efforts to minimize or control their impact.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Trust">
+  <data key="d2">A firm belief in the reliability, truth, ability, or strength of someone or something.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Integrity">
+  <data key="d2">The quality of being honest and having strong moral principles.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Accountability">
+  <data key="d2">The obligation of an individual or organization to account for its activities, accept responsibility, and disclose results.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Long-Term Perspective">
+  <data key="d2">An outlook that emphasizes the importance of long-term outcomes over short-term gains.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Value Investing">
+  <data key="d2">Value investing is an investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Sentiment">
+  <data key="d2">Market sentiment refers to the overall attitude of investors toward a particular security or financial market.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Thesis">
+  <data key="d2">An investment thesis is a reasoned argument for why a particular investment is expected to be profitable.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cash Flow Analysis">
+  <data key="d2">The examination of the cash inflows and outflows of a business to assess its financial health.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Earnings Power">
+  <data key="d2">The ability of a company to generate profits over time.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Governance">
+  <data key="d2">The system of rules, practices, and processes by which a company is directed and controlled.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Literacy">
+  <data key="d2">The ability to understand and effectively use various financial skills, including personal financial management, budgeting, and investing.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Valuation">
+  <data key="d2">The process of determining the current worth of an asset or company.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Intrinsic Value">
+  <data key="d2">The perceived or calculated value of an asset, based on fundamental analysis without reference to its market value.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Shareholder Value">
+  <data key="d2">A business's commitment to increasing the worth of its shares and providing returns to its shareholders.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Advantage">
+  <data key="d2">Competitive advantage is the attribute that allows an organization to outperform its competitors.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Cycle">
+  <data key="d2">The fluctuation in economic activity that an economy experiences over a period of time.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Economic Moat">
+  <data key="d2">The competitive advantage that one company has over other companies in the same industry.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Efficiency">
+  <data key="d2">Market efficiency is the degree to which stock prices reflect all available, relevant information.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Behavioral Finance">
+  <data key="d2">Behavioral finance is the study of the influence of psychology on the behavior of financial practitioners.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Horizon">
+  <data key="d2">Investment horizon is the total length of time that an investor expects to hold an investment before taking the money out.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Diversification">
+  <data key="d2">The practice of spreading investments across various financial instruments, industries, and other categories to reduce risk.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Timing">
+  <data key="d2">The strategy of making buy or sell decisions of financial assets by attempting to predict future market price movements.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Ratios">
+  <data key="d2">Metrics used to evaluate a company's financial performance and stability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Risk">
+  <data key="d2">The possibility of losing money on an investment or the potential for an investment's actual returns to differ from expected returns.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Long-Term Value Creation">
+  <data key="d2">The process of generating sustainable economic value over an extended period.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cash Flow Statement">
+  <data key="d2">A financial statement that provides aggregate data regarding all cash inflows and outflows a company receives.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Annual Report">
+  <data key="d2">A comprehensive report on a company's activities throughout the preceding year, intended to give shareholders and other interested people information about the company's activities and financial performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Shareholder Communication">
+  <data key="d2">The methods and practices by which a company communicates with its shareholders.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Thesis Validation">
+  <data key="d2">The process of assessing whether the reasons for an investment remain valid over time.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cognitive Dissonance">
+  <data key="d2">The mental discomfort experienced by a person who holds two or more contradictory beliefs, values, or ideas.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Risk-Reward Ratio">
+  <data key="d2">A ratio that compares the potential profit of an investment to its potential loss.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Psychology">
+  <data key="d2">Market psychology is the sentiment of investors that influences market trends and price movements.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Discipline">
+  <data key="d2">Investment discipline is the ability to stick to a predetermined investment strategy despite market fluctuations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Value Creation">
+  <data key="d2">Value creation is the process of increasing the worth of a company through various strategies.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Portfolio">
+  <data key="d2">An investment portfolio is a collection of financial assets such as stocks, bonds, and cash.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Trends">
+  <data key="d2">Market trends are the general direction in which a market is moving.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Planning">
+  <data key="d2">Financial planning is the process of setting financial goals and creating a strategy to achieve them.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Wealth Management">
+  <data key="d2">A service that combines investment advice, accounting, and financial planning for individuals and families.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Research">
+  <data key="d2">Investment research is the process of gathering and analyzing information about potential investments.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Economic Indicators">
+  <data key="d2">Economic indicators are statistics that provide information about the economic performance of a country.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Analysis">
+  <data key="d2">Market analysis is the study of market conditions to identify opportunities and risks.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Metrics">
+  <data key="d2">Quantitative measures used to assess a company's financial performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Returns">
+  <data key="d2">The gain or loss made on an investment relative to the amount invested.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Caution on Cash">
+  <data key="d2">The cash shown on the balance sheet may be fictitious.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Free Cash Flow (FCF)">
+  <data key="d2">FCF is the discretionary surplus that can be distributed to reward shareholders.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Negative FCF and Debt">
+  <data key="d2">If FCF is negative and dividends are funded by debt, investors should be cautious.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Falsified Earnings Symptoms">
+  <data key="d2">Common symptoms of falsified earnings include negative FCF, rising debt, and bloating in receivables and inventory.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Self-Sustainable Growth Rate (SSGR)">
+  <data key="d2">SSGR represents the debt-free growth potential of a company.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Return Ratios">
+  <data key="d2">Return ratios measure a company's efficiency in generating profits relative to its assets.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Pretax Return on Tangible Equity">
+  <data key="d2">This ratio measures the profitability of a company's tangible equity.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Return on Capital Employed">
+  <data key="d2">This is calculated as earnings before interest and taxes divided by capital employed.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Operating Efficiency">
+  <data key="d2">Operating efficiency is assessed through various ratios, including net fixed asset turnover and inventory turnover.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Net Fixed Asset Turnover Ratio">
+  <data key="d2">A higher ratio indicates efficient use of fixed assets.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Receivables Days">
+  <data key="d2">Lower receivables days indicate quicker cash collection from customers.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Inventory Turnover Ratio">
+  <data key="d2">A higher ratio suggests efficient inventory management.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Balance Sheet Analysis">
+  <data key="d2">Analyzing balance sheet components like net fixed assets and share capital is crucial for financial health.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Debt-to-Equity Ratio">
+  <data key="d2">A lower ratio indicates a more financially stable company.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Management Analysis">
+  <data key="d2">Evaluating the background and governance issues of management is vital for assessing risk.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Munger's Psychological Checklist">
+  <data key="d2">A list of cognitive biases that can affect decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Bias from Mere Association">
+  <data key="d2">This bias connects stimuli with positive or negative feelings.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Self-Serving Bias">
+  <data key="d2">This bias leads individuals to view their abilities overly positively.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sunk Cost Fallacy">
+  <data key="d2">The sunk cost fallacy is the misconception that one must continue an endeavor once an investment in money, effort, or time has been made.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Confirmation Bias">
+  <data key="d2">Confirmation bias is the tendency to search for, interpret, and remember information that confirms one’s preexisting beliefs.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Planning Fallacy">
+  <data key="d2">The phenomenon where predictions about future tasks are overly optimistic.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Premortem Analysis">
+  <data key="d2">A technique to anticipate potential failures before they occur.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Intrinsic Value Calculation">
+  <data key="d2">Intrinsic value is estimated based on future cash flows and their present value.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Owner Earnings">
+  <data key="d2">Owner earnings are calculated as reported earnings plus non-cash charges minus capital expenditures.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Margin of Safety">
+  <data key="d2">The difference between the intrinsic value of a stock and its market price.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Behavioral Biases">
+  <data key="d2">Behavioral biases are psychological tendencies that can lead investors to make irrational decisions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Position Sizing">
+  <data key="d2">Determining how much capital to allocate to a particular investment.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Kelly Criterion">
+  <data key="d2">A formula used to determine the optimal size of a series of bets.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Concentration vs. Diversification">
+  <data key="d2">The balance between holding a few high-conviction investments and spreading risk across many assets.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cyclical Stocks">
+  <data key="d2">Stocks that are sensitive to economic cycles.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Special Situations">
+  <data key="d2">Investment opportunities that arise from specific corporate events.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Spinoffs">
+  <data key="d2">A corporate action where a company creates a new independent company by selling or distributing shares.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Liquidity">
+  <data key="d2">The ease with which an asset can be converted into cash.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investor Psychology">
+  <data key="d2">The study of how psychological factors influence investor behavior.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Long-Term Investing">
+  <data key="d2">An investment strategy focused on holding assets for an extended period.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Quality Investing">
+  <data key="d2">Investing in companies with strong fundamentals and competitive advantages.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Growth Investing">
+  <data key="d2">An investment strategy focused on companies expected to grow at an above-average rate.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Value Traps">
+  <data key="d2">Stocks that appear cheap but are actually declining in value.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Earnings Quality">
+  <data key="d2">The degree to which reported earnings reflect a company's true financial performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Risk-Adjusted Returns">
+  <data key="d2">Returns that have been adjusted for the risk taken to achieve them.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Behavioral Traps">
+  <data key="d2">Common psychological pitfalls that can lead to poor investment decisions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Corrections">
+  <data key="d2">Market corrections are short-term declines in stock prices that typically follow a period of rising prices.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Behavioral Economics">
+  <data key="d2">The study of the effects of psychological, cognitive, emotional, cultural, and social factors on economic decisions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Herd Behavior">
+  <data key="d2">The tendency for individuals to follow the actions of a larger group.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Volatility">
+  <data key="d2">Market volatility refers to the rate at which the price of a security increases or decreases for a given set of returns.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Leverage">
+  <data key="d2">Leverage refers to the use of borrowed capital to increase the potential return of an investment, but it can also magnify losses.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cash Reserves">
+  <data key="d2">Having ample cash reserves allows investors to take advantage of opportunities during market downturns without being forced to sell assets.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Risk">
+  <data key="d2">Risk is the potential for loss or the chance of an unfavorable outcome in an investment.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Time Horizon">
+  <data key="d2">The time horizon is the length of time an investor expects to hold an investment before taking the money out.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Volatility">
+  <data key="d2">Volatility refers to the degree of variation in trading prices over time, indicating the level of risk associated with a particular asset.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cash as an Asset">
+  <data key="d2">Cash is considered a stable asset that can increase in value during market downturns, providing liquidity and optionality.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Emergency Fund">
+  <data key="d2">An emergency fund is a savings account set aside for unexpected expenses or financial emergencies.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Quality of Business">
+  <data key="d2">The quality of a business refers to its ability to generate consistent profits and maintain competitive advantages over time.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Cycles">
+  <data key="d2">Market cycles refer to the fluctuations in market prices and economic activity over time, characterized by periods of growth and decline.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Black Swan Events">
+  <data key="d2">Black Swan events are unpredictable and rare occurrences that have significant consequences.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Patience in Investing">
+  <data key="d2">Patience in investing refers to the ability to hold investments for the long term to allow for compounding growth.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Emotional Detachment">
+  <data key="d2">Emotional detachment is the ability to make investment decisions based on rational analysis rather than emotional reactions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Long-term Thinking">
+  <data key="d2">Long-term thinking involves making decisions with a focus on future outcomes rather than immediate results.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Quality of Management">
+  <data key="d2">The quality of management refers to the effectiveness and integrity of a company's leadership in making strategic decisions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Survivorship Bias">
+  <data key="d2">Survivorship bias is the logical error of focusing on successful entities while ignoring those that failed.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Frugality">
+  <data key="d2">Frugality is the practice of being economical with resources, particularly in spending.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Self-awareness">
+  <data key="d2">Self-awareness is the conscious knowledge of one's own character, feelings, motives, and desires.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Incremental Improvement">
+  <data key="d2">Incremental improvement refers to making small, gradual changes that lead to significant overall progress over time.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Behavior Gap">
+  <data key="d2">The behavior gap is the difference between the actual returns of an investment and the returns that an investor actually realizes.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Mental Accounting">
+  <data key="d2">Mental accounting is the tendency for individuals to categorize and treat money differently depending on its source or intended use.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Dopamine and Decision Making">
+  <data key="d2">Dopamine is a neurotransmitter that plays a role in reward-motivated behavior and can influence decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Social Proof">
+  <data key="d2">Social proof is the psychological phenomenon where people assume the actions of others in an attempt to reflect correct behavior.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Anchoring Effect">
+  <data key="d2">The anchoring effect is the cognitive bias that causes individuals to rely too heavily on the first piece of information encountered.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Self-fulfilling Prophecy">
+  <data key="d2">A self-fulfilling prophecy is a belief or expectation that influences a person's behavior in a way that causes the belief to come true.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management">
+  <data key="d2">Crisis management is the process by which an organization deals with a disruptive and unexpected event.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Intellectual Curiosity">
+  <data key="d2">Intellectual curiosity is the desire to learn and understand more about a subject.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Serendipity">
+  <data key="d2">Serendipity refers to the occurrence of events by chance in a happy or beneficial way.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Feedback Loops">
+  <data key="d2">Feedback loops are processes where the output of a system feeds back into the system as input.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Long-term Growth">
+  <data key="d2">Long-term growth refers to the sustained increase in a company's revenue and profits over an extended period.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Earnings Growth">
+  <data key="d2">Earnings growth is the increase in a company's earnings over a specified period.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Diversification">
+  <data key="d2">Investment diversification is the strategy of spreading investments across various financial instruments to reduce risk.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Dividend Reinvestment">
+  <data key="d2">Dividend reinvestment is the process of using dividends paid by a company to purchase additional shares of stock.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Long-term Wealth">
+  <data key="d2">Long-term wealth refers to the accumulation of assets and financial resources over an extended period.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Goals">
+  <data key="d2">Financial goals are specific objectives that individuals or organizations aim to achieve with their finances.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Risk Tolerance">
+  <data key="d2">Risk tolerance is the degree of variability in investment returns that an individual is willing to withstand.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Liquidity">
+  <data key="d2">Market liquidity refers to the ease with which an asset can be bought or sold in the market without affecting its price.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">Joys of Compounding</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<edge source="Lifelong Learning" target="Self-Improvement">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Self-Improvement" target="Reading Habit">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Reading Habit" target="Knowledge Acquisition">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Mental Models" target="First Principles Thinking">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delayed Gratification" target="Patience">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delayed Gratification" target="Long-Term Perspective">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Circle of Competence" target="Risk Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Simplicity" target="Decision Fatigue">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Philosophy" target="Value Investing">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Philosophy" target="Investment Strategy">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Opportunity Cost" target="Investment Discipline">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Emotional Intelligence" target="Investor Psychology">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Knowledge Acquisition" target="Mental Models">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Strategy" target="Long-Term Value Creation">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Strategy" target="Market Efficiency">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Strategy" target="Market Sentiment">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Strategy" target="Long-term Wealth">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Strategy" target="Quality of Management">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Strategy" target="Financial Goals">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Behavioral Edge" target="Emotional Intelligence">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Value Investing" target="Quality Investing">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Sentiment" target="Market Trends">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Cash Flow Analysis" target="Earnings Quality">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Literacy" target="Investment Strategy">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Competitive Advantage" target="Economic Moat">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Efficiency" target="Investment Strategy">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Efficiency" target="Investment Research">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Behavioral Finance" target="Behavioral Biases">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Horizon" target="Risk Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Diversification" target="Risk">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Timing" target="Market Sentiment">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Cognitive Dissonance" target="Behavioral Biases">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Cognitive Dissonance" target="Emotional Intelligence">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Psychology" target="Market Trends">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Psychology" target="Market Sentiment">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Discipline" target="Focus">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Discipline" target="Cognitive Biases">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Discipline" target="Investment Philosophy">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Discipline" target="Long-term Thinking">
+  <data key="d11">0.875</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.5</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Portfolio" target="Risk">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Portfolio" target="Risk Tolerance">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Trends" target="Market Psychology">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Planning" target="Investment Strategy">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Research" target="Investment Strategy">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Research" target="Market Analysis">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Analysis" target="Investment Research">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Cash Flow Analysis">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Financial Metrics">
+  <data key="d11">0.725</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.9</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Market Trends">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Market Psychology">
+  <data key="d11">0.65</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Wealth Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Financial Planning">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Economic Indicators">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Market Analysis">
+  <data key="d11">0.65</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Investment Portfolio">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Investment Horizon">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Intrinsic Value">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Shareholder Value">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Competitive Advantage">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Market Valuation">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Investment Research">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Cash Flow Statement">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Annual Report">
+  <data key="d11">0.65</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Shareholder Communication">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Investment Thesis Validation">
+  <data key="d11">0.65</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Risk-Reward Ratio">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Financial Literacy">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Investment Strategy">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Returns" target="Risk-Adjusted Returns">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Free Cash Flow (FCF)" target="Intrinsic Value">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Negative FCF and Debt" target="Caution on Cash">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Self-Sustainable Growth Rate (SSGR)" target="Return Ratios">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Return Ratios" target="Pretax Return on Tangible Equity">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Operating Efficiency" target="Return Ratios">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Management Analysis" target="Caution on Cash">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Munger's Psychological Checklist" target="Bias from Mere Association">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Confirmation Bias" target="Behavioral Biases">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Confirmation Bias" target="Investment Strategy">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Planning Fallacy" target="Self-Serving Bias">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Intrinsic Value Calculation" target="Owner Earnings">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Margin of Safety" target="Intrinsic Value Calculation">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Behavioral Biases" target="Risk Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Behavioral Biases" target="Risk">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Position Sizing" target="Risk Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Cyclical Stocks" target="Market Sentiment">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Special Situations" target="Spinoffs">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Liquidity" target="Market Sentiment">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investor Psychology" target="Market Sentiment">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Long-Term Investing" target="Quality Investing">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Value Traps" target="Earnings Quality">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Risk-Adjusted Returns" target="Risk Management">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Behavioral Traps" target="Behavioral Biases">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Corrections" target="Market Sentiment">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Behavioral Economics" target="Investor Psychology">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Herd Behavior" target="Investor Psychology">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Volatility" target="Market Sentiment">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Leverage" target="Risk">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Cash Reserves" target="Opportunity Cost">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Risk" target="Time Horizon">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Volatility" target="Risk">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Quality of Business" target="Investment Strategy">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Cycles" target="Volatility">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Goals" target="Investment Strategy">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Risk Tolerance" target="Investment Strategy">
+  <data key="d11">0.85</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Liquidity" target="Investment Strategy">
+  <data key="d11">0.75</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+</graph></graphml>

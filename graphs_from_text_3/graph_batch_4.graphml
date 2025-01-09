@@ -1,0 +1,1165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d12" for="edge" attr.name="book_list" attr.type="string"/>
+<key id="d11" for="edge" attr.name="book_count" attr.type="long"/>
+<key id="d10" for="edge" attr.name="books" attr.type="string"/>
+<key id="d9" for="edge" attr.name="width" attr.type="double"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d7" for="node" attr.name="book_list" attr.type="string"/>
+<key id="d6" for="node" attr.name="book_count" attr.type="long"/>
+<key id="d5" for="node" attr.name="books" attr.type="string"/>
+<key id="d4" for="node" attr.name="size" attr.type="double"/>
+<key id="d3" for="node" attr.name="description" attr.type="string"/>
+<key id="d2" for="node" attr.name="name" attr.type="string"/>
+<key id="d1" for="graph" attr.name="processed_date" attr.type="string"/>
+<key id="d0" for="graph" attr.name="title" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">Large Text Analysis</data>
+<data key="d1">2024-12-02T15:23:09.110251</data>
+<node id="Leadership Transition">
+  <data key="d2">Leadership Transition</data>
+  <data key="d3">The process of changing key leadership roles within a corporation, as seen with the resignations and elections of directors and officers.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Backlog of Orders">
+  <data key="d2">Backlog of Orders</data>
+  <data key="d3">A significant number of unfilled customer orders indicating strong demand and anticipated profitability for future operations.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Operating Earnings">
+  <data key="d2">Operating Earnings</data>
+  <data key="d3">The profit generated from a company's core business operations, excluding any non-operational income or expenses.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Non-Controlled Ownership Earnings">
+  <data key="d2">Non-Controlled Ownership Earnings</data>
+  <data key="d3">The share of undistributed earnings from companies in which a firm holds a significant investment but does not have control.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Market Value vs. Business Value">
+  <data key="d2">Market Value vs. Business Value</data>
+  <data key="d3">The relationship between a company's market capitalization and its intrinsic business value, which can fluctuate based on market conditions.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Capital Allocation">
+  <data key="d2">Capital Allocation</data>
+  <data key="d3">The process of deciding how to distribute financial resources among various investment opportunities.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Float">
+  <data key="d2">Float</data>
+  <data key="d3">The amount of money that insurance companies hold from premiums collected before they have to pay out claims.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Underwriting Profit">
+  <data key="d2">Underwriting Profit</data>
+  <data key="d3">The profit made by an insurance company from its underwriting activities, calculated as premiums received minus claims paid and expenses.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Intrinsic Business Value">
+  <data key="d2">Intrinsic Business Value</data>
+  <data key="d3">The perceived true value of a company based on its fundamentals, rather than its market price.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Bolt-On Acquisitions">
+  <data key="d2">Bolt-On Acquisitions</data>
+  <data key="d3">Small, strategic acquisitions made to enhance existing businesses rather than large, unrelated purchases.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Shareholder-Oriented Management">
+  <data key="d2">Shareholder-Oriented Management</data>
+  <data key="d3">A management approach focused on maximizing shareholder value through strategic decision-making and operational efficiency.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Regulated Capital-Intensive Businesses">
+  <data key="d2">Regulated Capital-Intensive Businesses</data>
+  <data key="d3">Industries, such as utilities and railroads, that require significant capital investment and are subject to regulatory oversight.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Economic Moat">
+  <data key="d2">Economic Moat</data>
+  <data key="d3">A competitive advantage that allows a company to maintain its market position and profitability.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Investment Philosophy">
+  <data key="d2">Investment Philosophy</data>
+  <data key="d3">A set of principles guiding an investor's decisions, including risk tolerance and expected returns.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Market Fluctuations">
+  <data key="d2">Market Fluctuations</data>
+  <data key="d3">The volatility of stock prices due to various factors, which can create opportunities for long-term investors.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Dividends vs. Retained Earnings">
+  <data key="d2">Dividends vs. Retained Earnings</data>
+  <data key="d3">The choice between distributing profits to shareholders as dividends or reinvesting them back into the company for growth.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Economic Conditions">
+  <data key="d2">Economic Conditions</data>
+  <data key="d3">The overall state of the economy, which can influence business performance, investment decisions, and market valuations.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Long-Term Investment Strategy">
+  <data key="d2">Long-Term Investment Strategy</data>
+  <data key="d3">An investment approach focused on holding assets for extended periods to benefit from compounding returns and business growth.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Financial Strength">
+  <data key="d2">Financial Strength</data>
+  <data key="d3">The ability of a company to meet its financial obligations and sustain operations over time.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Risk Management">
+  <data key="d2">Risk Management</data>
+  <data key="d3">The process of identifying, assessing, and controlling threats to an organization's capital and earnings.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Corporate Governance">
+  <data key="d2">Corporate Governance</data>
+  <data key="d3">The system of rules, practices, and processes by which a company is directed and controlled.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Investment in Human Capital">
+  <data key="d2">Investment in Human Capital</data>
+  <data key="d3">The emphasis on hiring and retaining talented individuals who contribute to a company's success and operational excellence.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Market Timing">
+  <data key="d2">Market Timing</data>
+  <data key="d3">The strategy of making buy or sell decisions of financial assets by attempting to predict future market price movements.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Share Repurchase">
+  <data key="d2">Share Repurchase</data>
+  <data key="d3">The act of a company buying back its own shares from the marketplace, often to increase the value of remaining shares.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Economic Resilience">
+  <data key="d2">Economic Resilience</data>
+  <data key="d3">The ability of an economy to recover from downturns and maintain growth.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Investment Returns">
+  <data key="d2">Investment Returns</data>
+  <data key="d3">The gain or loss made on an investment relative to the amount invested, expressed as a percentage.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Philanthropic Investments">
+  <data key="d2">Philanthropic Investments</data>
+  <data key="d3">Investments made with the intention of generating social or environmental benefits alongside financial returns.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Market Inefficiencies">
+  <data key="d2">Market Inefficiencies</data>
+  <data key="d3">The concept that markets do not always price securities accurately, allowing for investment opportunities.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="EBITDA">
+  <data key="d2">EBITDA</data>
+  <data key="d3">Earnings Before Interest, Taxes, Depreciation, and Amortization, often touted by CEOs as a valuation metric.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="GAAP">
+  <data key="d2">GAAP</data>
+  <data key="d3">Generally Accepted Accounting Principles, which dictate how financial statements are prepared and reported.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Intrinsic Value">
+  <data key="d2">Intrinsic Value</data>
+  <data key="d3">The actual worth of a company based on its fundamentals, rather than its market price.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Goodwill">
+  <data key="d2">Goodwill</data>
+  <data key="d3">An intangible asset that arises when a company acquires another for more than its net tangible assets.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Cigar-Butt Investing">
+  <data key="d2">Cigar-Butt Investing</data>
+  <data key="d3">A value investing strategy of buying cheap, distressed assets with little future potential, likened to picking up a discarded cigar butt.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Decentralization">
+  <data key="d2">Decentralization</data>
+  <data key="d3">A management structure where decision-making is distributed among various levels rather than being concentrated at the top.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Risk Retention">
+  <data key="d2">Risk Retention</data>
+  <data key="d3">The practice of keeping a portion of risk within a company rather than transferring it to an insurer or other entity.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Market Volatility">
+  <data key="d2">Market Volatility</data>
+  <data key="d3">The degree of variation in trading prices over time, which can create investment opportunities.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Long-Term Investment Horizon">
+  <data key="d2">Long-Term Investment Horizon</data>
+  <data key="d3">The strategy of holding investments for an extended period to benefit from compounding and market growth.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Cost of Capital">
+  <data key="d2">Cost of Capital</data>
+  <data key="d3">The return rate that a company must earn on its investment projects to maintain its market value and attract funds.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Diversification">
+  <data key="d2">Diversification</data>
+  <data key="d3">The strategy of spreading investments across various sectors to reduce risk.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Management Quality">
+  <data key="d2">Management Quality</data>
+  <data key="d3">The effectiveness of a company's management team in making decisions that enhance shareholder value.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Economic Dynamics">
+  <data key="d2">Economic Dynamics</data>
+  <data key="d3">The forces that influence the performance of an economy, including market trends and competitive behavior.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Shareholder Orientation">
+  <data key="d2">Shareholder Orientation</data>
+  <data key="d3">A management philosophy that prioritizes the interests and returns of shareholders.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Regulatory Environment">
+  <data key="d2">Regulatory Environment</data>
+  <data key="d3">The framework of laws and regulations that govern business operations.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Acquisition Criteria">
+  <data key="d2">Acquisition Criteria</data>
+  <data key="d3">The specific guidelines a company follows when evaluating potential acquisitions.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Competitive Advantage">
+  <data key="d2">Competitive Advantage</data>
+  <data key="d3">A condition that enables a company to perform better than its competitors.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Behavioral Finance">
+  <data key="d2">Behavioral Finance</data>
+  <data key="d3">The study of the influence of psychology on the behavior of financial practitioners and the subsequent effect on markets.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Value Investing">
+  <data key="d2">Value Investing</data>
+  <data key="d3">A strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Shareholder Value">
+  <data key="d2">Shareholder Value</data>
+  <data key="d3">The financial worth that shareholders gain from their investment in a company.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Economic Growth">
+  <data key="d2">Economic Growth</data>
+  <data key="d3">An increase in the production of goods and services in an economy over a period of time.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Cash Flow Management">
+  <data key="d2">Cash Flow Management</data>
+  <data key="d3">The process of monitoring, analyzing, and optimizing the net amount of cash receipts minus cash expenses.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Repurchases">
+  <data key="d2">Repurchases</data>
+  <data key="d3">The act of a company buying back its own shares from the marketplace, often to increase the value of remaining shares.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Economic Earnings">
+  <data key="d2">Economic Earnings</data>
+  <data key="d3">A measure of a company's profitability that includes all undistributed earnings, regardless of ownership percentage.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Accounting Earnings">
+  <data key="d2">Accounting Earnings</data>
+  <data key="d3">The net income reported on a company's financial statements, which may not accurately reflect economic reality.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Investment Flexibility">
+  <data key="d2">Investment Flexibility</data>
+  <data key="d3">The ability of a company to adapt its investment strategies based on market conditions and opportunities.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Market Sentiment">
+  <data key="d2">Market Sentiment</data>
+  <data key="d3">The overall attitude of investors toward a particular security or financial market.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Value Creation">
+  <data key="d2">Value Creation</data>
+  <data key="d3">The process of improving a company's worth through strategic decisions and operational improvements.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Long-Term Investment">
+  <data key="d2">Long-Term Investment</data>
+  <data key="d3">An investment strategy focused on holding assets for an extended period to achieve significant returns.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Competitive Dynamics">
+  <data key="d2">Competitive Dynamics</data>
+  <data key="d3">The interactions between firms in an industry that influence their competitive strategies and market performance.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Sustainable Competitive Advantage">
+  <data key="d2">Sustainable Competitive Advantage</data>
+  <data key="d3">A long-term benefit that a company has over its competitors, allowing it to generate greater sales or margins.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Economic Reality">
+  <data key="d2">Economic Reality</data>
+  <data key="d3">The actual financial condition of a company, as opposed to how it may be represented in financial statements.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Tax Efficiency">
+  <data key="d2">Tax Efficiency</data>
+  <data key="d3">The strategy of minimizing tax liabilities on investments to maximize returns for shareholders.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Acquisition Strategy">
+  <data key="d2">Acquisition Strategy</data>
+  <data key="d3">The plan for identifying and acquiring companies that meet specific investment criteria.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Long-Tail Risks">
+  <data key="d2">Long-Tail Risks</data>
+  <data key="d3">Risks that have a low probability of occurring but can have a significant impact if they do.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Shareholder Communication">
+  <data key="d2">Shareholder Communication</data>
+  <data key="d3">The process of informing shareholders about company performance, strategies, and other important information.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Market Psychology">
+  <data key="d2">Market Psychology</data>
+  <data key="d3">The overarching sentiment or mood of investors that can influence market trends and stock performance.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Long-Term Investment Philosophy">
+  <data key="d2">Long-Term Investment Philosophy</data>
+  <data key="d3">Investing with a focus on long-term value creation rather than short-term market fluctuations.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Controlled Businesses">
+  <data key="d2">Controlled Businesses</data>
+  <data key="d3">Companies that are fully owned or significantly controlled by Berkshire, allowing for direct management and influence.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Equity Investments">
+  <data key="d2">Equity Investments</data>
+  <data key="d3">Investments in publicly traded companies where Berkshire holds a minority stake.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Insurance Float">
+  <data key="d2">Insurance Float</data>
+  <data key="d3">The funds that insurance companies hold from premiums before claims are paid out, which can be invested for profit.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Share Repurchase Strategy">
+  <data key="d2">Share Repurchase Strategy</data>
+  <data key="d3">The practice of buying back shares to increase the value of remaining shares and improve ownership stakes.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Management Integrity">
+  <data key="d2">Management Integrity</data>
+  <data key="d3">The importance of having trustworthy and capable management teams in companies.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Long-Term Capital Gains">
+  <data key="d2">Long-Term Capital Gains</data>
+  <data key="d3">Profits from the sale of an asset held for more than one year, typically taxed at a lower rate.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Economic Tailwinds">
+  <data key="d2">Economic Tailwinds</data>
+  <data key="d3">Favorable economic conditions that support business growth and investment returns.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Philanthropic Intent">
+  <data key="d2">Philanthropic Intent</data>
+  <data key="d3">The practice of donating a portion of wealth to charitable causes, often seen in Berkshire's shareholder base.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Financial Independence">
+  <data key="d2">Financial Independence</data>
+  <data key="d3">The state of having sufficient personal wealth to live without having to work actively for basic necessities.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Behavioral Economics">
+  <data key="d2">Behavioral Economics</data>
+  <data key="d3">The study of psychological, social, and emotional factors on economic decisions.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Investment Horizon">
+  <data key="d2">Investment Horizon</data>
+  <data key="d3">The length of time an investor expects to hold an investment before taking the money out.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Cyclical Industries">
+  <data key="d2">Cyclical Industries</data>
+  <data key="d3">Industries that are sensitive to economic cycles, experiencing fluctuations in demand.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Retained Earnings">
+  <data key="d2">Retained Earnings</data>
+  <data key="d3">The portion of net income that is retained by the company rather than being paid out as dividends.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Market Capitalization">
+  <data key="d2">Market Capitalization</data>
+  <data key="d3">The total market value of a company's outstanding shares, indicating its size.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Debt Management">
+  <data key="d2">Debt Management</data>
+  <data key="d3">The process of managing a company's outstanding debt to minimize costs and risks.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Operational Efficiency">
+  <data key="d2">Operational Efficiency</data>
+  <data key="d3">The ability to deliver products or services in the most cost-effective manner.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Investment Thesis">
+  <data key="d2">Investment Thesis</data>
+  <data key="d3">A reasoned argument for why an investment is likely to succeed.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<node id="Cultural Fit">
+  <data key="d2">Cultural Fit</data>
+  <data key="d3">The alignment of a company's values and practices with those of its management and employees.</data>
+  <data key="d4">45.0</data>
+  <data key="d5"></data>
+  <data key="d6">0</data>
+  <data key="d7"></data>
+</node>
+<edge source="Operating Earnings" target="Intrinsic Business Value">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Non-Controlled Ownership Earnings" target="Market Value vs. Business Value">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Capital Allocation" target="Bolt-On Acquisitions">
+  <data key="d8">0.75</data>
+  <data key="d9">4.0</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Capital Allocation" target="Float">
+  <data key="d8">0.6</data>
+  <data key="d9">3.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Capital Allocation" target="Acquisition Strategy">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Float" target="Underwriting Profit">
+  <data key="d8">0.85</data>
+  <data key="d9">4.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Float" target="Investment Flexibility">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Underwriting Profit" target="Float">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Bolt-On Acquisitions" target="Acquisition Criteria">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Economic Moat" target="Shareholder-Oriented Management">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Economic Moat" target="Competitive Advantage">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Economic Moat" target="Sustainable Competitive Advantage">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Investment Philosophy" target="Long-Term Investment Strategy">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Market Fluctuations" target="Risk Management">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Dividends vs. Retained Earnings" target="Investment Returns">
+  <data key="d8">0.85</data>
+  <data key="d9">4.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Economic Conditions" target="Market Fluctuations">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Financial Strength" target="Risk Management">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Risk Management" target="Long-Tail Risks">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Risk Management" target="Economic Resilience">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Corporate Governance" target="Shareholder-Oriented Management">
+  <data key="d8">0.75</data>
+  <data key="d9">4.0</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Corporate Governance" target="Management Quality">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Corporate Governance" target="Management Integrity">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Investment in Human Capital" target="Economic Resilience">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Market Timing" target="Investment Returns">
+  <data key="d8">0.6</data>
+  <data key="d9">3.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Share Repurchase" target="Intrinsic Business Value">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Philanthropic Investments" target="Investment Philosophy">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Market Inefficiencies" target="Investment Returns">
+  <data key="d8">0.85</data>
+  <data key="d9">4.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Market Inefficiencies" target="Value Investing">
+  <data key="d8">0.95</data>
+  <data key="d9">4.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="EBITDA" target="GAAP">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Intrinsic Value" target="Goodwill">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Intrinsic Value" target="Market Sentiment">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Intrinsic Value" target="Equity Investments">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Cigar-Butt Investing" target="Value Investing">
+  <data key="d8">0.5</data>
+  <data key="d9">3.0</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Decentralization" target="Management Quality">
+  <data key="d8">0.6</data>
+  <data key="d9">3.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Risk Retention" target="Regulatory Environment">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Market Volatility" target="Long-Term Investment Horizon">
+  <data key="d8">0.6</data>
+  <data key="d9">3.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Cost of Capital" target="Financial Strength">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Cost of Capital" target="Investment Returns">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Diversification" target="Investment Philosophy">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Management Quality" target="Shareholder Orientation">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Management Quality" target="Shareholder Value">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Economic Dynamics" target="Economic Resilience">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Regulatory Environment" target="Economic Resilience">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Behavioral Finance" target="Market Timing">
+  <data key="d8">0.6</data>
+  <data key="d9">3.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Behavioral Finance" target="Market Psychology">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Shareholder Value" target="Economic Growth">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Economic Growth" target="Shareholder Value">
+  <data key="d8">0.6</data>
+  <data key="d9">3.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Cash Flow Management" target="Financial Strength">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Repurchases" target="Shareholder Value">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Economic Earnings" target="Accounting Earnings">
+  <data key="d8">0.6</data>
+  <data key="d9">3.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Investment Flexibility" target="Capital Allocation">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Market Sentiment" target="Market Volatility">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Market Sentiment" target="Investment Thesis">
+  <data key="d8">0.75</data>
+  <data key="d9">4.0</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Value Creation" target="Sustainable Competitive Advantage">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Long-Term Investment" target="Investment Returns">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Tax Efficiency" target="Investment Returns">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Acquisition Strategy" target="Value Creation">
+  <data key="d8">0.85</data>
+  <data key="d9">4.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Shareholder Communication" target="Management Quality">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Long-Term Investment Philosophy" target="Intrinsic Value">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Controlled Businesses" target="Management Integrity">
+  <data key="d8">0.85</data>
+  <data key="d9">4.4</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Insurance Float" target="Share Repurchase Strategy">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Share Repurchase Strategy" target="Shareholder Value">
+  <data key="d8">0.9</data>
+  <data key="d9">4.6</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Investment Horizon" target="Long-Term Investment Philosophy">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Cyclical Industries" target="Market Volatility">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Retained Earnings" target="Value Creation">
+  <data key="d8">0.75</data>
+  <data key="d9">4.0</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Debt Management" target="Financial Independence">
+  <data key="d8">0.7</data>
+  <data key="d9">3.8</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Operational Efficiency" target="Value Creation">
+  <data key="d8">0.8</data>
+  <data key="d9">4.2</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+<edge source="Cultural Fit" target="Management Integrity">
+  <data key="d8">0.75</data>
+  <data key="d9">4.0</data>
+  <data key="d10"></data>
+  <data key="d11">0</data>
+  <data key="d12"></data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,475 @@
+{
+    "concepts": [
+        {
+            "name": "Delusion of Absolute Performance",
+            "description": "The misconception that company performance can be evaluated in absolute terms, ignoring the relative nature of success in a competitive market."
+        },
+        {
+            "name": "Delusion of the Wrong End of the Stick",
+            "description": "Successful companies often pursued a highly focused strategy, but that doesn’t mean highly focused strategies often lead to success."
+        },
+        {
+            "name": "Delusion of Organizational Physics",
+            "description": "Company performance doesn’t obey immutable laws of nature and can't be predicted with the accuracy of science."
+        },
+        {
+            "name": "Core Business Focus",
+            "description": "The principle that companies should concentrate on their primary products or services to ensure long-term success."
+        },
+        {
+            "name": "Market Expansion vs. Core Focus",
+            "description": "The tension between pursuing new product lines and maintaining focus on core offerings, which can lead to mixed results."
+        },
+        {
+            "name": "Hubris",
+            "description": "Excessive pride or self-confidence that can lead to downfall, particularly in business leaders."
+        },
+        {
+            "name": "Greed",
+            "description": "An intense and selfish desire for something, especially wealth or power, which can lead to unethical business practices."
+        },
+        {
+            "name": "Halo Effect",
+            "description": "A cognitive bias where the perception of one positive quality leads to the assumption of other positive qualities, often skewing evaluations of performance."
+        },
+        {
+            "name": "Cognitive Dissonance",
+            "description": "The mental discomfort experienced by a person who holds two or more contradictory beliefs, values, or ideas."
+        },
+        {
+            "name": "Corporate Culture",
+            "description": "The shared values, beliefs, and practices that shape how a company's employees interact and work together."
+        },
+        {
+            "name": "Customer Orientation",
+            "description": "A business approach that prioritizes the needs and satisfaction of customers in all aspects of operations."
+        },
+        {
+            "name": "Acquisition Strategy",
+            "description": "The approach a company takes to acquire other companies or assets to enhance its market position."
+        },
+        {
+            "name": "Risk Management",
+            "description": "The identification, assessment, and prioritization of risks followed by coordinated efforts to minimize, monitor, and control the probability or impact of unfortunate events."
+        },
+        {
+            "name": "Longitudinal Study",
+            "description": "A research design that involves repeated observations of the same variables over long periods."
+        },
+        {
+            "name": "Correlation vs. Causation",
+            "description": "The distinction between a relationship where one variable affects another versus a mere association without direct influence."
+        },
+        {
+            "name": "Performance Metrics",
+            "description": "Quantitative measures used to assess the efficiency and effectiveness of a company's operations and strategies."
+        },
+        {
+            "name": "Executive Leadership",
+            "description": "The individuals at the top of an organization responsible for making strategic decisions and guiding the company."
+        },
+        {
+            "name": "Organizational Structure",
+            "description": "The system that outlines how certain activities are directed in order to achieve the goals of an organization."
+        },
+        {
+            "name": "Strategic Vision",
+            "description": "A clear and compelling long-term goal that guides an organization's strategy and decision-making."
+        },
+        {
+            "name": "Employee Satisfaction",
+            "description": "The extent to which employees are happy and fulfilled in their jobs, often linked to productivity and retention."
+        },
+        {
+            "name": "Financial Performance",
+            "description": "A measure of a company's profitability, revenue, and overall financial health, often assessed through financial statements."
+        },
+        {
+            "name": "Market Orientation",
+            "description": "A business philosophy that prioritizes understanding and meeting the needs of customers in the marketplace."
+        },
+        {
+            "name": "Social Responsibility",
+            "description": "The obligation of a company to act in ways that benefit society at large, beyond just profit generation."
+        },
+        {
+            "name": "Innovation",
+            "description": "The process of developing new products, services, or processes that can provide a competitive advantage in the market."
+        },
+        {
+            "name": "Leadership Styles",
+            "description": "The various approaches to leading and managing people within an organization, influencing its culture and performance."
+        },
+        {
+            "name": "Business Strategy",
+            "description": "A plan of action designed to achieve a company's long-term goals and objectives, often involving resource allocation and competitive positioning."
+        },
+        {
+            "name": "Operational Efficiency",
+            "description": "The ability of an organization to deliver products or services to customers in the most cost-effective manner without compromising quality."
+        },
+        {
+            "name": "Stakeholder Engagement",
+            "description": "The process of involving individuals or groups that have an interest in the company's operations and outcomes in decision-making."
+        },
+        {
+            "name": "Crisis Management",
+            "description": "The strategies and processes employed by an organization to deal with unexpected and disruptive events that threaten its operations or reputation."
+        },
+        {
+            "name": "Market Competitiveness",
+            "description": "The ability of a company to maintain or improve its position in the market relative to its competitors."
+        },
+        {
+            "name": "Change Management",
+            "description": "The approach to transitioning individuals, teams, and organizations to a desired future state."
+        },
+        {
+            "name": "Reputation Management",
+            "description": "The practice of influencing and controlling an organization's reputation, particularly in the face of challenges."
+        },
+        {
+            "name": "Business Ethics",
+            "description": "The principles and standards that guide behavior in the world of business."
+        },
+        {
+            "name": "High Performance",
+            "description": "The ability of a company to achieve superior results compared to its peers, often measured by metrics like total shareholder return and profitability."
+        },
+        {
+            "name": "Visionary Companies",
+            "description": "Companies identified in the 'Built to Last' study as having sustained high performance over time, often attributed to strong culture and values."
+        },
+        {
+            "name": "Regression to the Mean",
+            "description": "The phenomenon where extreme performance is followed by a return to average performance over time, often seen in high-performing companies."
+        },
+        {
+            "name": "Delusion of Lasting Success",
+            "description": "The belief that companies can achieve enduring greatness, despite evidence that many high-performing companies eventually decline."
+        },
+        {
+            "name": "Delusion of Rigorous Research",
+            "description": "The false confidence in the validity of research findings based on extensive data collection, which may still be biased by cognitive errors like the Halo Effect."
+        },
+        {
+            "name": "Strategic Choice",
+            "description": "The decisions made by a company regarding its direction and market positioning, which inherently involve risk and uncertainty."
+        },
+        {
+            "name": "Execution",
+            "description": "The process of implementing strategic choices through effective management of resources and operations."
+        },
+        {
+            "name": "Causal Ambiguity",
+            "description": "The difficulty in determining the specific causes of a company's performance due to the complex interplay of various factors."
+        },
+        {
+            "name": "Creative Destruction",
+            "description": "A concept by Joseph Schumpeter describing the process by which innovation leads to the demise of older companies and the emergence of new ones."
+        },
+        {
+            "name": "Market Competition",
+            "description": "The rivalry among businesses to attract customers and achieve higher sales, which influences strategic choices and performance."
+        },
+        {
+            "name": "Leadership",
+            "description": "The ability of an individual or group to influence and guide others within an organization towards achieving goals."
+        },
+        {
+            "name": "Customer Focus",
+            "description": "The practice of prioritizing customer needs and preferences in business strategies and operations."
+        },
+        {
+            "name": "Long-Term Prosperity",
+            "description": "The sustained success and growth of a company over an extended period, often viewed as a key indicator of effective management."
+        },
+        {
+            "name": "Competitive Advantage",
+            "description": "The attributes or conditions that allow a company to outperform its competitors, often derived from unique resources or capabilities."
+        },
+        {
+            "name": "Market Expectations",
+            "description": "The anticipations of investors and analysts regarding a company's future performance, which can influence stock prices and investment decisions."
+        },
+        {
+            "name": "Cognitive Bias",
+            "description": "Systematic patterns of deviation from norm or rationality in judgment, affecting decision-making processes."
+        },
+        {
+            "name": "Management Practices",
+            "description": "The methods and strategies employed by managers to achieve organizational goals and improve performance."
+        },
+        {
+            "name": "Adaptability",
+            "description": "The ability of a company to adjust its strategies and operations in response to changing market conditions and competitive pressures."
+        },
+        {
+            "name": "Corporate Governance",
+            "description": "The system of rules, practices, and processes by which a company is directed and controlled, influencing its performance and accountability."
+        },
+        {
+            "name": "Market Dynamics",
+            "description": "The forces that impact the supply and demand of goods and services in a market, influencing competitive behavior."
+        },
+        {
+            "name": "Organizational Change",
+            "description": "The process through which a company modifies its structure, strategies, operational methods, or culture to adapt to internal or external influences."
+        },
+        {
+            "name": "Delusion of Connecting the Winning Dots",
+            "description": "The tendency to attribute past successes to specific strategies or practices without considering the role of chance or external factors."
+        },
+        {
+            "name": "Learning Organization",
+            "description": "A company that actively encourages and facilitates the learning of its members and continuously transforms itself."
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Delusion of Absolute Performance",
+            "target": "Market Competitiveness",
+            "weight": 0.8
+        },
+        {
+            "source": "Delusion of the Wrong End of the Stick",
+            "target": "Core Business Focus",
+            "weight": 0.7
+        },
+        {
+            "source": "Delusion of Organizational Physics",
+            "target": "Crisis Management",
+            "weight": 0.6
+        },
+        {
+            "source": "Core Business Focus",
+            "target": "Market Expansion vs. Core Focus",
+            "weight": 0.9
+        },
+        {
+            "source": "Hubris",
+            "target": "Greed",
+            "weight": 0.8
+        },
+        {
+            "source": "Halo Effect",
+            "target": "Cognitive Dissonance",
+            "weight": 0.9
+        },
+        {
+            "source": "Corporate Culture",
+            "target": "Employee Satisfaction",
+            "weight": 0.8
+        },
+        {
+            "source": "Customer Orientation",
+            "target": "Market Orientation",
+            "weight": 0.85
+        },
+        {
+            "source": "Acquisition Strategy",
+            "target": "Market Expansion vs. Core Focus",
+            "weight": 0.75
+        },
+        {
+            "source": "Risk Management",
+            "target": "Crisis Management",
+            "weight": 0.7
+        },
+        {
+            "source": "Longitudinal Study",
+            "target": "Correlation vs. Causation",
+            "weight": 0.9
+        },
+        {
+            "source": "Performance Metrics",
+            "target": "Financial Performance",
+            "weight": 0.95
+        },
+        {
+            "source": "Executive Leadership",
+            "target": "Strategic Vision",
+            "weight": 0.9
+        },
+        {
+            "source": "Organizational Structure",
+            "target": "Operational Efficiency",
+            "weight": 0.8
+        },
+        {
+            "source": "Employee Satisfaction",
+            "target": "Financial Performance",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Orientation",
+            "target": "Customer Orientation",
+            "weight": 0.85
+        },
+        {
+            "source": "Social Responsibility",
+            "target": "Corporate Culture",
+            "weight": 0.75
+        },
+        {
+            "source": "Innovation",
+            "target": "Market Orientation",
+            "weight": 0.8
+        },
+        {
+            "source": "Leadership Styles",
+            "target": "Corporate Culture",
+            "weight": 0.85
+        },
+        {
+            "source": "Business Strategy",
+            "target": "Market Competitiveness",
+            "weight": 0.9
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Financial Performance",
+            "weight": 0.9
+        },
+        {
+            "source": "Stakeholder Engagement",
+            "target": "Social Responsibility",
+            "weight": 0.8
+        },
+        {
+            "source": "Crisis Management",
+            "target": "Reputation Management",
+            "weight": 0.85
+        },
+        {
+            "source": "Market Competitiveness",
+            "target": "Change Management",
+            "weight": 0.75
+        },
+        {
+            "source": "Business Ethics",
+            "target": "Corporate Culture",
+            "weight": 0.8
+        },
+        {
+            "source": "High Performance",
+            "target": "Visionary Companies",
+            "weight": 0.8
+        },
+        {
+            "source": "High Performance",
+            "target": "Market Competition",
+            "weight": 0.9
+        },
+        {
+            "source": "High Performance",
+            "target": "Financial Performance",
+            "weight": 0.9
+        },
+        {
+            "source": "Halo Effect",
+            "target": "Delusion of Rigorous Research",
+            "weight": 0.9
+        },
+        {
+            "source": "Halo Effect",
+            "target": "Delusion of Lasting Success",
+            "weight": 0.8
+        },
+        {
+            "source": "Regression to the Mean",
+            "target": "High Performance",
+            "weight": 0.85
+        },
+        {
+            "source": "Delusion of Lasting Success",
+            "target": "Long-Term Prosperity",
+            "weight": 0.7
+        },
+        {
+            "source": "Delusion of Absolute Performance",
+            "target": "Competitive Advantage",
+            "weight": 0.8
+        },
+        {
+            "source": "Strategic Choice",
+            "target": "Execution",
+            "weight": 0.9
+        },
+        {
+            "source": "Causal Ambiguity",
+            "target": "Strategic Choice",
+            "weight": 0.75
+        },
+        {
+            "source": "Causal Ambiguity",
+            "target": "Execution",
+            "weight": 0.75
+        },
+        {
+            "source": "Market Dynamics",
+            "target": "Competitive Advantage",
+            "weight": 0.85
+        },
+        {
+            "source": "Leadership",
+            "target": "Execution",
+            "weight": 0.8
+        },
+        {
+            "source": "Customer Focus",
+            "target": "High Performance",
+            "weight": 0.8
+        },
+        {
+            "source": "Management Practices",
+            "target": "Execution",
+            "weight": 0.85
+        },
+        {
+            "source": "Adaptability",
+            "target": "Strategic Choice",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "High Performance",
+            "weight": 0.75
+        },
+        {
+            "source": "Stakeholder Engagement",
+            "target": "High Performance",
+            "weight": 0.7
+        },
+        {
+            "source": "Performance Metrics",
+            "target": "Execution",
+            "weight": 0.8
+        },
+        {
+            "source": "Organizational Change",
+            "target": "Execution",
+            "weight": 0.75
+        },
+        {
+            "source": "Business Strategy",
+            "target": "High Performance",
+            "weight": 0.85
+        },
+        {
+            "source": "Delusion of Connecting the Winning Dots",
+            "target": "Delusion of Lasting Success",
+            "weight": 0.8
+        },
+        {
+            "source": "Crisis Management",
+            "target": "Execution",
+            "weight": 0.8
+        },
+        {
+            "source": "Learning Organization",
+            "target": "High Performance",
+            "weight": 0.75
+        }
+    ]
+}

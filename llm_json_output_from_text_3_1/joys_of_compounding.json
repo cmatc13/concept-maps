@@ -1,0 +1,970 @@
+{
+    "concepts": [
+        {
+            "name": "Lifelong Learning",
+            "description": "The continuous, self-motivated pursuit of knowledge for personal or professional development."
+        },
+        {
+            "name": "Self-Improvement",
+            "description": "The process of improving oneself through various means, including education, skill development, and personal growth."
+        },
+        {
+            "name": "Reading Habit",
+            "description": "The practice of regularly engaging with written material to enhance knowledge and understanding."
+        },
+        {
+            "name": "Vicarious Learning",
+            "description": "Learning that occurs through observing the experiences and actions of others rather than through direct experience."
+        },
+        {
+            "name": "Mental Models",
+            "description": "Frameworks for thinking that help individuals understand complex systems and make better decisions."
+        },
+        {
+            "name": "Compounding Knowledge",
+            "description": "The process of accumulating knowledge over time, leading to exponential growth in understanding and capability."
+        },
+        {
+            "name": "Opportunity Cost",
+            "description": "The loss of potential gain from other alternatives when one alternative is chosen."
+        },
+        {
+            "name": "First Principles Thinking",
+            "description": "A problem-solving approach that breaks down complex problems into their most fundamental parts."
+        },
+        {
+            "name": "Delayed Gratification",
+            "description": "The ability to resist the temptation for an immediate reward and wait for a later reward."
+        },
+        {
+            "name": "Circle of Competence",
+            "description": "The boundaries within which an individual or investor has a clear understanding and expertise."
+        },
+        {
+            "name": "Philanthropy",
+            "description": "The desire to promote the welfare of others, typically through the donation of money, resources, or time."
+        },
+        {
+            "name": "Financial Independence",
+            "description": "The state of having sufficient personal wealth to live, without having to actively work for basic necessities."
+        },
+        {
+            "name": "Simplicity",
+            "description": "The quality of being easy to understand or do; a principle that emphasizes clarity and minimalism in decision-making."
+        },
+        {
+            "name": "Checklists",
+            "description": "Tools used to ensure that important steps or considerations are not overlooked in decision-making processes."
+        },
+        {
+            "name": "Capital Stewardship",
+            "description": "The responsible management of capital and resources, ensuring they are used effectively to create value."
+        },
+        {
+            "name": "Cognitive Biases",
+            "description": "Systematic patterns of deviation from norm or rationality in judgment, affecting decision-making."
+        },
+        {
+            "name": "Emotional Intelligence",
+            "description": "The ability to recognize, understand, and manage our own emotions and the emotions of others."
+        },
+        {
+            "name": "Investment Philosophy",
+            "description": "A set of guiding principles that dictate an investor's approach to investing, including risk tolerance and asset allocation."
+        },
+        {
+            "name": "Long-Term Orientation",
+            "description": "A focus on long-term outcomes and sustainability rather than short-term gains."
+        },
+        {
+            "name": "Intellectual Humility",
+            "description": "The recognition of the limits of one's knowledge and the willingness to learn from others."
+        },
+        {
+            "name": "Behavioral Edge",
+            "description": "The advantage gained by understanding and managing one's own psychological biases in investing."
+        },
+        {
+            "name": "Patience",
+            "description": "The ability to endure delays or setbacks without becoming frustrated, essential for long-term investing success."
+        },
+        {
+            "name": "Resilience",
+            "description": "The ability to recover quickly from difficulties; toughness."
+        },
+        {
+            "name": "Networking",
+            "description": "The act of creating and nurturing professional relationships that can lead to mutual benefits and opportunities."
+        },
+        {
+            "name": "Curiosity",
+            "description": "A strong desire to know or learn something, which drives the pursuit of knowledge."
+        },
+        {
+            "name": "Critical Thinking",
+            "description": "The objective analysis and evaluation of an issue in order to form a judgment."
+        },
+        {
+            "name": "Self-Discipline",
+            "description": "The ability to control one's feelings and overcome one's weaknesses; the ability to pursue what one thinks is right despite temptations to abandon it."
+        },
+        {
+            "name": "Integrity",
+            "description": "The quality of being honest and having strong moral principles."
+        },
+        {
+            "name": "Trust",
+            "description": "A firm belief in the reliability, truth, ability, or strength of someone or something."
+        },
+        {
+            "name": "Karma",
+            "description": "The concept that actions have consequences that affect one's future, often in a moral context."
+        },
+        {
+            "name": "Mindfulness",
+            "description": "The practice of being aware and present in the moment, helping to reduce stress and improve decision-making."
+        },
+        {
+            "name": "Self-Awareness",
+            "description": "The conscious knowledge of one's own character, feelings, motives, and desires, crucial for personal and professional growth."
+        },
+        {
+            "name": "Vision",
+            "description": "The ability to think about or plan the future with imagination or wisdom."
+        },
+        {
+            "name": "Passion",
+            "description": "A strong feeling of enthusiasm or excitement for something or about doing something."
+        },
+        {
+            "name": "Depressed Market",
+            "description": "A market condition characterized by declining prices and negative investor sentiment, often leading to reduced economic activity."
+        },
+        {
+            "name": "Tax Payout Ratio",
+            "description": "The proportion of earnings that a company pays out as taxes, which should align closely with the standard corporate tax rate."
+        },
+        {
+            "name": "Net Profit Margin",
+            "description": "A measure of profitability calculated as net income divided by revenue, indicating how much profit a company makes for every dollar of sales."
+        },
+        {
+            "name": "Cash Flow Analysis",
+            "description": "The evaluation of cash inflows and outflows to assess a company's financial health and operational efficiency."
+        },
+        {
+            "name": "Cash Flow from Operating Activity (CFO)",
+            "description": "The cash generated from a company's normal business operations, indicating its ability to generate sufficient cash to maintain and grow operations."
+        },
+        {
+            "name": "Capital Expenditure (CapEx)",
+            "description": "Funds used by a company to acquire, upgrade, and maintain physical assets such as property, industrial buildings, or equipment."
+        },
+        {
+            "name": "Total Debt",
+            "description": "The sum of all debts a company owes, which can indicate financial risk if excessively high relative to equity."
+        },
+        {
+            "name": "Cash Balances",
+            "description": "The amount of cash a company has on hand, which can be a sign of financial health or potential inefficiency if excessively high without dividends."
+        },
+        {
+            "name": "Free Cash Flow (FCF)",
+            "description": "The cash generated by a company that is available for distribution to investors after maintaining or expanding its asset base."
+        },
+        {
+            "name": "Return Ratios Analysis",
+            "description": "The evaluation of various ratios that measure a company's ability to generate returns on its investments."
+        },
+        {
+            "name": "Self-Sustainable Growth Rate (SSGR)",
+            "description": "The maximum growth rate a company can achieve without external financing, based solely on its internal resources."
+        },
+        {
+            "name": "Profit Before Tax/Average Net Fixed Assets",
+            "description": "A ratio that measures a company's profitability relative to its fixed asset base, indicating efficiency in utilizing its assets."
+        },
+        {
+            "name": "Pretax Return on Tangible Equity",
+            "description": "A measure of profitability that reflects the return generated on tangible equity before tax expenses."
+        },
+        {
+            "name": "Return on Capital Employed (ROCE)",
+            "description": "A financial ratio that measures a company's profitability and the efficiency with which its capital is employed."
+        },
+        {
+            "name": "Operating Efficiency Analysis",
+            "description": "The assessment of how effectively a company utilizes its resources to generate revenue and profit."
+        },
+        {
+            "name": "Net Fixed Asset Turnover Ratio",
+            "description": "A measure of how efficiently a company uses its fixed assets to generate sales."
+        },
+        {
+            "name": "Receivables Days",
+            "description": "The average number of days it takes for a company to collect payment after a sale, indicating efficiency in managing receivables."
+        },
+        {
+            "name": "Inventory Turnover Ratio",
+            "description": "A measure of how many times a company's inventory is sold and replaced over a period, indicating inventory management efficiency."
+        },
+        {
+            "name": "Balance Sheet Analysis",
+            "description": "The evaluation of a company's financial position by analyzing its assets, liabilities, and equity."
+        },
+        {
+            "name": "Capital Work in Progress",
+            "description": "An accounting term referring to the costs incurred for assets that are not yet completed and ready for use."
+        },
+        {
+            "name": "Debt-to-Equity Ratio",
+            "description": "A financial ratio that compares a company's total debt to its shareholder equity, indicating the relative proportion of debt used to finance assets."
+        },
+        {
+            "name": "Management Analysis",
+            "description": "The evaluation of a company's management team, including their qualifications, track record, and governance practices."
+        },
+        {
+            "name": "Munger's Psychological Checklist",
+            "description": "A set of cognitive biases and psychological factors that can affect decision-making and judgment in investing."
+        },
+        {
+            "name": "Bias from Mere Association",
+            "description": "A cognitive bias where individuals form opinions based on associations with positive or negative stimuli."
+        },
+        {
+            "name": "Underestimating the Power of Rewards and Punishment",
+            "description": "A cognitive bias where individuals fail to recognize how incentives influence behavior and decision-making."
+        },
+        {
+            "name": "Self-Serving Bias",
+            "description": "The tendency to attribute positive outcomes to one's own actions while blaming external factors for negative outcomes."
+        },
+        {
+            "name": "Self-Deception and Denial",
+            "description": "The psychological defense mechanism where individuals distort reality to avoid uncomfortable truths."
+        },
+        {
+            "name": "Bias from Consistency and Commitment Tendency",
+            "description": "The tendency to remain consistent with prior commitments and beliefs, even in the face of contradictory evidence."
+        },
+        {
+            "name": "Sunk Cost Fallacy",
+            "description": "The tendency to continue an endeavor once an investment in money, effort, or time has been made, regardless of future costs."
+        },
+        {
+            "name": "Cognitive Dissonance",
+            "description": "The mental discomfort experienced when holding two or more contradictory beliefs or values."
+        },
+        {
+            "name": "Premortem Analysis",
+            "description": "A technique where potential failures of a decision are anticipated and analyzed before the decision is made."
+        },
+        {
+            "name": "Intrinsic Value",
+            "description": "The perceived or calculated true value of an asset, based on fundamental analysis rather than market price."
+        },
+        {
+            "name": "Market Efficiency",
+            "description": "The theory that asset prices reflect all available information, making it impossible to consistently achieve higher returns than the market average."
+        },
+        {
+            "name": "Portfolio Management",
+            "description": "The process of selecting and managing a group of investments to achieve specific financial goals."
+        },
+        {
+            "name": "Individual Position Sizing",
+            "description": "The strategy of determining the amount of capital to allocate to a specific investment based on its risk and potential return."
+        },
+        {
+            "name": "Compounding",
+            "description": "The process of generating returns on an asset's reinvested earnings, leading to exponential growth over time."
+        },
+        {
+            "name": "Focus",
+            "description": "The concentration on a specific investment strategy or niche, allowing for deeper understanding and expertise."
+        },
+        {
+            "name": "Value Investing",
+            "description": "An investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value."
+        },
+        {
+            "name": "Risk Management",
+            "description": "The process of identifying, assessing, and controlling threats to an organization's capital and earnings."
+        },
+        {
+            "name": "Liquidity",
+            "description": "The availability of liquid assets to a market or company, essential for meeting short-term obligations."
+        },
+        {
+            "name": "Leverage",
+            "description": "The use of borrowed capital to increase the potential return of an investment, which can also amplify losses."
+        },
+        {
+            "name": "Time Horizon",
+            "description": "The period over which an investment is expected to be held before it is liquidated."
+        },
+        {
+            "name": "Diversification",
+            "description": "The practice of spreading investments across various financial instruments, industries, and other categories to reduce risk."
+        },
+        {
+            "name": "Black Swan Events",
+            "description": "Unpredictable events that have severe consequences, often rationalized in hindsight."
+        },
+        {
+            "name": "Behavioral Finance",
+            "description": "A field of study that examines the psychological influences on investors and financial markets."
+        },
+        {
+            "name": "Market Timing",
+            "description": "The strategy of making buy or sell decisions of financial assets by predicting future market price movements."
+        },
+        {
+            "name": "Emotional Discipline",
+            "description": "The ability to maintain a rational mindset and avoid emotional decision-making in investing."
+        },
+        {
+            "name": "Quality of Business",
+            "description": "A measure of a company's ability to generate sustainable profits and maintain competitive advantages."
+        },
+        {
+            "name": "Long-Term Thinking",
+            "description": "The practice of considering the long-term consequences of decisions rather than focusing solely on short-term results."
+        },
+        {
+            "name": "Learning from Mistakes",
+            "description": "The process of reflecting on errors to gain insights and improve future decision-making."
+        },
+        {
+            "name": "Serendipity",
+            "description": "The occurrence of events by chance in a happy or beneficial way, often as a result of building relationships."
+        },
+        {
+            "name": "Goodwill",
+            "description": "An intangible asset that represents the value of a company's brand, customer relationships, and other non-physical assets."
+        },
+        {
+            "name": "Incremental Improvement",
+            "description": "The process of making small, gradual changes to enhance performance or outcomes over time."
+        },
+        {
+            "name": "Frugality",
+            "description": "The quality of being economical with resources, particularly money, and avoiding waste."
+        },
+        {
+            "name": "Intellectual Curiosity",
+            "description": "A desire to learn and understand more about various subjects, fostering continuous personal and professional growth."
+        },
+        {
+            "name": "Stress Management",
+            "description": "Techniques and strategies to control a person's level of stress, particularly in high-pressure situations."
+        },
+        {
+            "name": "Market Psychology",
+            "description": "The study of how psychological factors influence the behavior of investors and the functioning of financial markets."
+        },
+        {
+            "name": "Patience in Investing",
+            "description": "The ability to wait for the right opportunities and allow investments to grow over time without panic selling."
+        },
+        {
+            "name": "Continuous Learning",
+            "description": "The ongoing, voluntary, and self-motivated pursuit of knowledge for personal or professional development."
+        },
+        {
+            "name": "Risk-Reward Ratio",
+            "description": "A measure used by investors to compare the expected returns of an investment to the amount of risk undertaken."
+        },
+        {
+            "name": "Compounding Goodwill",
+            "description": "The process of building positive relationships and goodwill over time, leading to unexpected opportunities and benefits."
+        },
+        {
+            "name": "Long-term Thinking",
+            "description": "The practice of considering the long-term consequences of actions and decisions rather than focusing solely on immediate results."
+        },
+        {
+            "name": "Perseverance",
+            "description": "The continued effort to do or achieve something despite difficulties or delay in achieving success."
+        },
+        {
+            "name": "Genuine Connection",
+            "description": "The establishment of sincere and authentic relationships with others, characterized by mutual respect and understanding."
+        },
+        {
+            "name": "Inner Scorecard",
+            "description": "A personal measure of success based on one's own values and standards rather than external benchmarks."
+        },
+        {
+            "name": "Consistent Effort",
+            "description": "The practice of regularly putting in effort towards a goal, even when immediate results are not visible."
+        },
+        {
+            "name": "Value Creation",
+            "description": "The process of generating worth or usefulness through actions, relationships, or products over time."
+        },
+        {
+            "name": "Humility",
+            "description": "The quality of being humble and recognizing one's limitations, which fosters better relationships with others."
+        },
+        {
+            "name": "Credit Giving",
+            "description": "The act of acknowledging and appreciating the contributions of others in one's success or achievements."
+        },
+        {
+            "name": "Personal Development",
+            "description": "The ongoing process of self-improvement in various aspects of life, including skills, knowledge, and character."
+        },
+        {
+            "name": "Mindset",
+            "description": "The established set of attitudes held by an individual that influences their behavior and approach to challenges."
+        },
+        {
+            "name": "Actionable Habits",
+            "description": "Regular practices that lead to the achievement of goals and the development of positive traits over time."
+        },
+        {
+            "name": "Destiny",
+            "description": "The predetermined course of events often shaped by one's beliefs, thoughts, actions, and habits."
+        },
+        {
+            "name": "Relationship Building",
+            "description": "The process of creating and maintaining connections with others for personal and professional growth."
+        },
+        {
+            "name": "Motivation",
+            "description": "The internal drive that prompts individuals to take action towards achieving their goals."
+        },
+        {
+            "name": "Learning",
+            "description": "The acquisition of knowledge or skills through experience, study, or teaching, which contributes to personal growth."
+        },
+        {
+            "name": "Self-Comparison",
+            "description": "The act of evaluating oneself against personal standards rather than comparing oneself to others."
+        },
+        {
+            "name": "Joyful Opportunities",
+            "description": "Positive and unexpected chances that arise from strong relationships and goodwill."
+        },
+        {
+            "name": "Handwritten Notes",
+            "description": "Personalized written messages that can foster connection and appreciation in relationships."
+        },
+        {
+            "name": "Building Relationships Post-School",
+            "description": "The importance of continuing to develop connections beyond formal education and major life events."
+        },
+        {
+            "name": "Focus on Process",
+            "description": "The emphasis on enjoying and valuing the journey towards achieving goals rather than fixating on the end results."
+        },
+        {
+            "name": "Mahatma Gandhi's Philosophy",
+            "description": "The belief that small actions and thoughts can lead to significant changes in one's life and destiny."
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Lifelong Learning",
+            "target": "Self-Improvement",
+            "weight": 0.9
+        },
+        {
+            "source": "Reading Habit",
+            "target": "Lifelong Learning",
+            "weight": 0.8
+        },
+        {
+            "source": "Vicarious Learning",
+            "target": "Lifelong Learning",
+            "weight": 0.7
+        },
+        {
+            "source": "Mental Models",
+            "target": "Critical Thinking",
+            "weight": 0.8
+        },
+        {
+            "source": "Compounding Knowledge",
+            "target": "Lifelong Learning",
+            "weight": 0.9
+        },
+        {
+            "source": "Opportunity Cost",
+            "target": "First Principles Thinking",
+            "weight": 0.7
+        },
+        {
+            "source": "Delayed Gratification",
+            "target": "Self-Discipline",
+            "weight": 0.8
+        },
+        {
+            "source": "Circle of Competence",
+            "target": "Self-Awareness",
+            "weight": 0.8
+        },
+        {
+            "source": "Philanthropy",
+            "target": "Karma",
+            "weight": 0.9
+        },
+        {
+            "source": "Financial Independence",
+            "target": "Self-Discipline",
+            "weight": 0.8
+        },
+        {
+            "source": "Simplicity",
+            "target": "Critical Thinking",
+            "weight": 0.7
+        },
+        {
+            "source": "Checklists",
+            "target": "Critical Thinking",
+            "weight": 0.8
+        },
+        {
+            "source": "Capital Stewardship",
+            "target": "Integrity",
+            "weight": 0.9
+        },
+        {
+            "source": "Cognitive Biases",
+            "target": "Emotional Intelligence",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Long-Term Orientation",
+            "weight": 0.9
+        },
+        {
+            "source": "Intellectual Humility",
+            "target": "Self-Awareness",
+            "weight": 0.9
+        },
+        {
+            "source": "Behavioral Edge",
+            "target": "Emotional Intelligence",
+            "weight": 0.8
+        },
+        {
+            "source": "Patience",
+            "target": "Resilience",
+            "weight": 0.8
+        },
+        {
+            "source": "Networking",
+            "target": "Self-Improvement",
+            "weight": 0.7
+        },
+        {
+            "source": "Curiosity",
+            "target": "Lifelong Learning",
+            "weight": 0.9
+        },
+        {
+            "source": "Critical Thinking",
+            "target": "Self-Discipline",
+            "weight": 0.8
+        },
+        {
+            "source": "Self-Discipline",
+            "target": "Delayed Gratification",
+            "weight": 0.9
+        },
+        {
+            "source": "Integrity",
+            "target": "Trust",
+            "weight": 0.9
+        },
+        {
+            "source": "Karma",
+            "target": "Philanthropy",
+            "weight": 0.9
+        },
+        {
+            "source": "Mindfulness",
+            "target": "Self-Awareness",
+            "weight": 0.8
+        },
+        {
+            "source": "Vision",
+            "target": "Passion",
+            "weight": 0.8
+        },
+        {
+            "source": "Depressed Market",
+            "target": "Tax Payout Ratio",
+            "weight": 0.6
+        },
+        {
+            "source": "Tax Payout Ratio",
+            "target": "Net Profit Margin",
+            "weight": 0.5
+        },
+        {
+            "source": "Net Profit Margin",
+            "target": "Cash Flow Analysis",
+            "weight": 0.7
+        },
+        {
+            "source": "Cash Flow Analysis",
+            "target": "Cash Flow from Operating Activity (CFO)",
+            "weight": 0.8
+        },
+        {
+            "source": "Cash Flow from Operating Activity (CFO)",
+            "target": "Free Cash Flow (FCF)",
+            "weight": 0.9
+        },
+        {
+            "source": "Free Cash Flow (FCF)",
+            "target": "Return Ratios Analysis",
+            "weight": 0.8
+        },
+        {
+            "source": "Return Ratios Analysis",
+            "target": "Self-Sustainable Growth Rate (SSGR)",
+            "weight": 0.7
+        },
+        {
+            "source": "Self-Sustainable Growth Rate (SSGR)",
+            "target": "Pretax Return on Tangible Equity",
+            "weight": 0.6
+        },
+        {
+            "source": "Pretax Return on Tangible Equity",
+            "target": "Return on Capital Employed (ROCE)",
+            "weight": 0.7
+        },
+        {
+            "source": "Return on Capital Employed (ROCE)",
+            "target": "Operating Efficiency Analysis",
+            "weight": 0.5
+        },
+        {
+            "source": "Operating Efficiency Analysis",
+            "target": "Net Fixed Asset Turnover Ratio",
+            "weight": 0.6
+        },
+        {
+            "source": "Net Fixed Asset Turnover Ratio",
+            "target": "Inventory Turnover Ratio",
+            "weight": 0.5
+        },
+        {
+            "source": "Balance Sheet Analysis",
+            "target": "Debt-to-Equity Ratio",
+            "weight": 0.7
+        },
+        {
+            "source": "Management Analysis",
+            "target": "Munger's Psychological Checklist",
+            "weight": 0.8
+        },
+        {
+            "source": "Munger's Psychological Checklist",
+            "target": "Bias from Mere Association",
+            "weight": 0.6
+        },
+        {
+            "source": "Bias from Mere Association",
+            "target": "Self-Deception and Denial",
+            "weight": 0.5
+        },
+        {
+            "source": "Self-Deception and Denial",
+            "target": "Cognitive Dissonance",
+            "weight": 0.7
+        },
+        {
+            "source": "Premortem Analysis",
+            "target": "Intrinsic Value",
+            "weight": 0.6
+        },
+        {
+            "source": "Market Efficiency",
+            "target": "Portfolio Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Portfolio Management",
+            "target": "Individual Position Sizing",
+            "weight": 0.9
+        },
+        {
+            "source": "Individual Position Sizing",
+            "target": "Cash Flow Analysis",
+            "weight": 0.5
+        },
+        {
+            "source": "Compounding",
+            "target": "Investment Philosophy",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Patience",
+            "weight": 0.8
+        },
+        {
+            "source": "Patience",
+            "target": "Focus",
+            "weight": 0.7
+        },
+        {
+            "source": "Focus",
+            "target": "Value Investing",
+            "weight": 0.8
+        },
+        {
+            "source": "Value Investing",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Liquidity",
+            "target": "Risk Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Leverage",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Time Horizon",
+            "target": "Risk Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Opportunity Cost",
+            "target": "Investment Philosophy",
+            "weight": 0.9
+        },
+        {
+            "source": "Mental Models",
+            "target": "Investment Philosophy",
+            "weight": 0.8
+        },
+        {
+            "source": "Diversification",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Black Swan Events",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Behavioral Finance",
+            "target": "Cognitive Biases",
+            "weight": 0.9
+        },
+        {
+            "source": "Cognitive Biases",
+            "target": "Emotional Discipline",
+            "weight": 0.8
+        },
+        {
+            "source": "Quality of Business",
+            "target": "Value Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Long-Term Thinking",
+            "target": "Investment Philosophy",
+            "weight": 0.9
+        },
+        {
+            "source": "Self-Awareness",
+            "target": "Emotional Discipline",
+            "weight": 0.8
+        },
+        {
+            "source": "Learning from Mistakes",
+            "target": "Self-Awareness",
+            "weight": 0.9
+        },
+        {
+            "source": "Serendipity",
+            "target": "Opportunity Cost",
+            "weight": 0.7
+        },
+        {
+            "source": "Goodwill",
+            "target": "Quality of Business",
+            "weight": 0.8
+        },
+        {
+            "source": "Incremental Improvement",
+            "target": "Continuous Learning",
+            "weight": 0.9
+        },
+        {
+            "source": "Sunk Cost Fallacy",
+            "target": "Emotional Discipline",
+            "weight": 0.8
+        },
+        {
+            "source": "Frugality",
+            "target": "Investment Philosophy",
+            "weight": 0.8
+        },
+        {
+            "source": "Intellectual Curiosity",
+            "target": "Continuous Learning",
+            "weight": 0.9
+        },
+        {
+            "source": "Stress Management",
+            "target": "Emotional Discipline",
+            "weight": 0.8
+        },
+        {
+            "source": "Mindfulness",
+            "target": "Stress Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Networking",
+            "target": "Opportunity Cost",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Psychology",
+            "target": "Behavioral Finance",
+            "weight": 0.9
+        },
+        {
+            "source": "Patience in Investing",
+            "target": "Long-Term Thinking",
+            "weight": 0.9
+        },
+        {
+            "source": "Financial Independence",
+            "target": "Investment Philosophy",
+            "weight": 0.8
+        },
+        {
+            "source": "Continuous Learning",
+            "target": "Intellectual Curiosity",
+            "weight": 0.9
+        },
+        {
+            "source": "Risk-Reward Ratio",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Compounding Goodwill",
+            "target": "Networking",
+            "weight": 0.9
+        },
+        {
+            "source": "Networking",
+            "target": "Genuine Connection",
+            "weight": 0.85
+        },
+        {
+            "source": "Long-term Thinking",
+            "target": "Consistent Effort",
+            "weight": 0.8
+        },
+        {
+            "source": "Perseverance",
+            "target": "Consistent Effort",
+            "weight": 0.75
+        },
+        {
+            "source": "Serendipity",
+            "target": "Genuine Connection",
+            "weight": 0.7
+        },
+        {
+            "source": "Inner Scorecard",
+            "target": "Self-Comparison",
+            "weight": 0.8
+        },
+        {
+            "source": "Value Creation",
+            "target": "Consistent Effort",
+            "weight": 0.7
+        },
+        {
+            "source": "Humility",
+            "target": "Genuine Connection",
+            "weight": 0.9
+        },
+        {
+            "source": "Credit Giving",
+            "target": "Genuine Connection",
+            "weight": 0.8
+        },
+        {
+            "source": "Personal Development",
+            "target": "Learning",
+            "weight": 0.85
+        },
+        {
+            "source": "Mindset",
+            "target": "Personal Development",
+            "weight": 0.8
+        },
+        {
+            "source": "Actionable Habits",
+            "target": "Consistent Effort",
+            "weight": 0.75
+        },
+        {
+            "source": "Destiny",
+            "target": "Actionable Habits",
+            "weight": 0.7
+        },
+        {
+            "source": "Relationship Building",
+            "target": "Networking",
+            "weight": 0.9
+        },
+        {
+            "source": "Motivation",
+            "target": "Consistent Effort",
+            "weight": 0.75
+        },
+        {
+            "source": "Self-Comparison",
+            "target": "Personal Development",
+            "weight": 0.7
+        },
+        {
+            "source": "Joyful Opportunities",
+            "target": "Compounding Goodwill",
+            "weight": 0.8
+        },
+        {
+            "source": "Handwritten Notes",
+            "target": "Genuine Connection",
+            "weight": 0.65
+        },
+        {
+            "source": "Building Relationships Post-School",
+            "target": "Networking",
+            "weight": 0.75
+        },
+        {
+            "source": "Focus on Process",
+            "target": "Long-term Thinking",
+            "weight": 0.85
+        },
+        {
+            "source": "Mahatma Gandhi's Philosophy",
+            "target": "Destiny",
+            "weight": 0.9
+        }
+    ]
+}

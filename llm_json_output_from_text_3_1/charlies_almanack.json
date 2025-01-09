@@ -1,0 +1,658 @@
+{
+    "concepts": [
+        {
+            "name": "Charlie Munger",
+            "description": "An American investor, businessman, and philanthropist, known for his partnership with Warren Buffett at Berkshire Hathaway and his multi-disciplinary approach to investing."
+        },
+        {
+            "name": "Warren Buffett",
+            "description": "An American business magnate, investor, and philanthropist, widely regarded as one of the most successful investors of all time, known for his value investing strategy."
+        },
+        {
+            "name": "Berkshire Hathaway",
+            "description": "A multinational conglomerate holding company led by Warren Buffett and Charlie Munger, known for its diverse range of owned businesses and investments."
+        },
+        {
+            "name": "Investment Philosophy",
+            "description": "A set of principles guiding investment decisions, emphasizing value investing, long-term holding, and a focus on understanding businesses."
+        },
+        {
+            "name": "Value Investing",
+            "description": "An investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value."
+        },
+        {
+            "name": "Mental Models",
+            "description": "Conceptual frameworks used to understand complex systems and make decisions, drawing from various disciplines such as psychology, economics, and engineering."
+        },
+        {
+            "name": "Multi-disciplinary Approach",
+            "description": "A method of problem-solving that integrates knowledge and techniques from multiple academic disciplines to gain a comprehensive understanding."
+        },
+        {
+            "name": "Intrinsic Value",
+            "description": "The perceived or calculated value of an asset, based on fundamental analysis without regard to its market value."
+        },
+        {
+            "name": "Margin of Safety",
+            "description": "A principle of investing that aims to minimize risk by purchasing securities at a price significantly below their intrinsic value."
+        },
+        {
+            "name": "Psychological Factors",
+            "description": "Cognitive biases and emotional influences that affect decision-making and behavior in investing and business."
+        },
+        {
+            "name": "Cognitive Bias",
+            "description": "Systematic patterns of deviation from norm or rationality in judgment, affecting how people perceive and interpret information."
+        },
+        {
+            "name": "Lollapalooza Effect",
+            "description": "The phenomenon where multiple psychological tendencies combine to produce extreme outcomes."
+        },
+        {
+            "name": "Decision Trees",
+            "description": "A graphical representation of decisions and their possible consequences, used to aid in decision-making processes."
+        },
+        {
+            "name": "Compound Interest",
+            "description": "The interest on a loan or deposit calculated based on both the initial principal and the accumulated interest from previous periods."
+        },
+        {
+            "name": "Competitive Advantage",
+            "description": "The attributes that allow an organization to outperform its competitors, such as brand loyalty, cost structure, or unique product offerings."
+        },
+        {
+            "name": "Moat",
+            "description": "A term used to describe a company's competitive advantage that protects it from competitors, similar to a moat around a castle."
+        },
+        {
+            "name": "Behavioral Economics",
+            "description": "A field of economics that examines the psychological factors influencing the economic decisions of individuals and institutions."
+        },
+        {
+            "name": "Market Efficiency",
+            "description": "The hypothesis that asset prices reflect all available information, making it impossible to consistently achieve higher returns than the overall market."
+        },
+        {
+            "name": "Risk Management",
+            "description": "The identification, assessment, and prioritization of risks followed by coordinated efforts to minimize, monitor, and control the probability or impact of unfortunate events."
+        },
+        {
+            "name": "Ethical Investing",
+            "description": "An investment strategy that considers both financial return and social/environmental good, aligning investments with personal values."
+        },
+        {
+            "name": "Long-term Investing",
+            "description": "An investment strategy focused on holding assets for an extended period, allowing for growth and compounding returns."
+        },
+        {
+            "name": "Financial Independence",
+            "description": "The state of having sufficient personal wealth to live without having to work actively for basic necessities."
+        },
+        {
+            "name": "Philanthropy",
+            "description": "The desire to promote the welfare of others, typically through the donation of money, resources, or time to charitable causes."
+        },
+        {
+            "name": "Legacy",
+            "description": "Something handed down by a predecessor, often referring to the impact one leaves on future generations."
+        },
+        {
+            "name": "Education and Learning",
+            "description": "The process of acquiring knowledge, skills, values, and habits through various forms of instruction and experience."
+        },
+        {
+            "name": "Social Proof",
+            "description": "A psychological phenomenon where people assume the actions of others in an attempt to reflect correct behavior for a given situation."
+        },
+        {
+            "name": "Operational Efficiency",
+            "description": "The ability of an organization to deliver products or services to its customers in the most cost-effective manner without sacrificing quality."
+        },
+        {
+            "name": "Entrepreneurship",
+            "description": "The process of starting and operating one's own business, often involving risk and innovation."
+        },
+        {
+            "name": "Networking",
+            "description": "The act of interacting with others to exchange information and develop professional or social contacts."
+        },
+        {
+            "name": "Pro Bono Work",
+            "description": "Professional work undertaken voluntarily and without payment, often for the public good."
+        },
+        {
+            "name": "Inversion",
+            "description": "The practice of thinking about problems in reverse to gain new insights and solutions."
+        },
+        {
+            "name": "Reward and Punishment Superresponse Tendency",
+            "description": "The tendency of humans to respond strongly to incentives and disincentives."
+        },
+        {
+            "name": "Liking and Loving Tendency",
+            "description": "The innate tendency to develop affection for those who are kind or beneficial."
+        },
+        {
+            "name": "Disliking and Hating Tendency",
+            "description": "The innate tendency to develop aversion towards those who are harmful or unkind."
+        },
+        {
+            "name": "Doubt Avoidance Tendency",
+            "description": "The tendency to quickly eliminate doubt by making decisions, often leading to errors."
+        },
+        {
+            "name": "Inconsistency Avoidance Tendency",
+            "description": "The psychological tendency to avoid cognitive dissonance by aligning beliefs and actions, often leading individuals to rationalize their behaviors to maintain a consistent self-image."
+        },
+        {
+            "name": "Curiosity Tendency",
+            "description": "The innate drive to seek out new information and experiences, which enhances learning and knowledge acquisition."
+        },
+        {
+            "name": "Social Proof Tendency",
+            "description": "The inclination to conform to the actions and beliefs of others, especially in uncertain situations, as a means of social validation."
+        },
+        {
+            "name": "Confirmation Bias",
+            "description": "The tendency to search for, interpret, and remember information in a way that confirms one's pre-existing beliefs."
+        },
+        {
+            "name": "Self-Serving Bias",
+            "description": "The habit of attributing positive events to one's own character but attributing negative events to external factors."
+        },
+        {
+            "name": "Availability Heuristic",
+            "description": "The tendency to overestimate the likelihood of events based on their availability in memory."
+        },
+        {
+            "name": "Contrast Misreaction Tendency",
+            "description": "The tendency to misjudge situations based on relative comparisons rather than absolute measures, often leading to poor decision-making."
+        },
+        {
+            "name": "Stress Influence Tendency",
+            "description": "The impact of stress on cognitive functioning and decision-making, often leading to impaired judgment and increased emotional responses."
+        },
+        {
+            "name": "Authority Misinfluence Tendency",
+            "description": "The tendency to comply with directives from authority figures, even when such directives may lead to harmful outcomes."
+        },
+        {
+            "name": "Twaddle Tendency",
+            "description": "The propensity for individuals to engage in trivial or irrelevant conversation, which can detract from meaningful discourse."
+        },
+        {
+            "name": "Reason-Respecting Tendency",
+            "description": "The tendency to comply with requests when they are accompanied by a rationale."
+        },
+        {
+            "name": "Influence from Mere Association Tendency",
+            "description": "The tendency to form judgments based on associations rather than objective analysis."
+        },
+        {
+            "name": "Deprival Superreaction Syndrome",
+            "description": "The extreme emotional reaction that occurs when something is taken away or denied."
+        },
+        {
+            "name": "Overoptimism Tendency",
+            "description": "The inclination to overestimate the likelihood of positive outcomes while underestimating the risks of negative events."
+        },
+        {
+            "name": "Envy and Jealousy Tendency",
+            "description": "The inclination to feel resentment towards others' advantages or successes."
+        },
+        {
+            "name": "Reciprocation Tendency",
+            "description": "The automatic human inclination to respond to positive actions with positive actions and negative actions with negative actions, facilitating social cooperation."
+        },
+        {
+            "name": "Use It or Lose It Tendency",
+            "description": "The principle that skills and knowledge deteriorate without regular practice, emphasizing the need for continuous engagement."
+        },
+        {
+            "name": "Drug Misinfluence Tendency",
+            "description": "The impact of drugs on perception and decision-making."
+        },
+        {
+            "name": "Senescence Misinfluence Tendency",
+            "description": "The cognitive decline associated with aging."
+        },
+        {
+            "name": "Availability Misweighing Tendency",
+            "description": "The cognitive bias where individuals overestimate the importance of information that is readily available or recent in their memory."
+        },
+        {
+            "name": "Lollapalooza Tendency",
+            "description": "The phenomenon where multiple psychological tendencies converge to produce extreme outcomes, often seen in high-stakes situations."
+        },
+        {
+            "name": "Kantian Fairness Tendency",
+            "description": "The moral principle that emphasizes fairness and justice, suggesting that individuals expect equitable treatment and act accordingly."
+        },
+        {
+            "name": "Envy Jealousy Tendency",
+            "description": "The emotional response triggered by the perceived advantages of others, often leading to resentment and conflict."
+        },
+        {
+            "name": "Excessive Self-Regard Tendency",
+            "description": "The tendency for individuals to overestimate their abilities and worth, leading to biased self-assessments."
+        },
+        {
+            "name": "Deprival Superreaction Tendency",
+            "description": "The psychological response where individuals experience greater distress from losses than pleasure from equivalent gains, often leading to irrational decision-making."
+        },
+        {
+            "name": "Mere Association Tendency",
+            "description": "The psychological effect where individuals form judgments based on associations, often leading to biased perceptions and decisions."
+        },
+        {
+            "name": "Reason Respecting Tendency",
+            "description": "The inclination to comply with requests when they are accompanied by reasons, regardless of the validity of those reasons."
+        },
+        {
+            "name": "Psychological Denial",
+            "description": "The defense mechanism where individuals refuse to accept reality or facts that are unpleasant or distressing."
+        },
+        {
+            "name": "Cognitive Dissonance",
+            "description": "The mental discomfort experienced when holding two or more contradictory beliefs, leading to an alteration in one of the beliefs or behaviors."
+        },
+        {
+            "name": "Groupthink",
+            "description": "The practice of thinking or making decisions as a group, often leading to irrational or dysfunctional outcomes due to a desire for harmony."
+        },
+        {
+            "name": "Persian Messenger Syndrome",
+            "description": "The phenomenon where individuals who deliver bad news are met with hostility or punishment, discouraging honest communication."
+        },
+        {
+            "name": "Status Quo Bias",
+            "description": "The preference for the current state of affairs, leading individuals to resist change even when it may be beneficial."
+        },
+        {
+            "name": "Reward Superresponse Tendency",
+            "description": "The tendency for individuals to react disproportionately to rewards, often leading to irrational decision-making."
+        },
+        {
+            "name": "Cognitive Load",
+            "description": "The total amount of mental effort being used in the working memory, which can affect decision-making and problem-solving abilities."
+        },
+        {
+            "name": "Anchoring Effect",
+            "description": "The cognitive bias where individuals rely too heavily on the first piece of information encountered when making decisions."
+        },
+        {
+            "name": "Sunk Cost Fallacy",
+            "description": "The tendency to continue an endeavor once an investment in money, effort, or time has been made, regardless of future outcomes."
+        },
+        {
+            "name": "Framing Effect",
+            "description": "The cognitive bias where people react differently depending on how information is presented, rather than just on the information itself."
+        },
+        {
+            "name": "Hindsight Bias",
+            "description": "The inclination to see events as having been predictable after they have already occurred, often leading to overconfidence in one's ability to predict outcomes."
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Charlie Munger",
+            "target": "Warren Buffett",
+            "weight": 0.9
+        },
+        {
+            "source": "Warren Buffett",
+            "target": "Berkshire Hathaway",
+            "weight": 0.8
+        },
+        {
+            "source": "Charlie Munger",
+            "target": "Berkshire Hathaway",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Value Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Mental Models",
+            "target": "Multi-disciplinary Approach",
+            "weight": 0.85
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Margin of Safety",
+            "weight": 0.9
+        },
+        {
+            "source": "Psychological Factors",
+            "target": "Cognitive Bias",
+            "weight": 0.8
+        },
+        {
+            "source": "Cognitive Bias",
+            "target": "Behavioral Economics",
+            "weight": 0.75
+        },
+        {
+            "source": "Lollapalooza Effect",
+            "target": "Decision Trees",
+            "weight": 0.7
+        },
+        {
+            "source": "Compound Interest",
+            "target": "Financial Independence",
+            "weight": 0.85
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Moat",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Efficiency",
+            "target": "Risk Management",
+            "weight": 0.75
+        },
+        {
+            "source": "Ethical Investing",
+            "target": "Philanthropy",
+            "weight": 0.7
+        },
+        {
+            "source": "Long-term Investing",
+            "target": "Financial Independence",
+            "weight": 0.8
+        },
+        {
+            "source": "Legacy",
+            "target": "Philanthropy",
+            "weight": 0.75
+        },
+        {
+            "source": "Education and Learning",
+            "target": "Networking",
+            "weight": 0.7
+        },
+        {
+            "source": "Pro Bono Work",
+            "target": "Philanthropy",
+            "weight": 0.8
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Entrepreneurship",
+            "weight": 0.75
+        },
+        {
+            "source": "Social Proof",
+            "target": "Psychological Factors",
+            "weight": 0.8
+        },
+        {
+            "source": "Charlie Munger",
+            "target": "Investment Philosophy",
+            "weight": 0.9
+        },
+        {
+            "source": "Warren Buffett",
+            "target": "Investment Philosophy",
+            "weight": 0.9
+        },
+        {
+            "source": "Inversion",
+            "target": "Lollapalooza Effect",
+            "weight": 0.8
+        },
+        {
+            "source": "Reward and Punishment Superresponse Tendency",
+            "target": "Incentive Caused Bias",
+            "weight": 0.9
+        },
+        {
+            "source": "Liking and Loving Tendency",
+            "target": "Disliking and Hating Tendency",
+            "weight": 0.8
+        },
+        {
+            "source": "Doubt Avoidance Tendency",
+            "target": "Inconsistency Avoidance Tendency",
+            "weight": 0.85
+        },
+        {
+            "source": "Curiosity Tendency",
+            "target": "Social Proof Tendency",
+            "weight": 0.7
+        },
+        {
+            "source": "Confirmation Bias",
+            "target": "Self-Serving Bias",
+            "weight": 0.9
+        },
+        {
+            "source": "Availability Heuristic",
+            "target": "Contrast Misreaction Tendency",
+            "weight": 0.75
+        },
+        {
+            "source": "Stress Influence Tendency",
+            "target": "Authority Misinfluence Tendency",
+            "weight": 0.6
+        },
+        {
+            "source": "Twaddle Tendency",
+            "target": "Reason-Respecting Tendency",
+            "weight": 0.65
+        },
+        {
+            "source": "Influence from Mere Association Tendency",
+            "target": "Deprival Superreaction Syndrome",
+            "weight": 0.7
+        },
+        {
+            "source": "Overoptimism Tendency",
+            "target": "Envy and Jealousy Tendency",
+            "weight": 0.5
+        },
+        {
+            "source": "Reciprocation Tendency",
+            "target": "Use It or Lose It Tendency",
+            "weight": 0.6
+        },
+        {
+            "source": "Stress Influence Tendency",
+            "target": "Drug Misinfluence Tendency",
+            "weight": 0.55
+        },
+        {
+            "source": "Senescence Misinfluence Tendency",
+            "target": "Contrast Misreaction Tendency",
+            "weight": 0.5
+        },
+        {
+            "source": "Lollapalooza Tendency",
+            "target": "Social Proof Tendency",
+            "weight": 0.8
+        },
+        {
+            "source": "Self-Serving Bias",
+            "target": "Authority Misinfluence Tendency",
+            "weight": 0.75
+        },
+        {
+            "source": "Twaddle Tendency",
+            "target": "Reason-Respecting Tendency",
+            "weight": 0.65
+        },
+        {
+            "source": "Liking and Loving Tendency",
+            "target": "Disliking and Hating Tendency",
+            "weight": 0.8
+        },
+        {
+            "source": "Doubt Avoidance Tendency",
+            "target": "Inconsistency Avoidance Tendency",
+            "weight": 0.85
+        },
+        {
+            "source": "Curiosity Tendency",
+            "target": "Social Proof Tendency",
+            "weight": 0.7
+        },
+        {
+            "source": "Confirmation Bias",
+            "target": "Self-Serving Bias",
+            "weight": 0.9
+        },
+        {
+            "source": "Availability Heuristic",
+            "target": "Contrast Misreaction Tendency",
+            "weight": 0.75
+        },
+        {
+            "source": "Stress Influence Tendency",
+            "target": "Authority Misinfluence Tendency",
+            "weight": 0.6
+        },
+        {
+            "source": "Twaddle Tendency",
+            "target": "Reason-Respecting Tendency",
+            "weight": 0.65
+        },
+        {
+            "source": "Influence from Mere Association Tendency",
+            "target": "Deprival Superreaction Syndrome",
+            "weight": 0.7
+        },
+        {
+            "source": "Overoptimism Tendency",
+            "target": "Envy and Jealousy Tendency",
+            "weight": 0.5
+        },
+        {
+            "source": "Reciprocation Tendency",
+            "target": "Use It or Lose It Tendency",
+            "weight": 0.6
+        },
+        {
+            "source": "Inconsistency Avoidance Tendency",
+            "target": "Reciprocation Tendency",
+            "weight": 0.8
+        },
+        {
+            "source": "Reciprocation Tendency",
+            "target": "Kantian Fairness Tendency",
+            "weight": 0.7
+        },
+        {
+            "source": "Kantian Fairness Tendency",
+            "target": "Envy Jealousy Tendency",
+            "weight": 0.6
+        },
+        {
+            "source": "Curiosity Tendency",
+            "target": "Use It or Lose It Tendency",
+            "weight": 0.9
+        },
+        {
+            "source": "Excessive Self-Regard Tendency",
+            "target": "Overoptimism Tendency",
+            "weight": 0.8
+        },
+        {
+            "source": "Deprival Superreaction Tendency",
+            "target": "Sunk Cost Fallacy",
+            "weight": 0.7
+        },
+        {
+            "source": "Social Proof Tendency",
+            "target": "Groupthink",
+            "weight": 0.9
+        },
+        {
+            "source": "Stress Influence Tendency",
+            "target": "Cognitive Load",
+            "weight": 0.8
+        },
+        {
+            "source": "Authority Misinfluence Tendency",
+            "target": "Persian Messenger Syndrome",
+            "weight": 0.7
+        },
+        {
+            "source": "Availability Misweighing Tendency",
+            "target": "Anchoring Effect",
+            "weight": 0.6
+        },
+        {
+            "source": "Contrast Misreaction Tendency",
+            "target": "Framing Effect",
+            "weight": 0.8
+        },
+        {
+            "source": "Confirmation Bias",
+            "target": "Hindsight Bias",
+            "weight": 0.7
+        },
+        {
+            "source": "Cognitive Dissonance",
+            "target": "Inconsistency Avoidance Tendency",
+            "weight": 0.9
+        },
+        {
+            "source": "Groupthink",
+            "target": "Overoptimism Tendency",
+            "weight": 0.6
+        },
+        {
+            "source": "Self-Serving Bias",
+            "target": "Excessive Self-Regard Tendency",
+            "weight": 0.8
+        },
+        {
+            "source": "Reward Superresponse Tendency",
+            "target": "Deprival Superreaction Tendency",
+            "weight": 0.7
+        },
+        {
+            "source": "Cognitive Load",
+            "target": "Stress Influence Tendency",
+            "weight": 0.8
+        },
+        {
+            "source": "Framing Effect",
+            "target": "Anchoring Effect",
+            "weight": 0.7
+        },
+        {
+            "source": "Hindsight Bias",
+            "target": "Confirmation Bias",
+            "weight": 0.6
+        },
+        {
+            "source": "Sunk Cost Fallacy",
+            "target": "Deprival Superreaction Tendency",
+            "weight": 0.8
+        },
+        {
+            "source": "Mere Association Tendency",
+            "target": "Social Proof Tendency",
+            "weight": 0.7
+        },
+        {
+            "source": "Twaddle Tendency",
+            "target": "Cognitive Load",
+            "weight": 0.6
+        },
+        {
+            "source": "Reason Respecting Tendency",
+            "target": "Authority Misinfluence Tendency",
+            "weight": 0.7
+        },
+        {
+            "source": "Lollapalooza Tendency",
+            "target": "Cognitive Dissonance",
+            "weight": 0.9
+        }
+    ]
+}
