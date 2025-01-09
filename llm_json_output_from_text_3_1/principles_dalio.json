@@ -1,0 +1,892 @@
+{
+    "concepts": [
+        {
+            "name": "Principles",
+            "description": "Fundamental truths that serve as foundations for behavior and decision-making, helping individuals achieve their goals."
+        },
+        {
+            "name": "Radical Open-Mindedness",
+            "description": "The willingness to consider alternative viewpoints and challenge one's own beliefs in pursuit of truth."
+        },
+        {
+            "name": "Radical Transparency",
+            "description": "The practice of openly sharing information within an organization to foster trust and improve decision-making."
+        },
+        {
+            "name": "Mental Models",
+            "description": "Frameworks for understanding how different concepts and systems interact, aiding in decision-making."
+        },
+        {
+            "name": "Learning from Mistakes",
+            "description": "The process of reflecting on and analyzing errors to gain insights and improve future performance."
+        },
+        {
+            "name": "Believability Weighted Decision Making",
+            "description": "A decision-making process that gives more weight to the opinions of individuals with proven expertise or credibility in a specific area."
+        },
+        {
+            "name": "Idea Meritocracy",
+            "description": "A system where the best ideas win, regardless of their source, and where open-mindedness and assertiveness are encouraged to surface and resolve differences."
+        },
+        {
+            "name": "Evolution",
+            "description": "The process through which organisms adapt over time through natural selection, leading to gradual changes in species."
+        },
+        {
+            "name": "Cause and Effect Relationships",
+            "description": "The connections between actions and their outcomes, essential for understanding how to navigate complex systems."
+        },
+        {
+            "name": "Self-Reflection",
+            "description": "The practice of examining one's own thoughts, feelings, and actions to gain insight and promote personal growth."
+        },
+        {
+            "name": "Feedback Loops",
+            "description": "Systems that allow for continuous improvement by using past performance data to inform future actions."
+        },
+        {
+            "name": "Timeless Principles",
+            "description": "Universal truths that remain relevant across different contexts and situations, guiding effective decision-making."
+        },
+        {
+            "name": "Authenticity",
+            "description": "The quality of being genuine and true to oneself, essential for building trust and meaningful relationships."
+        },
+        {
+            "name": "Personal Growth",
+            "description": "The ongoing process of self-improvement and development, often through challenges and learning experiences."
+        },
+        {
+            "name": "Philanthropy",
+            "description": "The act of giving to help others, often through charitable donations or support for social causes."
+        },
+        {
+            "name": "Investment Principles",
+            "description": "Guidelines that inform investment decisions, based on historical data and understanding of market dynamics."
+        },
+        {
+            "name": "Risk Management",
+            "description": "The process of identifying, assessing, and mitigating risks to minimize potential negative outcomes."
+        },
+        {
+            "name": "Goal Setting",
+            "description": "The process of defining clear, measurable objectives to guide actions and decisions."
+        },
+        {
+            "name": "Networking",
+            "description": "Building and maintaining relationships with others to exchange information, support, and opportunities."
+        },
+        {
+            "name": "Adaptability",
+            "description": "The ability to adjust to new conditions and challenges, essential for success in a changing environment."
+        },
+        {
+            "name": "Curiosity",
+            "description": "A strong desire to learn and understand, driving exploration and innovation."
+        },
+        {
+            "name": "Resilience",
+            "description": "The ability to recover quickly from difficulties and adapt to change, essential for both individuals and organizations."
+        },
+        {
+            "name": "Community Building",
+            "description": "The process of fostering connections and relationships among individuals to create a supportive environment."
+        },
+        {
+            "name": "Emotional Intelligence",
+            "description": "The ability to recognize, understand, and manage one's own emotions and the emotions of others in a workplace setting."
+        },
+        {
+            "name": "Decision-Making Algorithms",
+            "description": "Systematic approaches to making decisions based on data and predefined criteria."
+        },
+        {
+            "name": "Cognitive Bias",
+            "description": "Systematic patterns of deviation from norm or rationality in judgment, affecting decision-making."
+        },
+        {
+            "name": "Social Responsibility",
+            "description": "The ethical framework suggesting that individuals and organizations have an obligation to act for the benefit of society."
+        },
+        {
+            "name": "Mentorship",
+            "description": "A relationship in which a more experienced individual guides and supports the development of a less experienced person."
+        },
+        {
+            "name": "Self-Discovery",
+            "description": "The process of gaining insight into one's own character, values, and motivations."
+        },
+        {
+            "name": "Savoring Life",
+            "description": "The practice of appreciating and enjoying life's experiences and relationships."
+        },
+        {
+            "name": "Collective Intelligence",
+            "description": "The shared or group intelligence that emerges from collaboration and collective efforts."
+        },
+        {
+            "name": "Holistic Perspective",
+            "description": "An approach that considers the whole system rather than just individual parts, recognizing interconnections."
+        },
+        {
+            "name": "Long-Term Thinking",
+            "description": "The practice of considering the long-term consequences of actions and decisions rather than focusing solely on short-term gains."
+        },
+        {
+            "name": "Crisis Management",
+            "description": "The process of preparing for, responding to, and recovering from unexpected and disruptive events."
+        },
+        {
+            "name": "Perfection",
+            "description": "An unattainable ideal that serves as a motivating goal for continuous improvement and adaptation."
+        },
+        {
+            "name": "Adaptation",
+            "description": "The process by which organisms adjust to changes in their environment, enhancing their survival and reproduction."
+        },
+        {
+            "name": "Self-Correction",
+            "description": "The natural tendency of systems to adjust and correct themselves in response to imbalances or inefficiencies."
+        },
+        {
+            "name": "Supply and Demand",
+            "description": "An economic model that describes the relationship between the quantity of a commodity available and the desire for that commodity."
+        },
+        {
+            "name": "Evolutionary Cycle",
+            "description": "A continuous loop of adaptation, learning, and improvement that applies to individuals, organizations, and economies."
+        },
+        {
+            "name": "Instinctual Drive for Improvement",
+            "description": "The inherent human desire to grow, learn, and enhance one's capabilities."
+        },
+        {
+            "name": "Natural Selection",
+            "description": "The process by which traits that enhance survival and reproduction become more common in successive generations."
+        },
+        {
+            "name": "Trial and Error",
+            "description": "A method of problem-solving characterized by repeated attempts and adjustments until a successful outcome is achieved."
+        },
+        {
+            "name": "Conscious Learning",
+            "description": "The process of actively acquiring knowledge and skills through deliberate practice and reflection."
+        },
+        {
+            "name": "Subconscious Learning",
+            "description": "The acquisition of knowledge and skills without conscious awareness, often through experiences and observations."
+        },
+        {
+            "name": "Pain as a Teacher",
+            "description": "The concept that experiencing discomfort can lead to valuable insights and personal growth."
+        },
+        {
+            "name": "Believability",
+            "description": "The credibility of individuals based on their track record of success and the quality of their reasoning."
+        },
+        {
+            "name": "Higher Level Thinking",
+            "description": "The ability to analyze situations from a broader perspective, considering multiple factors and potential outcomes."
+        },
+        {
+            "name": "Problem Identification",
+            "description": "The ability to recognize and articulate issues that hinder progress toward goals."
+        },
+        {
+            "name": "Diagnosis",
+            "description": "The process of analyzing problems to determine their root causes and inform effective solutions."
+        },
+        {
+            "name": "Designing Solutions",
+            "description": "The process of creating actionable plans to address identified problems and achieve goals."
+        },
+        {
+            "name": "Execution",
+            "description": "The implementation of plans and strategies to achieve desired outcomes."
+        },
+        {
+            "name": "Team Dynamics",
+            "description": "The interactions and relationships among team members that influence their performance and collaboration."
+        },
+        {
+            "name": "Culture",
+            "description": "The shared values, beliefs, and practices that shape the behavior and interactions of individuals within an organization."
+        },
+        {
+            "name": "Meaningful Work",
+            "description": "Work that is fulfilling and aligned with one's values and goals, contributing to personal and collective growth."
+        },
+        {
+            "name": "Meaningful Relationships",
+            "description": "Relationships built on trust, open communication, and mutual support that enhance collaboration and organizational culture."
+        },
+        {
+            "name": "Expected Value",
+            "description": "A calculated average outcome of a decision, factoring in the probabilities of different results."
+        },
+        {
+            "name": "Algorithms in Decision Making",
+            "description": "The use of computational processes to analyze data and inform decision-making."
+        },
+        {
+            "name": "Radical Truth",
+            "description": "The commitment to honesty and openness in communication, encouraging individuals to express their thoughts and opinions freely."
+        },
+        {
+            "name": "Believability Weighting",
+            "description": "A decision-making process that assigns more weight to the opinions of those who have demonstrated competence and success in relevant areas."
+        },
+        {
+            "name": "Thoughtful Disagreement",
+            "description": "A constructive approach to conflict where differing opinions are explored openly to find the best solutions rather than to win arguments."
+        },
+        {
+            "name": "Accountability",
+            "description": "The obligation of individuals or teams to take responsibility for their actions and decisions within an organization."
+        },
+        {
+            "name": "Continuous Learning",
+            "description": "The process of regularly reflecting on experiences, including mistakes, to foster personal and organizational growth."
+        },
+        {
+            "name": "Cultural Excellence",
+            "description": "A commitment to maintaining high standards in both work quality and interpersonal relationships within an organization."
+        },
+        {
+            "name": "Problem Diagnosis",
+            "description": "The process of identifying the root causes of issues within an organization to implement effective solutions."
+        },
+        {
+            "name": "Organizational Design",
+            "description": "The structuring of roles, responsibilities, and processes within an organization to optimize performance and achieve goals."
+        },
+        {
+            "name": "Training and Development",
+            "description": "The ongoing process of equipping individuals with the skills and knowledge necessary to perform their roles effectively."
+        },
+        {
+            "name": "Succession Planning",
+            "description": "The strategy for identifying and developing new leaders to ensure the continuity and stability of an organization."
+        },
+        {
+            "name": "Performance Metrics",
+            "description": "Quantitative measures used to assess the effectiveness and efficiency of an organization's operations and employee performance."
+        },
+        {
+            "name": "Conflict Resolution",
+            "description": "The methods and processes involved in facilitating the peaceful ending of conflict and retribution."
+        },
+        {
+            "name": "High Standards",
+            "description": "The expectation that all individuals within an organization strive for excellence in their work and interactions."
+        },
+        {
+            "name": "Leadership",
+            "description": "The act of guiding and influencing others to achieve common goals, characterized by open-mindedness and accountability."
+        },
+        {
+            "name": "Trust",
+            "description": "The reliance on the integrity, strength, ability, or character of a person or organization, essential for effective collaboration."
+        },
+        {
+            "name": "Empathy",
+            "description": "The ability to understand and share the feelings of others, fostering meaningful relationships and effective communication."
+        },
+        {
+            "name": "Innovation",
+            "description": "The process of translating an idea or invention into a good or service that creates value or for which customers will pay."
+        },
+        {
+            "name": "Change Management",
+            "description": "The approach to transitioning individuals, teams, and organizations to a desired future state, ensuring minimal disruption."
+        },
+        {
+            "name": "Organizational Culture",
+            "description": "The shared values, beliefs, and practices that shape the behavior and mindset of individuals within an organization."
+        },
+        {
+            "name": "Goal Alignment",
+            "description": "The process of ensuring that individual and team objectives are in sync with the broader organizational goals."
+        },
+        {
+            "name": "Data-Driven Decision Making",
+            "description": "The practice of making decisions based on data analysis and interpretation rather than intuition or observation alone."
+        },
+        {
+            "name": "Empowerment",
+            "description": "The process of enabling individuals to take initiative and make decisions within their roles, fostering a sense of ownership."
+        },
+        {
+            "name": "Collaboration",
+            "description": "The act of working together with others to achieve a common goal, characterized by open communication and shared responsibility."
+        },
+        {
+            "name": "Integrity",
+            "description": "The quality of being honest and having strong moral principles, foundational for trust and accountability in relationships."
+        },
+        {
+            "name": "Creativity",
+            "description": "The ability to generate new ideas and concepts, essential for problem-solving and innovation."
+        },
+        {
+            "name": "Systems Thinking",
+            "description": "An approach to problem-solving that views 'problems' as part of an overall system, emphasizing the interconnections between components."
+        },
+        {
+            "name": "Work-Life Balance",
+            "description": "The equilibrium between personal life and work commitments, crucial for maintaining overall well-being and productivity."
+        },
+        {
+            "name": "Double Doing",
+            "description": "A method of ensuring accuracy by having two different individuals perform the same task independently, allowing for comparison of results."
+        },
+        {
+            "name": "Consultant Addiction",
+            "description": "The tendency to rely excessively on external consultants for tasks that could be performed by internal employees, potentially eroding company culture."
+        },
+        {
+            "name": "Quality Control",
+            "description": "The process of ensuring that a company's products or services meet specified quality standards, often involving oversight of external contractors."
+        },
+        {
+            "name": "Economics of Outsourcing",
+            "description": "The cost-benefit analysis of hiring external consultants versus employing full-time staff, focusing on long-term financial implications."
+        },
+        {
+            "name": "Institutional Knowledge",
+            "description": "The understanding and insights gained by employees over time that contribute to the organization's culture and operational effectiveness."
+        },
+        {
+            "name": "Organizational Chart",
+            "description": "A visual representation of a company's structure, illustrating the hierarchy and relationships between different departments."
+        },
+        {
+            "name": "Guardrails",
+            "description": "Support structures designed to help employees perform their jobs effectively by compensating for their weaknesses without being overly restrictive."
+        },
+        {
+            "name": "Clover Leaf Design",
+            "description": "An organizational structure that involves multiple responsible parties for a role, promoting accountability and collaborative decision-making."
+        },
+        {
+            "name": "Strategic Vision",
+            "description": "The long-term goals and aspirations of an organization that guide its decision-making and operational strategies."
+        },
+        {
+            "name": "Tactical Changes",
+            "description": "Short-term adjustments made in response to immediate challenges while maintaining alignment with the organization's strategic vision."
+        },
+        {
+            "name": "Checks and Balances",
+            "description": "A governance principle ensuring that no single individual or group has unchecked power, promoting accountability and fairness."
+        },
+        {
+            "name": "Effective Communication",
+            "description": "The practice of conveying information clearly and efficiently to enhance understanding and collaboration among team members."
+        },
+        {
+            "name": "Pain Reflection",
+            "description": "The process of analyzing negative experiences to extract lessons and improve future decision-making and behavior."
+        },
+        {
+            "name": "Issue Log",
+            "description": "A tool for documenting problems and mistakes within an organization, facilitating systematic learning and improvement."
+        },
+        {
+            "name": "Contract Tool",
+            "description": "An application that helps individuals make explicit commitments to each other, ensuring accountability and follow-through."
+        },
+        {
+            "name": "Process Flow Diagram",
+            "description": "A visual representation of the workflow within an organization, illustrating roles, responsibilities, and the flow of tasks."
+        },
+        {
+            "name": "Governance",
+            "description": "The framework of rules and practices that ensure an organization operates effectively and ethically, balancing power and accountability."
+        },
+        {
+            "name": "Internalized Learning",
+            "description": "The process of embedding knowledge and skills within individuals and organizations through experience and practice."
+        },
+        {
+            "name": "Leveragers",
+            "description": "Individuals who excel at translating concepts into practical implementations, enhancing organizational productivity."
+        },
+        {
+            "name": "Behavioral Change",
+            "description": "The process of altering individual or group behaviors to achieve desired outcomes, often requiring tools and protocols for success."
+        },
+        {
+            "name": "Cultural Fit",
+            "description": "The alignment between an individual's values and behaviors and the core values and culture of an organization."
+        },
+        {
+            "name": "Long-Term Vision",
+            "description": "The overarching goals and aspirations that guide an organization's strategic planning and decision-making processes."
+        },
+        {
+            "name": "Short-Term Goals",
+            "description": "Specific, measurable objectives that an organization aims to achieve within a relatively brief time frame."
+        },
+        {
+            "name": "Radical Collaboration",
+            "description": "A commitment to working together across boundaries to achieve common goals, leveraging diverse perspectives and expertise."
+        },
+        {
+            "name": "Creative Problem Solving",
+            "description": "The ability to find innovative solutions to complex challenges by thinking outside traditional frameworks."
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Principles",
+            "target": "Decision-Making Algorithms",
+            "weight": 0.8
+        },
+        {
+            "source": "Radical Open-Mindedness",
+            "target": "Radical Transparency",
+            "weight": 0.9
+        },
+        {
+            "source": "Learning from Mistakes",
+            "target": "Self-Reflection",
+            "weight": 0.85
+        },
+        {
+            "source": "Believability Weighted Decision Making",
+            "target": "Idea Meritocracy",
+            "weight": 0.9
+        },
+        {
+            "source": "Evolution",
+            "target": "Personal Growth",
+            "weight": 0.75
+        },
+        {
+            "source": "Cause and Effect Relationships",
+            "target": "Feedback Loops",
+            "weight": 0.8
+        },
+        {
+            "source": "Timeless Principles",
+            "target": "Investment Principles",
+            "weight": 0.85
+        },
+        {
+            "source": "Risk Management",
+            "target": "Adaptability",
+            "weight": 0.8
+        },
+        {
+            "source": "Goal Setting",
+            "target": "Networking",
+            "weight": 0.7
+        },
+        {
+            "source": "Curiosity",
+            "target": "Emotional Intelligence",
+            "weight": 0.65
+        },
+        {
+            "source": "Resilience",
+            "target": "Community Building",
+            "weight": 0.75
+        },
+        {
+            "source": "Social Responsibility",
+            "target": "Philanthropy",
+            "weight": 0.9
+        },
+        {
+            "source": "Mentorship",
+            "target": "Self-Discovery",
+            "weight": 0.85
+        },
+        {
+            "source": "Savoring Life",
+            "target": "Collective Intelligence",
+            "weight": 0.7
+        },
+        {
+            "source": "Holistic Perspective",
+            "target": "Long-Term Thinking",
+            "weight": 0.8
+        },
+        {
+            "source": "Crisis Management",
+            "target": "Decision-Making Algorithms",
+            "weight": 0.75
+        },
+        {
+            "source": "Evolution",
+            "target": "Adaptation",
+            "weight": 0.9
+        },
+        {
+            "source": "Perfection",
+            "target": "Adaptation",
+            "weight": 0.8
+        },
+        {
+            "source": "Self-Correction",
+            "target": "Supply and Demand",
+            "weight": 0.7
+        },
+        {
+            "source": "Learning from Mistakes",
+            "target": "Evolutionary Cycle",
+            "weight": 0.85
+        },
+        {
+            "source": "Natural Selection",
+            "target": "Adaptation",
+            "weight": 0.95
+        },
+        {
+            "source": "Trial and Error",
+            "target": "Learning from Mistakes",
+            "weight": 0.9
+        },
+        {
+            "source": "Conscious Learning",
+            "target": "Subconscious Learning",
+            "weight": 0.75
+        },
+        {
+            "source": "Pain as a Teacher",
+            "target": "Learning from Mistakes",
+            "weight": 0.8
+        },
+        {
+            "source": "Radical Open-Mindedness",
+            "target": "Believability",
+            "weight": 0.85
+        },
+        {
+            "source": "Higher Level Thinking",
+            "target": "Feedback Loops",
+            "weight": 0.8
+        },
+        {
+            "source": "Goal Setting",
+            "target": "Problem Identification",
+            "weight": 0.85
+        },
+        {
+            "source": "Diagnosis",
+            "target": "Designing Solutions",
+            "weight": 0.9
+        },
+        {
+            "source": "Execution",
+            "target": "Designing Solutions",
+            "weight": 0.8
+        },
+        {
+            "source": "Team Dynamics",
+            "target": "Culture",
+            "weight": 0.9
+        },
+        {
+            "source": "Meaningful Work",
+            "target": "Meaningful Relationships",
+            "weight": 0.9
+        },
+        {
+            "source": "Radical Transparency",
+            "target": "Idea Meritocracy",
+            "weight": 0.95
+        },
+        {
+            "source": "Emotional Intelligence",
+            "target": "Cognitive Bias",
+            "weight": 0.8
+        },
+        {
+            "source": "Expected Value",
+            "target": "Decision Making",
+            "weight": 0.85
+        },
+        {
+            "source": "Algorithms in Decision Making",
+            "target": "Collective Intelligence",
+            "weight": 0.9
+        },
+        {
+            "source": "Radical Truth",
+            "target": "Radical Transparency",
+            "weight": 0.95
+        },
+        {
+            "source": "Self-Reflection",
+            "target": "Learning from Mistakes",
+            "weight": 0.9
+        },
+        {
+            "source": "Idea Meritocracy",
+            "target": "Radical Truth",
+            "weight": 0.9
+        },
+        {
+            "source": "Radical Truth",
+            "target": "Radical Transparency",
+            "weight": 0.9
+        },
+        {
+            "source": "Radical Transparency",
+            "target": "Accountability",
+            "weight": 0.8
+        },
+        {
+            "source": "Believability Weighting",
+            "target": "Thoughtful Disagreement",
+            "weight": 0.85
+        },
+        {
+            "source": "Thoughtful Disagreement",
+            "target": "Continuous Learning",
+            "weight": 0.8
+        },
+        {
+            "source": "Continuous Learning",
+            "target": "Feedback Loops",
+            "weight": 0.75
+        },
+        {
+            "source": "Feedback Loops",
+            "target": "Cultural Excellence",
+            "weight": 0.7
+        },
+        {
+            "source": "Cultural Excellence",
+            "target": "Meaningful Relationships",
+            "weight": 0.8
+        },
+        {
+            "source": "Problem Diagnosis",
+            "target": "Organizational Design",
+            "weight": 0.85
+        },
+        {
+            "source": "Training and Development",
+            "target": "Continuous Learning",
+            "weight": 0.9
+        },
+        {
+            "source": "Succession Planning",
+            "target": "Training and Development",
+            "weight": 0.8
+        },
+        {
+            "source": "Performance Metrics",
+            "target": "Accountability",
+            "weight": 0.75
+        },
+        {
+            "source": "Conflict Resolution",
+            "target": "Thoughtful Disagreement",
+            "weight": 0.7
+        },
+        {
+            "source": "High Standards",
+            "target": "Cultural Excellence",
+            "weight": 0.9
+        },
+        {
+            "source": "Self-Reflection",
+            "target": "Continuous Learning",
+            "weight": 0.85
+        },
+        {
+            "source": "Team Dynamics",
+            "target": "Collaboration",
+            "weight": 0.8
+        },
+        {
+            "source": "Leadership",
+            "target": "Accountability",
+            "weight": 0.85
+        },
+        {
+            "source": "Trust",
+            "target": "Meaningful Relationships",
+            "weight": 0.9
+        },
+        {
+            "source": "Empathy",
+            "target": "Meaningful Relationships",
+            "weight": 0.8
+        },
+        {
+            "source": "Innovation",
+            "target": "Creativity",
+            "weight": 0.85
+        },
+        {
+            "source": "Change Management",
+            "target": "Organizational Culture",
+            "weight": 0.75
+        },
+        {
+            "source": "Goal Alignment",
+            "target": "Organizational Design",
+            "weight": 0.8
+        },
+        {
+            "source": "Data-Driven Decision Making",
+            "target": "Problem Diagnosis",
+            "weight": 0.75
+        },
+        {
+            "source": "Empowerment",
+            "target": "Accountability",
+            "weight": 0.8
+        },
+        {
+            "source": "Resilience",
+            "target": "Continuous Learning",
+            "weight": 0.7
+        },
+        {
+            "source": "Collaboration",
+            "target": "Team Dynamics",
+            "weight": 0.85
+        },
+        {
+            "source": "Integrity",
+            "target": "Trust",
+            "weight": 0.9
+        },
+        {
+            "source": "Creativity",
+            "target": "Innovation",
+            "weight": 0.85
+        },
+        {
+            "source": "Systems Thinking",
+            "target": "Problem Diagnosis",
+            "weight": 0.8
+        },
+        {
+            "source": "Work-Life Balance",
+            "target": "Continuous Learning",
+            "weight": 0.7
+        },
+        {
+            "source": "Double Doing",
+            "target": "Quality Control",
+            "weight": 0.8
+        },
+        {
+            "source": "Consultant Addiction",
+            "target": "Quality Control",
+            "weight": 0.7
+        },
+        {
+            "source": "Economics of Outsourcing",
+            "target": "Consultant Addiction",
+            "weight": 0.9
+        },
+        {
+            "source": "Institutional Knowledge",
+            "target": "Quality Control",
+            "weight": 0.8
+        },
+        {
+            "source": "Organizational Chart",
+            "target": "Checks and Balances",
+            "weight": 0.7
+        },
+        {
+            "source": "Guardrails",
+            "target": "Team Dynamics",
+            "weight": 0.9
+        },
+        {
+            "source": "Clover Leaf Design",
+            "target": "Checks and Balances",
+            "weight": 0.8
+        },
+        {
+            "source": "Strategic Vision",
+            "target": "Tactical Changes",
+            "weight": 0.9
+        },
+        {
+            "source": "Checks and Balances",
+            "target": "Governance",
+            "weight": 0.9
+        },
+        {
+            "source": "Believability Weighted Decision Making",
+            "target": "Effective Communication",
+            "weight": 0.8
+        },
+        {
+            "source": "Performance Metrics",
+            "target": "Feedback Loops",
+            "weight": 0.8
+        },
+        {
+            "source": "Pain Reflection",
+            "target": "Behavioral Change",
+            "weight": 0.7
+        },
+        {
+            "source": "Issue Log",
+            "target": "Performance Metrics",
+            "weight": 0.8
+        },
+        {
+            "source": "Contract Tool",
+            "target": "Accountability",
+            "weight": 0.9
+        },
+        {
+            "source": "Process Flow Diagram",
+            "target": "Organizational Chart",
+            "weight": 0.8
+        },
+        {
+            "source": "Radical Transparency",
+            "target": "Radical Truth",
+            "weight": 0.9
+        },
+        {
+            "source": "Internalized Learning",
+            "target": "Behavioral Change",
+            "weight": 0.8
+        },
+        {
+            "source": "Leveragers",
+            "target": "Creative Problem Solving",
+            "weight": 0.9
+        },
+        {
+            "source": "Team Dynamics",
+            "target": "Cultural Fit",
+            "weight": 0.8
+        },
+        {
+            "source": "Long-Term Vision",
+            "target": "Short-Term Goals",
+            "weight": 0.8
+        },
+        {
+            "source": "Radical Collaboration",
+            "target": "Team Dynamics",
+            "weight": 0.9
+        },
+        {
+            "source": "Emotional Intelligence",
+            "target": "Effective Communication",
+            "weight": 0.8
+        },
+        {
+            "source": "Accountability",
+            "target": "Checks and Balances",
+            "weight": 0.9
+        }
+    ]
+}

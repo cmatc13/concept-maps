@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+kindle_screenshots_1/
+
+ocr_text_2/

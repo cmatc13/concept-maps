@@ -1,0 +1,2856 @@
+{
+    "concepts": [
+        {
+            "name": "Berkshire Hathaway",
+            "description": "A multinational conglomerate holding company led by Warren Buffett, known for its diverse range of owned businesses and investments."
+        },
+        {
+            "name": "Intrinsic Value",
+            "description": "The perceived or calculated value of an asset, based on fundamental analysis, rather than its current market price."
+        },
+        {
+            "name": "Float",
+            "description": "The amount of money that an insurance company holds from premiums before paying out claims, which can be invested for profit."
+        },
+        {
+            "name": "Underwriting Profit",
+            "description": "The profit made by an insurance company when premiums collected exceed claims paid and operating expenses."
+        },
+        {
+            "name": "Capital Allocation",
+            "description": "The process of deciding how to distribute financial resources among various investment opportunities."
+        },
+        {
+            "name": "Bolt-On Acquisitions",
+            "description": "Small acquisitions that complement a company's existing operations, often enhancing its market position or capabilities."
+        },
+        {
+            "name": "Regulated Industries",
+            "description": "Sectors of the economy that are subject to government regulations, such as utilities and insurance."
+        },
+        {
+            "name": "Market Capitalization",
+            "description": "The total market value of a company's outstanding shares, used as a measure of its size and financial health."
+        },
+        {
+            "name": "Operating Earnings",
+            "description": "Earnings derived from a company's core business operations, excluding any income from investments or non-operating activities."
+        },
+        {
+            "name": "Goodwill",
+            "description": "An intangible asset that arises when a company acquires another for more than the fair value of its net identifiable assets."
+        },
+        {
+            "name": "Insurance Economics",
+            "description": "The study of the financial aspects and profitability of insurance companies, including premiums, claims, and investment income."
+        },
+        {
+            "name": "Non-Controlled Ownership Earnings",
+            "description": "Earnings from investments in companies that are not controlled or significantly influenced by Berkshire, but still contribute to its value."
+        },
+        {
+            "name": "Shareholder Value",
+            "description": "The financial worth that a company's shareholders receive from their investment, often measured by stock price appreciation and dividends."
+        },
+        {
+            "name": "Economic Moat",
+            "description": "A competitive advantage that allows a company to maintain its market position and profitability over time."
+        },
+        {
+            "name": "Investment Income",
+            "description": "The income generated from investments, including interest, dividends, and capital gains."
+        },
+        {
+            "name": "Corporate Governance",
+            "description": "The system of rules, practices, and processes by which a company is directed and controlled, focusing on the interests of stakeholders."
+        },
+        {
+            "name": "Market Recognition",
+            "description": "The acknowledgment of a company's value by the market, often reflected in its stock price."
+        },
+        {
+            "name": "Economic Performance",
+            "description": "A measure of how well a company is doing financially, often assessed through metrics like return on equity and profit margins."
+        },
+        {
+            "name": "Long-Term Investments",
+            "description": "Assets that are expected to be held for more than one year, typically aimed at generating returns over an extended period."
+        },
+        {
+            "name": "Dividend Policy",
+            "description": "The strategy a company uses to decide how much it will pay out to shareholders in dividends, reflecting its financial health and growth prospects."
+        },
+        {
+            "name": "S&P 500",
+            "description": "A stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States."
+        },
+        {
+            "name": "Market Volatility",
+            "description": "The degree of variation in trading prices over time, often indicative of market uncertainty and risk."
+        },
+        {
+            "name": "Economic Growth",
+            "description": "An increase in the production of goods and services in an economy over a period, often measured by GDP."
+        },
+        {
+            "name": "Financial Strength",
+            "description": "The ability of a company to meet its financial obligations, often assessed through metrics like liquidity and solvency."
+        },
+        {
+            "name": "Acquisition Strategy",
+            "description": "The approach taken by a company to acquire other businesses, often focusing on strategic fit and financial performance."
+        },
+        {
+            "name": "Share Repurchase",
+            "description": "The process by which a company buys back its own shares from the market, often to reduce the number of outstanding shares and increase shareholder value."
+        },
+        {
+            "name": "Risk Management",
+            "description": "The identification, assessment, and prioritization of risks, followed by coordinated efforts to minimize or control their impact."
+        },
+        {
+            "name": "Corporate Social Responsibility",
+            "description": "A business model that helps a company be socially accountable to itself, its stakeholders, and the public."
+        },
+        {
+            "name": "Investment Philosophy",
+            "description": "The principles and strategies that guide an investor's decisions, often emphasizing value investing and long-term growth."
+        },
+        {
+            "name": "Performance Metrics",
+            "description": "Quantitative measures used to assess the performance of a company or investment."
+        },
+        {
+            "name": "Shareholder Activism",
+            "description": "The efforts of shareholders to influence a company's behavior by exercising their rights as owners."
+        },
+        {
+            "name": "Business Valuation",
+            "description": "The process of determining the economic value of a business or company, often used in investment decisions and mergers."
+        },
+        {
+            "name": "Economic Indicators",
+            "description": "Statistics that provide information about the economic performance of a country, such as GDP growth, unemployment rates, and inflation."
+        },
+        {
+            "name": "EBITDA",
+            "description": "Earnings Before Interest, Taxes, Depreciation, and Amortization; a measure used to analyze a company's operating performance."
+        },
+        {
+            "name": "GAAP",
+            "description": "Generally Accepted Accounting Principles; a framework of accounting standards, principles, and procedures used in the U.S."
+        },
+        {
+            "name": "Cigar-Butt Investing",
+            "description": "An investment strategy that focuses on buying cheap stocks of companies that are near bankruptcy, expecting to extract a small profit."
+        },
+        {
+            "name": "Berkshire's Acquisition Criteria",
+            "description": "The specific guidelines Berkshire Hathaway follows when considering potential acquisitions, emphasizing strong management and consistent earnings."
+        },
+        {
+            "name": "Diversification",
+            "description": "The practice of spreading investments across various financial instruments, industries, and other categories to reduce risk."
+        },
+        {
+            "name": "Insurance Cycle",
+            "description": "The cyclical nature of the insurance industry, characterized by periods of underwriting profit and loss."
+        },
+        {
+            "name": "Regulatory Environment",
+            "description": "The framework of laws and regulations that govern the operations of businesses, influencing their strategies and compliance."
+        },
+        {
+            "name": "Acquisition Premium",
+            "description": "The amount paid over the market value of a company during an acquisition, often justified by the expected synergies."
+        },
+        {
+            "name": "Operational Efficiency",
+            "description": "The ability of a company to deliver products or services in the most cost-effective manner without compromising quality."
+        },
+        {
+            "name": "Debt Financing",
+            "description": "Raising capital through borrowing, typically by issuing bonds or taking loans, which must be repaid over time."
+        },
+        {
+            "name": "Cash Flow",
+            "description": "The net amount of cash being transferred into and out of a business, crucial for maintaining operations and funding investments."
+        },
+        {
+            "name": "Long-Term Investment Horizon",
+            "description": "An investment strategy that focuses on holding assets for an extended period, allowing for growth and compounding returns."
+        },
+        {
+            "name": "Stock Buybacks",
+            "description": "When a company repurchases its own shares from the marketplace, reducing the number of outstanding shares and often increasing the value of remaining shares."
+        },
+        {
+            "name": "Market Sentiment",
+            "description": "The overall attitude of investors toward a particular security or financial market, often influenced by news, events, and economic indicators."
+        },
+        {
+            "name": "Consumer Price Index (CPI)",
+            "description": "A measure that examines the weighted average of prices of a basket of consumer goods and services, used as an economic indicator."
+        },
+        {
+            "name": "Economic Dynamics",
+            "description": "The study of how economic factors interact and influence one another, affecting markets and industries."
+        },
+        {
+            "name": "Financial Resilience",
+            "description": "The ability of a company to withstand economic downturns and financial shocks, often supported by strong cash reserves and diversified income streams."
+        },
+        {
+            "name": "Investment Returns",
+            "description": "The gains or losses generated from an investment, typically expressed as a percentage of the initial investment."
+        },
+        {
+            "name": "Shareholder Principles",
+            "description": "The guiding principles that outline how a company prioritizes the interests of its shareholders in its operations and decision-making."
+        },
+        {
+            "name": "Repurchase Policy",
+            "description": "The strategy of a company to buy back its own shares from the marketplace, often to reduce the number of outstanding shares and increase shareholder value."
+        },
+        {
+            "name": "Economic Earnings",
+            "description": "A measure of a company's profitability that includes all undistributed earnings, regardless of ownership percentage."
+        },
+        {
+            "name": "Accounting Earnings",
+            "description": "The profits reported by a company according to generally accepted accounting principles (GAAP), which may not reflect the true economic performance."
+        },
+        {
+            "name": "Insurance Industry Dynamics",
+            "description": "The competitive and regulatory environment that affects how insurance companies operate, including pricing, underwriting, and claims management."
+        },
+        {
+            "name": "Competitive Advantage",
+            "description": "A condition or circumstance that puts a company in a favorable or superior business position."
+        },
+        {
+            "name": "Long-Tail Insurance",
+            "description": "Insurance policies that have claims that may take many years to be reported and settled, leading to uncertainty in loss estimates."
+        },
+        {
+            "name": "Cash Reserves",
+            "description": "The amount of cash that a company keeps on hand to meet short-term obligations and invest in opportunities."
+        },
+        {
+            "name": "Tax Efficiency",
+            "description": "The strategy of minimizing tax liabilities through various means, including the structure of investments and business operations."
+        },
+        {
+            "name": "Shareholder Communication",
+            "description": "The process of providing information to shareholders about company performance, strategy, and other important matters."
+        },
+        {
+            "name": "Long-Term Investment",
+            "description": "An investment strategy that focuses on holding assets for an extended period to maximize returns."
+        },
+        {
+            "name": "Market Correction",
+            "description": "A short-term drop in stock prices, typically defined as a decline of 10% or more from a recent peak."
+        },
+        {
+            "name": "Value Investing",
+            "description": "An investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value."
+        },
+        {
+            "name": "Insurance Float",
+            "description": "The money held by insurance companies from premiums before claims are paid out, which can be invested for profit."
+        },
+        {
+            "name": "Share Repurchases",
+            "description": "The process by which a company buys back its own shares from the marketplace, which can increase the value of remaining shares by reducing supply."
+        },
+        {
+            "name": "Controlled Businesses",
+            "description": "Companies that are wholly or partially owned by Berkshire Hathaway, allowing it to influence their management and operations."
+        },
+        {
+            "name": "Marketable Securities",
+            "description": "Financial instruments that are intended to be sold or redeemed in the near term, typically stocks and bonds."
+        },
+        {
+            "name": "Debt Management",
+            "description": "The process of overseeing and managing a company's debt to ensure it can meet its financial obligations."
+        },
+        {
+            "name": "Long-Term Investing",
+            "description": "An investment strategy focused on holding assets for an extended period to benefit from their growth potential."
+        },
+        {
+            "name": "Equity Investments",
+            "description": "Investments made in the shares of companies, representing ownership stakes and potential for capital appreciation and dividends."
+        },
+        {
+            "name": "Philanthropy",
+            "description": "The act of donating money, goods, services, or time to support a charitable cause."
+        },
+        {
+            "name": "Corporate Taxation",
+            "description": "The tax imposed on the income or profit of corporations, which can influence business decisions and strategies."
+        },
+        {
+            "name": "Market Trends",
+            "description": "Patterns and tendencies in the market that indicate the general direction in which it is moving."
+        },
+        {
+            "name": "Financial Statements",
+            "description": "Formal records of the financial activities and position of a business, including the balance sheet, income statement, and cash flow statement."
+        },
+        {
+            "name": "Investment Strategy",
+            "description": "A plan designed to guide an investor's decisions on how to allocate assets in order to achieve specific financial goals."
+        },
+        {
+            "name": "Stakeholder Engagement",
+            "description": "The process of involving individuals or groups that have an interest in a company's operations, including employees, customers, investors, and the community."
+        },
+        {
+            "name": "Behavioral Finance",
+            "description": "The study of the effects of psychological factors on the financial behaviors of investors and markets."
+        },
+        {
+            "name": "Financial Literacy",
+            "description": "The ability to understand and effectively use various financial skills, including personal finance, budgeting, and investing."
+        },
+        {
+            "name": "Intrinsic Business Value",
+            "description": "The perceived or calculated value of a business based on its fundamentals, including earnings potential and assets."
+        },
+        {
+            "name": "Book Value",
+            "description": "The value of an asset as it appears on the balance sheet, calculated as total assets minus total liabilities."
+        },
+        {
+            "name": "Pension Asset Management",
+            "description": "The management of pension funds to ensure that they meet future obligations to beneficiaries, often involving investment strategies that balance risk and return."
+        },
+        {
+            "name": "Market Prices",
+            "description": "The current price at which an asset or service can be bought or sold in the market, influenced by supply and demand dynamics."
+        },
+        {
+            "name": "Investment Risk",
+            "description": "The potential for loss or lower-than-expected returns on an investment, often assessed in relation to the expected return."
+        },
+        {
+            "name": "Combined Ratio",
+            "description": "The combined ratio is a measure of an insurance company's profitability, calculated as the sum of incurred losses and expenses divided by earned premiums."
+        },
+        {
+            "name": "Economic Goodwill",
+            "description": "The intangible value of a company's reputation, brand, and customer relationships that can contribute to future earnings."
+        },
+        {
+            "name": "Long-tail Insurance",
+            "description": "Insurance policies where claims may take a long time to settle, making it difficult to estimate future liabilities accurately."
+        },
+        {
+            "name": "Structured Settlements",
+            "description": "A financial arrangement in which a claimant receives periodic payments over time rather than a lump sum, often used in personal injury cases."
+        },
+        {
+            "name": "Reinsurance",
+            "description": "Insurance purchased by an insurance company from another insurance company to mitigate risk, allowing the primary insurer to transfer portions of its risk."
+        },
+        {
+            "name": "Shareholder Contributions",
+            "description": "Donations made by shareholders to charitable organizations, often facilitated by the company."
+        },
+        {
+            "name": "Consumer Franchise",
+            "description": "The loyalty and preference of consumers for a particular brand or company, often leading to repeat business and sustained profitability."
+        },
+        {
+            "name": "Economic Conditions",
+            "description": "Economic conditions refer to the state of the economy at a given time, including factors such as inflation, unemployment, and GDP growth."
+        },
+        {
+            "name": "Risk Assessment",
+            "description": "Risk assessment is the process of identifying and evaluating potential risks associated with an investment or business decision."
+        },
+        {
+            "name": "Earnings Growth",
+            "description": "The increase in a company's earnings over time, often used as a measure of financial performance."
+        },
+        {
+            "name": "Market Efficiency",
+            "description": "The degree to which stock prices reflect all available, relevant information, affecting the ability to achieve above-average returns."
+        },
+        {
+            "name": "Investment Horizon",
+            "description": "The length of time an investor expects to hold an investment before taking the money out."
+        },
+        {
+            "name": "Liquidity",
+            "description": "The availability of liquid assets to a market or company, indicating how easily assets can be converted to cash."
+        },
+        {
+            "name": "Long-term Investment",
+            "description": "An investment strategy focused on holding assets for an extended period to benefit from their appreciation over time."
+        },
+        {
+            "name": "Tax-exempt Bonds",
+            "description": "Bonds whose interest payments are not subject to federal income tax, often used by municipalities to finance projects."
+        },
+        {
+            "name": "Arbitrage",
+            "description": "The simultaneous purchase and sale of securities or foreign exchange in different markets to exploit price differentials."
+        },
+        {
+            "name": "Insurance Operations",
+            "description": "The segment of a company that provides insurance products and services, generating revenue through premiums."
+        },
+        {
+            "name": "Management Integrity",
+            "description": "The ethical standards and honesty of a company's management team, which can significantly impact investor trust and company performance."
+        },
+        {
+            "name": "Market Conditions",
+            "description": "The overall economic environment that influences the performance of financial markets, including factors like interest rates and inflation."
+        },
+        {
+            "name": "Market Valuation",
+            "description": "The process of determining the current worth of an asset or company based on market conditions."
+        },
+        {
+            "name": "Economic Value Added (EVA)",
+            "description": "A measure of a company's financial performance that shows the net profit after deducting the cost of capital."
+        },
+        {
+            "name": "Price-to-Earnings Ratio (P/E)",
+            "description": "A valuation ratio calculated by dividing the current share price by its earnings per share, used to assess relative value."
+        },
+        {
+            "name": "Return on Equity (ROE)",
+            "description": "A measure of financial performance calculated by dividing net income by shareholder's equity, indicating how effectively management is using equity financing."
+        },
+        {
+            "name": "Economic Cycle",
+            "description": "The natural fluctuation of the economy between periods of expansion and contraction."
+        },
+        {
+            "name": "Corporate Debt",
+            "description": "Money borrowed by a company to fund its operations, which must be repaid with interest."
+        },
+        {
+            "name": "Business Model",
+            "description": "The framework that outlines how a company creates, delivers, and captures value."
+        },
+        {
+            "name": "Business Acquisition",
+            "description": "The process of purchasing another company to expand operations, gain market share, or achieve synergies."
+        },
+        {
+            "name": "Market Dynamics",
+            "description": "The forces that impact the supply and demand of goods and services in a market, influencing prices and competition."
+        },
+        {
+            "name": "Risk Arbitrage",
+            "description": "A form of arbitrage that involves taking advantage of price discrepancies that arise from corporate events such as mergers and acquisitions."
+        },
+        {
+            "name": "Efficient Market Theory",
+            "description": "The hypothesis that asset prices reflect all available information, making it impossible to consistently achieve higher returns than average market returns."
+        },
+        {
+            "name": "Corporate Events",
+            "description": "Significant occurrences in a company that can affect its stock price, such as mergers, acquisitions, or restructurings."
+        },
+        {
+            "name": "Market Psychology",
+            "description": "The psychological factors that influence the behavior of investors and the market as a whole."
+        },
+        {
+            "name": "Investor Behavior",
+            "description": "The actions and decisions made by investors based on their perceptions, emotions, and psychological factors."
+        },
+        {
+            "name": "Management Quality",
+            "description": "Management quality refers to the effectiveness and integrity of a company's leadership, which significantly impacts its performance and value."
+        },
+        {
+            "name": "Tax Considerations",
+            "description": "The impact of taxes on investment decisions and returns, influencing strategies such as holding periods and asset allocation."
+        },
+        {
+            "name": "Financial Ratios",
+            "description": "Quantitative measures used to assess a company's financial performance and condition, often used in investment analysis."
+        },
+        {
+            "name": "Market Analysis",
+            "description": "The study of market conditions to identify trends, opportunities, and risks, often used to inform investment decisions."
+        },
+        {
+            "name": "Financial Performance",
+            "description": "An assessment of a company's profitability, revenue generation, and overall financial health."
+        },
+        {
+            "name": "Look-Through Earnings",
+            "description": "A measure of economic performance that includes not only reported earnings but also the share of retained earnings from investees."
+        },
+        {
+            "name": "Cost of Float",
+            "description": "Cost of float refers to the cost associated with holding insurance reserves, calculated as the underwriting profit or loss from insurance operations."
+        },
+        {
+            "name": "Acquisition Criteria",
+            "description": "The set of standards and guidelines that a company uses to evaluate potential acquisition targets."
+        },
+        {
+            "name": "Market Price",
+            "description": "Market price is the current price at which a company's stock is traded on the stock market, which can fluctuate based on investor sentiment and market conditions."
+        },
+        {
+            "name": "Long-Term Focus",
+            "description": "Long-term focus is an investment strategy that prioritizes sustainable growth and value creation over short-term gains or market fluctuations."
+        },
+        {
+            "name": "Tax Implications",
+            "description": "Tax implications refer to the effects of taxation on investment returns, including capital gains taxes and corporate tax liabilities."
+        },
+        {
+            "name": "Economic Characteristics",
+            "description": "Economic characteristics are the fundamental attributes of a business that determine its ability to generate profits and sustain growth."
+        },
+        {
+            "name": "Shareholder Orientation",
+            "description": "Shareholder orientation refers to a company's commitment to prioritizing the interests and welfare of its shareholders in decision-making."
+        },
+        {
+            "name": "Market Fluctuations",
+            "description": "The variations in stock prices that occur due to market conditions, which can impact investor sentiment and behavior."
+        },
+        {
+            "name": "Valuation Techniques",
+            "description": "Valuation techniques are methods used to estimate the worth of an asset or business, including discounted cash flow analysis and comparative analysis."
+        },
+        {
+            "name": "Compensation Alignment",
+            "description": "The principle of ensuring that management compensation is directly tied to the performance of the specific business unit they manage rather than the overall company performance."
+        },
+        {
+            "name": "Super-Cat Insurance",
+            "description": "A type of insurance that covers catastrophic events, which are rare but can lead to significant losses."
+        },
+        {
+            "name": "Management Autonomy",
+            "description": "The level of independence that managers of subsidiary companies have in making decisions without interference from the parent company."
+        },
+        {
+            "name": "Rational Decision-Making",
+            "description": "The approach of making investment decisions based on logical reasoning and analysis rather than emotional responses."
+        },
+        {
+            "name": "Investment Diversification",
+            "description": "The practice of spreading investments across various assets to reduce risk."
+        },
+        {
+            "name": "Cyclical vs. Secular Trends",
+            "description": "Cyclical trends are short-term fluctuations in the economy, while secular trends are long-term shifts that can affect industries and markets."
+        },
+        {
+            "name": "Investment in Human Capital",
+            "description": "The focus on acquiring and retaining talented individuals within a company to drive performance and innovation."
+        },
+        {
+            "name": "Sustainable Business Practices",
+            "description": "Business strategies that focus on long-term sustainability and social responsibility."
+        },
+        {
+            "name": "Financial Reporting",
+            "description": "The process of producing statements that disclose an organization's financial status to management, investors, and the government."
+        },
+        {
+            "name": "Mergers and Acquisitions",
+            "description": "The process of consolidating companies or assets through various types of financial transactions."
+        },
+        {
+            "name": "Corporate Culture",
+            "description": "The beliefs, values, and behaviors that shape how a company's employees interact and work together."
+        },
+        {
+            "name": "Ajit Jain",
+            "description": "A key executive at Berkshire Hathaway known for his discipline in underwriting and ability to identify profitable insurance opportunities."
+        },
+        {
+            "name": "GEICO",
+            "description": "A subsidiary of Berkshire Hathaway that provides auto insurance and is known for its low-cost policies and strong market share."
+        },
+        {
+            "name": "Tony Nicely",
+            "description": "CEO of GEICO, credited with exceptional management skills and driving significant growth in the company's auto insurance policies."
+        },
+        {
+            "name": "Profit Sharing",
+            "description": "A compensation structure that rewards employees based on the profitability of the company, often linked to performance metrics."
+        },
+        {
+            "name": "Acquisitions",
+            "description": "The process of acquiring control of another company, either by purchasing its shares or assets."
+        },
+        {
+            "name": "Insurance Industry",
+            "description": "A sector that provides risk management through the issuance of policies that cover various types of risks."
+        },
+        {
+            "name": "Market Share",
+            "description": "The portion of a market controlled by a particular company or product, often used as an indicator of competitiveness."
+        },
+        {
+            "name": "Customer Satisfaction",
+            "description": "A measure of how products and services supplied by a company meet or surpass customer expectations."
+        },
+        {
+            "name": "Management Philosophy",
+            "description": "The guiding principles and values that influence how a company's management operates and makes decisions."
+        },
+        {
+            "name": "Annual Meeting",
+            "description": "An event hosted by Berkshire Hathaway where shareholders gather to discuss the company's performance and future, often featuring presentations by Warren Buffett and Charlie Munger."
+        },
+        {
+            "name": "Direct-to-Consumer Marketing",
+            "description": "A strategy that allows companies to sell their products directly to consumers, bypassing intermediaries."
+        },
+        {
+            "name": "Compensation Structure",
+            "description": "The system used by a company to determine how employees are paid, including salaries, bonuses, and profit-sharing."
+        },
+        {
+            "name": "Insurance Underwriting",
+            "description": "The process of evaluating the risk of insuring a client and determining the terms and pricing of the insurance policy."
+        },
+        {
+            "name": "Customer Retention",
+            "description": "The ability of a company to keep its customers over time, often measured by repeat purchases."
+        },
+        {
+            "name": "Volatility",
+            "description": "The degree of variation in trading prices over time, often associated with risk in investments."
+        },
+        {
+            "name": "Regulatory Compliance",
+            "description": "The process of ensuring that a company adheres to laws, regulations, guidelines, and specifications relevant to its business."
+        },
+        {
+            "name": "Market Penetration",
+            "description": "The percentage of a target market that consumes a company's product or service."
+        },
+        {
+            "name": "Junk Bonds",
+            "description": "High-yield bonds that carry a higher risk of default compared to investment-grade bonds, often issued by companies with lower credit ratings."
+        },
+        {
+            "name": "LBO (Leveraged Buyout)",
+            "description": "A financial transaction in which a company is purchased using a significant amount of borrowed money, often secured by the assets of the company being acquired."
+        },
+        {
+            "name": "Underwriting Loss",
+            "description": "The financial loss incurred by an insurance company when the costs of claims and expenses exceed the premiums collected."
+        },
+        {
+            "name": "Acquisition",
+            "description": "The process of acquiring control over another company, often to expand market share or diversify business operations."
+        },
+        {
+            "name": "Emotional Attachment in Business Sales",
+            "description": "The connection a business owner has with their company, which can influence their decision-making during the sale process."
+        },
+        {
+            "name": "Honest Accounting",
+            "description": "Financial reporting that accurately reflects the company's financial position without manipulation or misrepresentation."
+        },
+        {
+            "name": "Insurance Company Evaluation",
+            "description": "The assessment of an insurance company's financial health, focusing on factors like float, cost of float, and long-term outlook."
+        },
+        {
+            "name": "Reserve Estimation",
+            "description": "The process of determining the amount of money an insurance company needs to set aside to cover future claims."
+        },
+        {
+            "name": "Retroactive Insurance",
+            "description": "Insurance policies that cover losses incurred in the past, often involving the assumption of liabilities from another insurer."
+        },
+        {
+            "name": "Market Value Accounting",
+            "description": "The practice of valuing assets based on their current market price rather than historical cost."
+        },
+        {
+            "name": "Derivatives",
+            "description": "Financial contracts whose value is derived from the performance of underlying assets, often used for hedging or speculation."
+        },
+        {
+            "name": "Underwriting Discipline",
+            "description": "The practice of adhering to strict guidelines when evaluating and accepting insurance risks to ensure profitability."
+        },
+        {
+            "name": "Cost of Capital",
+            "description": "The return rate that a company must earn on its investment projects to maintain its market value and attract funds."
+        },
+        {
+            "name": "Market Inefficiency",
+            "description": "A situation where asset prices do not reflect all available information, leading to potential investment opportunities."
+        },
+        {
+            "name": "Valuation Metrics",
+            "description": "Quantitative measures used to assess the value of a company, including price-to-earnings ratio, price-to-book ratio, and dividend yield."
+        },
+        {
+            "name": "Economic Principles",
+            "description": "The fundamental concepts that guide economic behavior and decision-making."
+        },
+        {
+            "name": "Regulated Utility Businesses",
+            "description": "Companies that provide essential services such as water, electricity, or natural gas, which are regulated by government entities."
+        },
+        {
+            "name": "Taxation",
+            "description": "The financial charge imposed by a government on individuals and corporations, impacting their net income and investment decisions."
+        },
+        {
+            "name": "Cash Equivalents",
+            "description": "Short-term investments that are easily convertible to cash, typically with a maturity of three months or less."
+        },
+        {
+            "name": "Equity Holdings",
+            "description": "The ownership interest in a company represented by shares of stock."
+        },
+        {
+            "name": "S&P 500 Index",
+            "description": "A stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States."
+        },
+        {
+            "name": "Consumer Finance",
+            "description": "Financial services provided to consumers, including loans, credit cards, and mortgages."
+        },
+        {
+            "name": "Stock Options",
+            "description": "Contracts that give the holder the right to buy or sell a stock at a predetermined price within a specified time frame."
+        },
+        {
+            "name": "Market Inefficiencies",
+            "description": "Situations where asset prices do not reflect all available information, leading to opportunities for profit."
+        },
+        {
+            "name": "Shareholder Democracy",
+            "description": "The concept that shareholders should have a voice in the governance and decision-making processes of a company."
+        },
+        {
+            "name": "Short-Term Borrowing",
+            "description": "Loans or credit that are expected to be repaid within a year."
+        },
+        {
+            "name": "Financial Independence",
+            "description": "The state of having sufficient personal wealth to live without having to work actively for basic necessities."
+        },
+        {
+            "name": "Wealth Transfer",
+            "description": "The process of passing assets from one individual or entity to another, often occurring through gifts, inheritance, or financial transactions."
+        },
+        {
+            "name": "Earnings",
+            "description": "The net income or profit generated by a business after all expenses, taxes, and costs have been deducted."
+        },
+        {
+            "name": "Manufacturing",
+            "description": "The process of converting raw materials into finished goods through the use of labor, machinery, tools, and chemical or biological processing."
+        },
+        {
+            "name": "Insurance",
+            "description": "A financial arrangement that provides protection against financial loss or risk in exchange for regular premium payments."
+        },
+        {
+            "name": "Market Value",
+            "description": "The current price at which an asset or company can be bought or sold in the market."
+        },
+        {
+            "name": "CEO Succession",
+            "description": "The process of planning for the transition of leadership within a company, particularly when a CEO retires or leaves."
+        },
+        {
+            "name": "Financial Leverage",
+            "description": "The use of borrowed funds to increase the potential return on investment, which can also increase risk."
+        },
+        {
+            "name": "Pension Plans",
+            "description": "Retirement plans that require an employer to make contributions to a pool of funds set aside for a worker's future benefit."
+        },
+        {
+            "name": "Sustainable Growth",
+            "description": "The rate at which a company can grow its sales, earnings, and cash flow without having to increase debt or equity financing."
+        },
+        {
+            "name": "Consumer Behavior",
+            "description": "The study of how individuals make decisions to spend their available resources on consumption-related items."
+        },
+        {
+            "name": "Strategic Planning",
+            "description": "An organization's process of defining its strategy or direction and making decisions on allocating its resources to pursue this strategy."
+        },
+        {
+            "name": "NetJets",
+            "description": "A subsidiary of Berkshire Hathaway that offers fractional ownership of private jets, providing a unique aviation service."
+        },
+        {
+            "name": "Clayton Homes",
+            "description": "The largest manufacturer of manufactured and modular homes in the U.S., also involved in home financing."
+        },
+        {
+            "name": "Burlington Northern Santa Fe (BNSF)",
+            "description": "A major North American freight railroad network acquired by Berkshire Hathaway, known for its extensive rail operations."
+        },
+        {
+            "name": "MidAmerican Energy",
+            "description": "A subsidiary of Berkshire Hathaway that provides utility services, including electricity and natural gas, and is heavily involved in renewable energy."
+        },
+        {
+            "name": "Inflation",
+            "description": "The rate at which the general level of prices for goods and services rises, eroding purchasing power."
+        },
+        {
+            "name": "Earnings Reports",
+            "description": "Quarterly or annual financial statements released by companies detailing their performance, earnings, and financial health."
+        },
+        {
+            "name": "Shareholder Discounts",
+            "description": "Special pricing or offers available to shareholders of a company, often used as a marketing strategy to enhance loyalty."
+        },
+        {
+            "name": "Leverage",
+            "description": "The use of borrowed capital to increase the potential return on investment, which can also increase risk."
+        },
+        {
+            "name": "Regulated Utilities",
+            "description": "Companies that provide essential services such as electricity and water, often subject to government regulation regarding pricing and operations."
+        },
+        {
+            "name": "Financial Flexibility",
+            "description": "The ability of a company to adapt its financial strategy in response to changing market conditions or opportunities."
+        },
+        {
+            "name": "Strategic Partnerships",
+            "description": "Collaborations between companies that leverage each other's strengths to achieve mutual goals."
+        },
+        {
+            "name": "Economic Resilience",
+            "description": "The ability of an economy to recover from shocks and maintain stable growth."
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Market Capitalization",
+            "weight": 0.8
+        },
+        {
+            "source": "Float",
+            "target": "Underwriting Profit",
+            "weight": 0.85
+        },
+        {
+            "source": "Underwriting Profit",
+            "target": "Investment Income",
+            "weight": 0.75
+        },
+        {
+            "source": "Capital Allocation",
+            "target": "Bolt-On Acquisitions",
+            "weight": 0.8
+        },
+        {
+            "source": "Regulated Industries",
+            "target": "Insurance Economics",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Capitalization",
+            "target": "Shareholder Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Operating Earnings",
+            "target": "Shareholder Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Goodwill",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Insurance Economics",
+            "target": "Float",
+            "weight": 0.9
+        },
+        {
+            "source": "Non-Controlled Ownership Earnings",
+            "target": "Intrinsic Value",
+            "weight": 0.7
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Shareholder Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Income",
+            "target": "Shareholder Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Shareholder Value",
+            "weight": 0.75
+        },
+        {
+            "source": "Market Recognition",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Performance",
+            "target": "Intrinsic Value",
+            "weight": 0.75
+        },
+        {
+            "source": "Long-Term Investments",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Dividend Policy",
+            "target": "Shareholder Value",
+            "weight": 0.85
+        },
+        {
+            "source": "S&P 500",
+            "target": "Market Capitalization",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Volatility",
+            "target": "Economic Performance",
+            "weight": 0.65
+        },
+        {
+            "source": "Economic Growth",
+            "target": "Market Capitalization",
+            "weight": 0.75
+        },
+        {
+            "source": "Financial Strength",
+            "target": "Shareholder Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Acquisition Strategy",
+            "target": "Capital Allocation",
+            "weight": 0.85
+        },
+        {
+            "source": "Share Repurchase",
+            "target": "Shareholder Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Risk Management",
+            "target": "Financial Strength",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Social Responsibility",
+            "target": "Shareholder Value",
+            "weight": 0.7
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Intrinsic Value",
+            "weight": 0.75
+        },
+        {
+            "source": "Performance Metrics",
+            "target": "Economic Performance",
+            "weight": 0.8
+        },
+        {
+            "source": "Shareholder Activism",
+            "target": "Corporate Governance",
+            "weight": 0.75
+        },
+        {
+            "source": "Business Valuation",
+            "target": "Intrinsic Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Economic Indicators",
+            "target": "Market Capitalization",
+            "weight": 0.7
+        },
+        {
+            "source": "EBITDA",
+            "target": "GAAP",
+            "weight": 0.8
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Goodwill",
+            "weight": 0.7
+        },
+        {
+            "source": "Capital Allocation",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Float",
+            "target": "Underwriting Profit",
+            "weight": 0.85
+        },
+        {
+            "source": "Cigar-Butt Investing",
+            "target": "Capital Allocation",
+            "weight": 0.6
+        },
+        {
+            "source": "Berkshire's Acquisition Criteria",
+            "target": "Capital Allocation",
+            "weight": 0.8
+        },
+        {
+            "source": "Diversification",
+            "target": "Market Volatility",
+            "weight": 0.75
+        },
+        {
+            "source": "Market Volatility",
+            "target": "Investment Returns",
+            "weight": 0.65
+        },
+        {
+            "source": "Insurance Cycle",
+            "target": "Underwriting Profit",
+            "weight": 0.9
+        },
+        {
+            "source": "Regulatory Environment",
+            "target": "Insurance Cycle",
+            "weight": 0.7
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Shareholder Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Capitalization",
+            "target": "Intrinsic Value",
+            "weight": 0.75
+        },
+        {
+            "source": "Debt Financing",
+            "target": "Cash Flow",
+            "weight": 0.8
+        },
+        {
+            "source": "Risk Management",
+            "target": "Financial Resilience",
+            "weight": 0.85
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Bolt-On Acquisitions",
+            "target": "Operational Efficiency",
+            "weight": 0.75
+        },
+        {
+            "source": "Long-Term Investment Horizon",
+            "target": "Investment Returns",
+            "weight": 0.85
+        },
+        {
+            "source": "Stock Buybacks",
+            "target": "Shareholder Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Market Volatility",
+            "weight": 0.7
+        },
+        {
+            "source": "Consumer Price Index (CPI)",
+            "target": "Economic Growth",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Dynamics",
+            "target": "Market Volatility",
+            "weight": 0.7
+        },
+        {
+            "source": "Financial Resilience",
+            "target": "Corporate Governance",
+            "weight": 0.75
+        },
+        {
+            "source": "Investment Returns",
+            "target": "Economic Growth",
+            "weight": 0.8
+        },
+        {
+            "source": "Shareholder Principles",
+            "target": "Corporate Governance",
+            "weight": 0.85
+        },
+        {
+            "source": "Repurchase Policy",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Float",
+            "target": "Underwriting Profit",
+            "weight": 0.9
+        },
+        {
+            "source": "Economic Earnings",
+            "target": "Accounting Earnings",
+            "weight": 0.7
+        },
+        {
+            "source": "Debt Financing",
+            "target": "Capital Allocation",
+            "weight": 0.6
+        },
+        {
+            "source": "Insurance Industry Dynamics",
+            "target": "Underwriting Profit",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Capitalization",
+            "target": "Intrinsic Value",
+            "weight": 0.75
+        },
+        {
+            "source": "Investment Income",
+            "target": "Float",
+            "weight": 0.85
+        },
+        {
+            "source": "Regulatory Environment",
+            "target": "Insurance Industry Dynamics",
+            "weight": 0.9
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Market Capitalization",
+            "weight": 0.8
+        },
+        {
+            "source": "Acquisition Strategy",
+            "target": "Capital Allocation",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Volatility",
+            "target": "Market Capitalization",
+            "weight": 0.85
+        },
+        {
+            "source": "Long-Tail Insurance",
+            "target": "Underwriting Profit",
+            "weight": 0.7
+        },
+        {
+            "source": "Shareholder Value",
+            "target": "Repurchase Policy",
+            "weight": 0.9
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Shareholder Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Competitive Advantage",
+            "weight": 0.9
+        },
+        {
+            "source": "Cash Reserves",
+            "target": "Financial Resilience",
+            "weight": 0.8
+        },
+        {
+            "source": "Risk Management",
+            "target": "Underwriting Profit",
+            "weight": 0.75
+        },
+        {
+            "source": "Tax Efficiency",
+            "target": "Shareholder Value",
+            "weight": 0.7
+        },
+        {
+            "source": "Shareholder Communication",
+            "target": "Shareholder Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Value Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Market Capitalization",
+            "weight": 0.8
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Financial Resilience",
+            "weight": 0.75
+        },
+        {
+            "source": "Economic Growth",
+            "target": "Market Capitalization",
+            "weight": 0.7
+        },
+        {
+            "source": "Diversification",
+            "target": "Risk Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Long-Term Investment",
+            "target": "Value Investing",
+            "weight": 0.85
+        },
+        {
+            "source": "Market Correction",
+            "target": "Market Volatility",
+            "weight": 0.9
+        },
+        {
+            "source": "Shareholder Activism",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "Financial Resilience",
+            "target": "Corporate Social Responsibility",
+            "weight": 0.7
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Insurance Float",
+            "weight": 0.9
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Operating Earnings",
+            "weight": 0.8
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Intrinsic Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Share Repurchases",
+            "weight": 0.75
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Controlled Businesses",
+            "weight": 0.9
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Marketable Securities",
+            "weight": 0.8
+        },
+        {
+            "source": "Insurance Float",
+            "target": "Investment Philosophy",
+            "weight": 0.7
+        },
+        {
+            "source": "Operating Earnings",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Market Capitalization",
+            "weight": 0.75
+        },
+        {
+            "source": "Share Repurchases",
+            "target": "Shareholder Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Controlled Businesses",
+            "target": "Economic Moat",
+            "weight": 0.8
+        },
+        {
+            "source": "Marketable Securities",
+            "target": "Investment Returns",
+            "weight": 0.7
+        },
+        {
+            "source": "Debt Management",
+            "target": "Financial Resilience",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Stakeholder Engagement",
+            "weight": 0.75
+        },
+        {
+            "source": "Economic Growth",
+            "target": "Market Trends",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Volatility",
+            "target": "Investment Strategy",
+            "weight": 0.6
+        },
+        {
+            "source": "Dividend Policy",
+            "target": "Shareholder Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Equity Investments",
+            "target": "Market Sentiment",
+            "weight": 0.7
+        },
+        {
+            "source": "Financial Resilience",
+            "target": "Risk Management",
+            "weight": 0.85
+        },
+        {
+            "source": "Philanthropy",
+            "target": "Corporate Governance",
+            "weight": 0.65
+        },
+        {
+            "source": "Regulatory Environment",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Capitalization",
+            "target": "Competitive Advantage",
+            "weight": 0.7
+        },
+        {
+            "source": "Investment Returns",
+            "target": "Financial Literacy",
+            "weight": 0.75
+        },
+        {
+            "source": "Behavioral Finance",
+            "target": "Market Sentiment",
+            "weight": 0.8
+        },
+        {
+            "source": "Financial Statements",
+            "target": "Business Valuation",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Trends",
+            "target": "Economic Growth",
+            "weight": 0.75
+        },
+        {
+            "source": "Financial Literacy",
+            "target": "Investment Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Stakeholder Engagement",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "Business Valuation",
+            "target": "Intrinsic Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Investment Strategy",
+            "weight": 0.7
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Risk Management",
+            "weight": 0.75
+        },
+        {
+            "source": "Intrinsic Business Value",
+            "target": "Book Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Goodwill",
+            "target": "Intrinsic Business Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Pension Asset Management",
+            "target": "Investment Risk",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Prices",
+            "target": "Intrinsic Business Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Risk",
+            "target": "Diversification",
+            "weight": 0.6
+        },
+        {
+            "source": "Capital Allocation",
+            "target": "Investment Returns",
+            "weight": 0.9
+        },
+        {
+            "source": "Underwriting Profit",
+            "target": "Combined Ratio",
+            "weight": 0.85
+        },
+        {
+            "source": "Economic Goodwill",
+            "target": "Intrinsic Business Value",
+            "weight": 0.75
+        },
+        {
+            "source": "Long-tail Insurance",
+            "target": "Underwriting Profit",
+            "weight": 0.6
+        },
+        {
+            "source": "Structured Settlements",
+            "target": "Insurance Operations",
+            "weight": 0.7
+        },
+        {
+            "source": "Reinsurance",
+            "target": "Insurance Operations",
+            "weight": 0.8
+        },
+        {
+            "source": "Marketable Securities",
+            "target": "Investment Returns",
+            "weight": 0.85
+        },
+        {
+            "source": "Shareholder Contributions",
+            "target": "Corporate Governance",
+            "weight": 0.6
+        },
+        {
+            "source": "Cash Flow",
+            "target": "Financial Strength",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Acquisition Strategy",
+            "weight": 0.75
+        },
+        {
+            "source": "Debt Management",
+            "target": "Financial Strength",
+            "weight": 0.8
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Earnings Growth",
+            "weight": 0.85
+        },
+        {
+            "source": "Consumer Franchise",
+            "target": "Earnings Growth",
+            "weight": 0.8
+        },
+        {
+            "source": "Financial Strength",
+            "target": "Market Volatility",
+            "weight": 0.7
+        },
+        {
+            "source": "Investment Returns",
+            "target": "Earnings Growth",
+            "weight": 0.9
+        },
+        {
+            "source": "Economic Conditions",
+            "target": "Market Prices",
+            "weight": 0.75
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Shareholder Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Risk Assessment",
+            "target": "Investment Risk",
+            "weight": 0.8
+        },
+        {
+            "source": "Earnings Growth",
+            "target": "Intrinsic Business Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Efficiency",
+            "target": "Market Prices",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Horizon",
+            "target": "Investment Risk",
+            "weight": 0.7
+        },
+        {
+            "source": "Liquidity",
+            "target": "Market Prices",
+            "weight": 0.75
+        },
+        {
+            "source": "Long-term Investment",
+            "target": "Intrinsic Business Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Tax-exempt Bonds",
+            "target": "Long-term Investment",
+            "weight": 0.7
+        },
+        {
+            "source": "Intrinsic Business Value",
+            "target": "Capital Allocation",
+            "weight": 0.9
+        },
+        {
+            "source": "Capital Allocation",
+            "target": "Marketable Securities",
+            "weight": 0.8
+        },
+        {
+            "source": "Underwriting Profit",
+            "target": "Insurance Operations",
+            "weight": 0.9
+        },
+        {
+            "source": "Goodwill",
+            "target": "Business Acquisition",
+            "weight": 0.8
+        },
+        {
+            "source": "Float",
+            "target": "Insurance Operations",
+            "weight": 0.85
+        },
+        {
+            "source": "Arbitrage",
+            "target": "Marketable Securities",
+            "weight": 0.75
+        },
+        {
+            "source": "Insurance Operations",
+            "target": "Market Conditions",
+            "weight": 0.8
+        },
+        {
+            "source": "Management Integrity",
+            "target": "Competitive Advantage",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Conditions",
+            "target": "Economic Cycle",
+            "weight": 0.7
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Management Integrity",
+            "weight": 0.85
+        },
+        {
+            "source": "Shareholder Contributions",
+            "target": "Shareholder Value",
+            "weight": 0.7
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Economic Moat",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Investment Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Valuation",
+            "target": "Investment Returns",
+            "weight": 0.75
+        },
+        {
+            "source": "Return on Equity (ROE)",
+            "target": "Financial Strength",
+            "weight": 0.9
+        },
+        {
+            "source": "Corporate Debt",
+            "target": "Financial Strength",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Market Efficiency",
+            "weight": 0.7
+        },
+        {
+            "source": "Regulatory Environment",
+            "target": "Market Dynamics",
+            "weight": 0.75
+        },
+        {
+            "source": "Investment Returns",
+            "target": "Shareholder Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Business Model",
+            "target": "Investment Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Dynamics",
+            "target": "Corporate Governance",
+            "weight": 0.6
+        },
+        {
+            "source": "Business Acquisition",
+            "target": "Intrinsic Business Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Efficiency",
+            "target": "Investment Strategy",
+            "weight": 0.7
+        },
+        {
+            "source": "Arbitrage",
+            "target": "Efficient Market Theory",
+            "weight": 0.8
+        },
+        {
+            "source": "Arbitrage",
+            "target": "Risk Arbitrage",
+            "weight": 0.9
+        },
+        {
+            "source": "Risk Arbitrage",
+            "target": "Corporate Events",
+            "weight": 0.85
+        },
+        {
+            "source": "Efficient Market Theory",
+            "target": "Market Psychology",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Psychology",
+            "target": "Investor Behavior",
+            "weight": 0.8
+        },
+        {
+            "source": "Investor Behavior",
+            "target": "Market Trends",
+            "weight": 0.75
+        },
+        {
+            "source": "Market Trends",
+            "target": "Long-Term Investments",
+            "weight": 0.7
+        },
+        {
+            "source": "Long-Term Investments",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Corporate Governance",
+            "weight": 0.75
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Management Quality",
+            "weight": 0.8
+        },
+        {
+            "source": "Management Quality",
+            "target": "Long-Term Investments",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Volatility",
+            "target": "Corporate Events",
+            "weight": 0.75
+        },
+        {
+            "source": "Market Volatility",
+            "target": "Investor Behavior",
+            "weight": 0.7
+        },
+        {
+            "source": "Tax Considerations",
+            "target": "Long-Term Investments",
+            "weight": 0.8
+        },
+        {
+            "source": "Cash Flow",
+            "target": "Intrinsic Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Financial Ratios",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Long-Term Investments",
+            "weight": 0.85
+        },
+        {
+            "source": "Risk Management",
+            "target": "Investment Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Analysis",
+            "target": "Investment Strategy",
+            "weight": 0.85
+        },
+        {
+            "source": "Economic Indicators",
+            "target": "Market Analysis",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Returns",
+            "target": "Long-Term Investments",
+            "weight": 0.85
+        },
+        {
+            "source": "Shareholder Value",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Financial Performance",
+            "target": "Management Quality",
+            "weight": 0.85
+        },
+        {
+            "source": "Look-Through Earnings",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Book Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Cost of Float",
+            "target": "Underwriting Profit",
+            "weight": 0.85
+        },
+        {
+            "source": "Combined Ratio",
+            "target": "Underwriting Profit",
+            "weight": 0.9
+        },
+        {
+            "source": "Acquisition Criteria",
+            "target": "Management Quality",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Price",
+            "target": "Intrinsic Value",
+            "weight": 0.75
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Long-Term Focus",
+            "weight": 0.85
+        },
+        {
+            "source": "Capital Allocation",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Insurance Operations",
+            "target": "Cost of Float",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Competitive Advantage",
+            "weight": 0.95
+        },
+        {
+            "source": "Shareholder Contributions",
+            "target": "Shareholder Orientation",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Volatility",
+            "target": "Investment Returns",
+            "weight": 0.85
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Market Price",
+            "weight": 0.8
+        },
+        {
+            "source": "Tax Implications",
+            "target": "Investment Returns",
+            "weight": 0.75
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Management Quality",
+            "weight": 0.85
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Risk Assessment",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Characteristics",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Fluctuations",
+            "target": "Market Price",
+            "weight": 0.85
+        },
+        {
+            "source": "Risk Assessment",
+            "target": "Investment Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Valuation Techniques",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Horizon",
+            "target": "Investment Returns",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Market Price",
+            "weight": 0.75
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Economic Characteristics",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Conditions",
+            "target": "Market Price",
+            "weight": 0.7
+        },
+        {
+            "source": "Acquisition Strategy",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Compensation Alignment",
+            "target": "Management Autonomy",
+            "weight": 0.8
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Look-Through Earnings",
+            "weight": 0.85
+        },
+        {
+            "source": "Float",
+            "target": "Underwriting Profit",
+            "weight": 0.9
+        },
+        {
+            "source": "Super-Cat Insurance",
+            "target": "Risk Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Fluctuations",
+            "target": "Investment Philosophy",
+            "weight": 0.75
+        },
+        {
+            "source": "Capital Allocation",
+            "target": "Investment Returns",
+            "weight": 0.85
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Competitive Advantage",
+            "weight": 0.9
+        },
+        {
+            "source": "Long-Term Investing",
+            "target": "Investment Horizon",
+            "weight": 0.8
+        },
+        {
+            "source": "Rational Decision-Making",
+            "target": "Behavioral Finance",
+            "weight": 0.6
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Sustainable Business Practices",
+            "weight": 0.7
+        },
+        {
+            "source": "Financial Strength",
+            "target": "Operational Efficiency",
+            "weight": 0.8
+        },
+        {
+            "source": "Cyclical vs. Secular Trends",
+            "target": "Market Sentiment",
+            "weight": 0.65
+        },
+        {
+            "source": "Investment in Human Capital",
+            "target": "Corporate Culture",
+            "weight": 0.75
+        },
+        {
+            "source": "Mergers and Acquisitions",
+            "target": "Corporate Governance",
+            "weight": 0.7
+        },
+        {
+            "source": "Financial Reporting",
+            "target": "Investment Returns",
+            "weight": 0.75
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Market Efficiency",
+            "weight": 0.7
+        },
+        {
+            "source": "Shareholder Contributions",
+            "target": "Sustainable Business Practices",
+            "weight": 0.6
+        },
+        {
+            "source": "Financial Strength",
+            "target": "Risk Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Investment Returns",
+            "weight": 0.65
+        },
+        {
+            "source": "Investment Horizon",
+            "target": "Long-Term Investing",
+            "weight": 0.85
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Economic Moat",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment in Human Capital",
+            "target": "Operational Efficiency",
+            "weight": 0.7
+        },
+        {
+            "source": "Corporate Culture",
+            "target": "Management Autonomy",
+            "weight": 0.65
+        },
+        {
+            "source": "Behavioral Finance",
+            "target": "Market Sentiment",
+            "weight": 0.75
+        },
+        {
+            "source": "Financial Reporting",
+            "target": "Corporate Governance",
+            "weight": 0.7
+        },
+        {
+            "source": "Ajit Jain",
+            "target": "Insurance Industry",
+            "weight": 0.9
+        },
+        {
+            "source": "GEICO",
+            "target": "Underwriting Profit",
+            "weight": 0.8
+        },
+        {
+            "source": "Tony Nicely",
+            "target": "GEICO",
+            "weight": 0.95
+        },
+        {
+            "source": "Float",
+            "target": "Underwriting Profit",
+            "weight": 0.85
+        },
+        {
+            "source": "Profit Sharing",
+            "target": "Employee Motivation",
+            "weight": 0.8
+        },
+        {
+            "source": "Look-Through Earnings",
+            "target": "Intrinsic Value",
+            "weight": 0.75
+        },
+        {
+            "source": "Acquisitions",
+            "target": "Market Share",
+            "weight": 0.8
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Capital Allocation",
+            "weight": 0.85
+        },
+        {
+            "source": "Insurance Industry",
+            "target": "Market Conditions",
+            "weight": 0.7
+        },
+        {
+            "source": "Customer Satisfaction",
+            "target": "Market Penetration",
+            "weight": 0.7
+        },
+        {
+            "source": "Management Philosophy",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Goodwill",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Cash Flow",
+            "target": "Financial Performance",
+            "weight": 0.85
+        },
+        {
+            "source": "Regulatory Environment",
+            "target": "Insurance Industry",
+            "weight": 0.75
+        },
+        {
+            "source": "Shareholder Contributions",
+            "target": "Corporate Social Responsibility",
+            "weight": 0.8
+        },
+        {
+            "source": "Annual Meeting",
+            "target": "Shareholder Engagement",
+            "weight": 0.9
+        },
+        {
+            "source": "Direct-to-Consumer Marketing",
+            "target": "Customer Retention",
+            "weight": 0.8
+        },
+        {
+            "source": "Compensation Structure",
+            "target": "Employee Motivation",
+            "weight": 0.85
+        },
+        {
+            "source": "Acquisition Criteria",
+            "target": "Market Conditions",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Conditions",
+            "target": "Volatility",
+            "weight": 0.75
+        },
+        {
+            "source": "Insurance Underwriting",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Financial Performance",
+            "weight": 0.85
+        },
+        {
+            "source": "Business Model",
+            "target": "Operational Efficiency",
+            "weight": 0.8
+        },
+        {
+            "source": "Customer Retention",
+            "target": "Customer Satisfaction",
+            "weight": 0.85
+        },
+        {
+            "source": "Regulatory Compliance",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Penetration",
+            "target": "Customer Satisfaction",
+            "weight": 0.75
+        },
+        {
+            "source": "Financial Performance",
+            "target": "Intrinsic Value",
+            "weight": 0.85
+        },
+        {
+            "source": "Risk Management",
+            "target": "Insurance Industry",
+            "weight": 0.9
+        },
+        {
+            "source": "Junk Bonds",
+            "target": "LBO",
+            "weight": 0.7
+        },
+        {
+            "source": "Float",
+            "target": "Underwriting Loss",
+            "weight": 0.8
+        },
+        {
+            "source": "Acquisition",
+            "target": "Emotional Attachment in Business Sales",
+            "weight": 0.6
+        },
+        {
+            "source": "Honest Accounting",
+            "target": "Management Integrity",
+            "weight": 0.9
+        },
+        {
+            "source": "Insurance Company Evaluation",
+            "target": "Reserve Estimation",
+            "weight": 0.8
+        },
+        {
+            "source": "Retroactive Insurance",
+            "target": "Float",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Value Accounting",
+            "target": "Investment Strategy",
+            "weight": 0.6
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Management Integrity",
+            "weight": 0.8
+        },
+        {
+            "source": "Derivatives",
+            "target": "Market Inefficiency",
+            "weight": 0.7
+        },
+        {
+            "source": "Underwriting Discipline",
+            "target": "Risk Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Long-term Investment",
+            "weight": 0.9
+        },
+        {
+            "source": "Shareholder Value",
+            "target": "Economic Moat",
+            "weight": 0.8
+        },
+        {
+            "source": "Financial Strength",
+            "target": "Risk Management",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Inefficiency",
+            "target": "Valuation Metrics",
+            "weight": 0.6
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Cost of Capital",
+            "weight": 0.7
+        },
+        {
+            "source": "Tax Efficiency",
+            "target": "Shareholder Value",
+            "weight": 0.6
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Investment Horizon",
+            "weight": 0.5
+        },
+        {
+            "source": "Valuation Metrics",
+            "target": "Market Sentiment",
+            "weight": 0.6
+        },
+        {
+            "source": "Management Integrity",
+            "target": "Economic Principles",
+            "weight": 0.7
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Economic Principles",
+            "weight": 0.8
+        },
+        {
+            "source": "Float",
+            "target": "Cost of Capital",
+            "weight": 0.7
+        },
+        {
+            "source": "Underwriting Loss",
+            "target": "Float",
+            "weight": 0.8
+        },
+        {
+            "source": "Risk Management",
+            "target": "Operational Efficiency",
+            "weight": 0.7
+        },
+        {
+            "source": "Long-term Investment",
+            "target": "Shareholder Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Shareholder Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Book Value",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Float",
+            "target": "Insurance Underwriting",
+            "weight": 0.9
+        },
+        {
+            "source": "Acquisitions",
+            "target": "Market Share",
+            "weight": 0.7
+        },
+        {
+            "source": "Insurance Underwriting",
+            "target": "Risk Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Shareholder Democracy",
+            "weight": 0.9
+        },
+        {
+            "source": "Philanthropy",
+            "target": "Shareholder Contributions",
+            "weight": 0.6
+        },
+        {
+            "source": "Annual Meeting",
+            "target": "Shareholder Democracy",
+            "weight": 0.7
+        },
+        {
+            "source": "Taxation",
+            "target": "Wealth Transfer",
+            "weight": 0.6
+        },
+        {
+            "source": "Debt Management",
+            "target": "Financial Independence",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Long-Term Investments",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Valuation",
+            "target": "Equity Holdings",
+            "weight": 0.9
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Financial Reporting",
+            "weight": 0.7
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Consumer Finance",
+            "target": "Float",
+            "weight": 0.6
+        },
+        {
+            "source": "Stock Options",
+            "target": "Corporate Governance",
+            "weight": 0.5
+        },
+        {
+            "source": "Derivatives",
+            "target": "Market Inefficiencies",
+            "weight": 0.7
+        },
+        {
+            "source": "Long-Term Investments",
+            "target": "Economic Principles",
+            "weight": 0.8
+        },
+        {
+            "source": "Short-Term Borrowing",
+            "target": "Debt Management",
+            "weight": 0.7
+        },
+        {
+            "source": "Wealth Transfer",
+            "target": "Economic Moat",
+            "weight": 0.6
+        },
+        {
+            "source": "Financial Independence",
+            "target": "Market Valuation",
+            "weight": 0.5
+        },
+        {
+            "source": "Market Share",
+            "target": "Acquisitions",
+            "weight": 0.7
+        },
+        {
+            "source": "Insurance Underwriting",
+            "target": "Float",
+            "weight": 0.9
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Financial Reporting",
+            "weight": 0.6
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Market Valuation",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Principles",
+            "target": "Market Inefficiencies",
+            "weight": 0.6
+        },
+        {
+            "source": "Philanthropy",
+            "target": "Corporate Governance",
+            "weight": 0.5
+        },
+        {
+            "source": "Annual Meeting",
+            "target": "Corporate Governance",
+            "weight": 0.6
+        },
+        {
+            "source": "Debt Management",
+            "target": "Financial Reporting",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Share",
+            "target": "Financial Independence",
+            "weight": 0.5
+        },
+        {
+            "source": "Wealth Transfer",
+            "target": "Financial Independence",
+            "weight": 0.6
+        },
+        {
+            "source": "Insurance Underwriting",
+            "target": "Corporate Governance",
+            "weight": 0.5
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Acquisitions",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Valuation",
+            "target": "Insurance Underwriting",
+            "weight": 0.8
+        },
+        {
+            "source": "Earnings",
+            "target": "Market Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Manufacturing",
+            "target": "Supply Chain",
+            "weight": 0.8
+        },
+        {
+            "source": "Derivatives",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Float",
+            "target": "Investments",
+            "weight": 0.8
+        },
+        {
+            "source": "Acquisitions",
+            "target": "Corporate Governance",
+            "weight": 0.7
+        },
+        {
+            "source": "Insurance",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Goodwill",
+            "target": "Acquisitions",
+            "weight": 0.8
+        },
+        {
+            "source": "CEO Succession",
+            "target": "Corporate Governance",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Returns",
+            "target": "Earnings",
+            "weight": 0.8
+        },
+        {
+            "source": "Operating Earnings",
+            "target": "Earnings",
+            "weight": 0.9
+        },
+        {
+            "source": "Financial Leverage",
+            "target": "Debt Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Capitalization",
+            "target": "Market Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Pension Plans",
+            "target": "Taxation",
+            "weight": 0.7
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Shareholder Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Risk Management",
+            "target": "Liquidity",
+            "weight": 0.7
+        },
+        {
+            "source": "Cash Flow",
+            "target": "Earnings",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Efficiency",
+            "target": "Investment Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Economic Moat",
+            "weight": 0.9
+        },
+        {
+            "source": "Regulatory Compliance",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "Shareholder Value",
+            "target": "Earnings",
+            "weight": 0.9
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Competitive Advantage",
+            "weight": 0.9
+        },
+        {
+            "source": "Financial Reporting",
+            "target": "Taxation",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Culture",
+            "target": "Operational Efficiency",
+            "weight": 0.7
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Market Trends",
+            "weight": 0.8
+        },
+        {
+            "source": "Sustainable Growth",
+            "target": "Debt Management",
+            "weight": 0.7
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Cash Flow",
+            "weight": 0.8
+        },
+        {
+            "source": "Consumer Behavior",
+            "target": "Market Trends",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Indicators",
+            "target": "Market Trends",
+            "weight": 0.9
+        },
+        {
+            "source": "Strategic Planning",
+            "target": "Investment Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Liquidity",
+            "target": "Debt Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Debt Management",
+            "target": "Financial Leverage",
+            "weight": 0.9
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Annual Meeting",
+            "weight": 0.9
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "GEICO",
+            "weight": 0.8
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "NetJets",
+            "weight": 0.8
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Clayton Homes",
+            "weight": 0.8
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Burlington Northern Santa Fe (BNSF)",
+            "weight": 0.8
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "MidAmerican Energy",
+            "weight": 0.8
+        },
+        {
+            "source": "Insurance Float",
+            "target": "Underwriting Profit",
+            "weight": 0.9
+        },
+        {
+            "source": "Insurance Float",
+            "target": "Berkshire Hathaway",
+            "weight": 0.8
+        },
+        {
+            "source": "GEICO",
+            "target": "Market Capitalization",
+            "weight": 0.7
+        },
+        {
+            "source": "GEICO",
+            "target": "Competitive Advantage",
+            "weight": 0.8
+        },
+        {
+            "source": "NetJets",
+            "target": "Consumer Behavior",
+            "weight": 0.7
+        },
+        {
+            "source": "Clayton Homes",
+            "target": "Consumer Behavior",
+            "weight": 0.7
+        },
+        {
+            "source": "Burlington Northern Santa Fe (BNSF)",
+            "target": "Regulatory Environment",
+            "weight": 0.8
+        },
+        {
+            "source": "MidAmerican Energy",
+            "target": "Regulatory Environment",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Long-term Investment",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Acquisition Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Financial Performance",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Culture",
+            "target": "Operational Efficiency",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Conditions",
+            "target": "Financial Performance",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Trends",
+            "target": "Consumer Behavior",
+            "weight": 0.7
+        },
+        {
+            "source": "Risk Management",
+            "target": "Financial Performance",
+            "weight": 0.8
+        },
+        {
+            "source": "Shareholder Value",
+            "target": "Shareholder Discounts",
+            "weight": 0.9
+        },
+        {
+            "source": "Earnings Reports",
+            "target": "Financial Performance",
+            "weight": 0.9
+        },
+        {
+            "source": "Cost of Capital",
+            "target": "Financial Performance",
+            "weight": 0.8
+        },
+        {
+            "source": "Inflation",
+            "target": "Cost of Capital",
+            "weight": 0.7
+        },
+        {
+            "source": "Diversification",
+            "target": "Investment Philosophy",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Competitive Advantage",
+            "weight": 0.9
+        },
+        {
+            "source": "Berkshire Hathaway",
+            "target": "Intrinsic Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Intrinsic Value",
+            "target": "Book Value",
+            "weight": 0.8
+        },
+        {
+            "source": "Float",
+            "target": "Underwriting Profit",
+            "weight": 0.85
+        },
+        {
+            "source": "Underwriting Profit",
+            "target": "Insurance Operations",
+            "weight": 0.9
+        },
+        {
+            "source": "Leverage",
+            "target": "Investment Philosophy",
+            "weight": 0.7
+        },
+        {
+            "source": "Acquisition Strategy",
+            "target": "Market Capitalization",
+            "weight": 0.75
+        },
+        {
+            "source": "Insurance Operations",
+            "target": "Float",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Capitalization",
+            "target": "Earnings Growth",
+            "weight": 0.85
+        },
+        {
+            "source": "Capital Allocation",
+            "target": "Investment Philosophy",
+            "weight": 0.8
+        },
+        {
+            "source": "Derivatives",
+            "target": "Risk Management",
+            "weight": 0.75
+        },
+        {
+            "source": "Market Conditions",
+            "target": "Consumer Behavior",
+            "weight": 0.7
+        },
+        {
+            "source": "Financial Flexibility",
+            "target": "Cash Flow",
+            "weight": 0.8
+        },
+        {
+            "source": "Operational Efficiency",
+            "target": "Market Share",
+            "weight": 0.75
+        },
+        {
+            "source": "Strategic Partnerships",
+            "target": "Market Share",
+            "weight": 0.6
+        },
+        {
+            "source": "Sustainable Growth",
+            "target": "Shareholder Value",
+            "weight": 0.9
+        },
+        {
+            "source": "Economic Resilience",
+            "target": "Market Conditions",
+            "weight": 0.7
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Economic Moat",
+            "weight": 0.85
+        },
+        {
+            "source": "Cost of Capital",
+            "target": "Investment Philosophy",
+            "weight": 0.65
+        },
+        {
+            "source": "Value Investing",
+            "target": "Intrinsic Value",
+            "weight": 0.8
+        }
+    ]
+}

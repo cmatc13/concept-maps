@@ -1,0 +1,985 @@
+{
+    "concepts": [
+        {
+            "name": "Evolutionary Biology",
+            "description": "The study of the causes and nature of the evolution of organisms since the beginning of life on Earth."
+        },
+        {
+            "name": "Investing",
+            "description": "The act of allocating resources, usually money, in order to generate income or profit."
+        },
+        {
+            "name": "Knowledge and Truth",
+            "description": "The pursuit of understanding and factual accuracy, often emphasized in scientific fields like evolutionary biology."
+        },
+        {
+            "name": "Active vs. Passive Investing",
+            "description": "Active investing involves frequent buying and selling of assets, while passive investing typically involves a buy-and-hold strategy."
+        },
+        {
+            "name": "Risk Management",
+            "description": "The identification, assessment, and prioritization of risks followed by coordinated efforts to minimize, monitor, and control the probability of unfortunate events."
+        },
+        {
+            "name": "Market Efficiency",
+            "description": "The degree to which stock prices reflect all available, relevant information."
+        },
+        {
+            "name": "Type I and Type II Errors",
+            "description": "Type I error refers to false positives, while Type II error refers to false negatives in decision-making processes."
+        },
+        {
+            "name": "Return on Capital Employed (ROCE)",
+            "description": "A financial metric that measures a company's profitability and the efficiency with which its capital is employed."
+        },
+        {
+            "name": "Margin of Safety",
+            "description": "An investment principle that suggests buying securities at a significant discount to their intrinsic value to minimize risk."
+        },
+        {
+            "name": "Robustness",
+            "description": "The ability of a system or organism to withstand changes and maintain functionality despite external and internal disturbances."
+        },
+        {
+            "name": "Calculated Risks",
+            "description": "Taking risks that are well-considered and based on thorough analysis, rather than impulsive or speculative decisions."
+        },
+        {
+            "name": "Competitive Advantage",
+            "description": "A condition or circumstance that puts a company in a favorable or superior business position."
+        },
+        {
+            "name": "Proximate vs. Ultimate Causes",
+            "description": "Proximate causes are immediate factors leading to an event, while ultimate causes refer to the deeper, underlying reasons."
+        },
+        {
+            "name": "Macroeconomic Factors",
+            "description": "Economic indicators that affect the economy as a whole, such as inflation rates, employment levels, and GDP growth."
+        },
+        {
+            "name": "Thematic Investing",
+            "description": "Investing based on specific themes or trends that are expected to drive market performance."
+        },
+        {
+            "name": "Long-Term Investing",
+            "description": "An investment strategy that involves holding assets for an extended period to benefit from their long-term growth potential."
+        },
+        {
+            "name": "Behavioral Economics",
+            "description": "A field of economics that examines how psychological factors influence economic decision-making."
+        },
+        {
+            "name": "Evolutionary Theory",
+            "description": "A scientific explanation for the diversity of life, focusing on natural selection and adaptation over time."
+        },
+        {
+            "name": "Natural Selection",
+            "description": "The process by which organisms better adapted to their environment tend to survive and produce more offspring."
+        },
+        {
+            "name": "Investment Philosophy",
+            "description": "The underlying principles and beliefs that guide an investor's decision-making process."
+        },
+        {
+            "name": "Corporate Governance",
+            "description": "The system of rules, practices, and processes by which a company is directed and controlled."
+        },
+        {
+            "name": "Financial Metrics",
+            "description": "Quantitative measures used to assess a company's financial performance, such as profit margins, earnings per share, and return on equity."
+        },
+        {
+            "name": "Market Sentiment",
+            "description": "The overall attitude of investors toward a particular security or financial market, often influenced by news and events."
+        },
+        {
+            "name": "Investment Risk",
+            "description": "The potential for loss or lower-than-expected returns on an investment."
+        },
+        {
+            "name": "Value Investing",
+            "description": "An investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value."
+        },
+        {
+            "name": "Diversification",
+            "description": "The practice of spreading investments across various financial instruments, industries, and other categories to reduce risk."
+        },
+        {
+            "name": "Market Trends",
+            "description": "Patterns or tendencies in market behavior that can indicate future movements."
+        },
+        {
+            "name": "Investment Horizon",
+            "description": "The length of time an investor expects to hold an investment before taking the money out."
+        },
+        {
+            "name": "Behavioral Biases",
+            "description": "Systematic patterns of deviation from norm or rationality in judgment, affecting investor decisions."
+        },
+        {
+            "name": "Longitudinal Studies",
+            "description": "Research studies that collect data from the same subjects repeatedly over a period of time."
+        },
+        {
+            "name": "Investment Returns",
+            "description": "The gain or loss made on an investment relative to the amount invested."
+        },
+        {
+            "name": "Sector Analysis",
+            "description": "The examination of a specific sector of the economy to identify investment opportunities."
+        },
+        {
+            "name": "Investment Strategies",
+            "description": "Approaches used by investors to allocate capital with the expectation of generating returns."
+        },
+        {
+            "name": "Financial Analysis",
+            "description": "The assessment of a company's financial health and performance through the examination of financial statements and metrics."
+        },
+        {
+            "name": "Corporate Strategy",
+            "description": "The overall plan for a company to achieve its goals and objectives."
+        },
+        {
+            "name": "New Age Automotive Companies",
+            "description": "Innovative companies focused on electric and autonomous vehicles, often characterized by high valuations despite limited revenue."
+        },
+        {
+            "name": "Market Valuation",
+            "description": "The total worth of a company as determined by the stock market, often influenced by investor sentiment and future growth expectations."
+        },
+        {
+            "name": "Proximate Causes",
+            "description": "Immediate factors or events that lead to an outcome, often contrasted with ultimate causes."
+        },
+        {
+            "name": "Ultimate Causes",
+            "description": "Underlying factors that explain the long-term success or failure of a business, beyond immediate events."
+        },
+        {
+            "name": "Total Addressable Market (TAM)",
+            "description": "The overall revenue opportunity available for a product or service, often used to gauge market potential."
+        },
+        {
+            "name": "Electric Vehicles (EVs)",
+            "description": "Automobiles that are powered by electricity rather than traditional fossil fuels, representing a significant shift in the automotive industry."
+        },
+        {
+            "name": "Initial Public Offerings (IPOs)",
+            "description": "The process through which a private company offers shares to the public for the first time, often used by startups to raise capital."
+        },
+        {
+            "name": "Feedback Loop",
+            "description": "A situation where the output of a system feeds back into the system as input, potentially amplifying effects."
+        },
+        {
+            "name": "Google Trends",
+            "description": "A tool that analyzes the popularity of search queries in Google, often used to gauge interest in specific topics."
+        },
+        {
+            "name": "Private Startups",
+            "description": "Companies that are not publicly traded and typically seek venture capital or private equity funding."
+        },
+        {
+            "name": "Market Dynamics",
+            "description": "The forces that impact the supply and demand of goods and services in a market."
+        },
+        {
+            "name": "Consumer Behavior",
+            "description": "The study of how individuals make decisions to spend their available resources on consumption-related items."
+        },
+        {
+            "name": "Financial Performance",
+            "description": "A measure of how well a company can use assets from its primary mode of business and generate revenues."
+        },
+        {
+            "name": "Scuttlebutt",
+            "description": "A method of gathering information about a company through informal channels, such as talking to customers and competitors."
+        },
+        {
+            "name": "Long-term Investing",
+            "description": "An investment strategy focused on holding assets for an extended period, typically years, to capitalize on long-term growth."
+        },
+        {
+            "name": "Valuation Metrics",
+            "description": "Quantitative measures used to assess the value of a company, including price-to-earnings ratio, price-to-book ratio, and discounted cash flow analysis."
+        },
+        {
+            "name": "Creative Destruction",
+            "description": "An economic concept where innovation leads to the demise of older industries or companies, allowing new ones to emerge."
+        },
+        {
+            "name": "Convergence in Nature",
+            "description": "The phenomenon where unrelated species evolve similar traits or behaviors in response to similar environmental challenges."
+        },
+        {
+            "name": "Supply Chain Dynamics",
+            "description": "The flow of goods and services from suppliers to consumers, including the processes involved in production and distribution."
+        },
+        {
+            "name": "Consumer Technology",
+            "description": "Products and services that are designed for personal use and consumption, often driven by innovation and market demand."
+        },
+        {
+            "name": "Financial Reporting",
+            "description": "The process of disclosing financial information to stakeholders, including income statements, balance sheets, and cash flow statements."
+        },
+        {
+            "name": "Fortune 500",
+            "description": "An annual list published by Fortune magazine ranking the 500 largest U.S. companies by total revenue."
+        },
+        {
+            "name": "Private Equity",
+            "description": "Investment funds that buy and restructure private companies, often leading to significant changes in management and operations."
+        },
+        {
+            "name": "Long-term Investment",
+            "description": "An investment strategy focused on holding assets for an extended period, typically years or decades, to maximize returns."
+        },
+        {
+            "name": "Market Concentration",
+            "description": "A measure of the degree to which a small number of firms dominate a market, often leading to less competition."
+        },
+        {
+            "name": "Punctuated Equilibrium",
+            "description": "A theory in evolutionary biology suggesting that species experience long periods of stability interrupted by brief periods of rapid change."
+        },
+        {
+            "name": "Stock Price Fluctuation",
+            "description": "The variations in the price of a stock over time, influenced by market conditions, investor sentiment, and company performance."
+        },
+        {
+            "name": "High-Quality Businesses",
+            "description": "Companies that exhibit strong fundamentals, consistent performance, and the ability to generate sustainable profits."
+        },
+        {
+            "name": "Failure Rate",
+            "description": "The percentage of companies that do not survive or perform poorly over a specified period."
+        },
+        {
+            "name": "Investment Strategy",
+            "description": "A plan or approach used by investors to allocate resources in order to achieve financial goals."
+        },
+        {
+            "name": "Empirical Data",
+            "description": "Information acquired by observation or experimentation, used to validate theories or hypotheses."
+        },
+        {
+            "name": "Market Share",
+            "description": "The portion of a market controlled by a particular company or product, often expressed as a percentage."
+        },
+        {
+            "name": "Debt Levels",
+            "description": "The amount of money a company owes to creditors, which can impact its financial stability and investment attractiveness."
+        },
+        {
+            "name": "Acquisition",
+            "description": "The process of one company purchasing another company, often to expand market reach or capabilities."
+        },
+        {
+            "name": "Valuation",
+            "description": "The process of determining the current worth of an asset or company, often used in investment decisions."
+        },
+        {
+            "name": "Resilience",
+            "description": "The ability of a business to withstand economic downturns and recover from challenges."
+        },
+        {
+            "name": "Cyclical Industries",
+            "description": "Industries that experience regular fluctuations in performance and profitability based on economic cycles."
+        },
+        {
+            "name": "Capital Allocation",
+            "description": "The process of deciding how to distribute financial resources among various investment opportunities."
+        },
+        {
+            "name": "Stock Market",
+            "description": "A collection of markets where shares of publicly held companies are issued and traded."
+        },
+        {
+            "name": "Portfolio Management",
+            "description": "The art and science of making decisions about investment mix and policy to manage an investment portfolio."
+        },
+        {
+            "name": "Economic Resilience",
+            "description": "The ability of an economy to recover from shocks and maintain growth."
+        },
+        {
+            "name": "Competitive Landscape",
+            "description": "The dynamic external system in which businesses compete, including the number of competitors and their relative strengths."
+        },
+        {
+            "name": "Investor Sentiment",
+            "description": "The overall attitude of investors toward a particular security or financial market."
+        },
+        {
+            "name": "Economic Indicators",
+            "description": "Statistics that provide information about the economic performance of a country or region."
+        },
+        {
+            "name": "fair prices",
+            "description": "The concept of fair prices refers to the appropriate valuation of assets based on their intrinsic value and market conditions."
+        },
+        {
+            "name": "financial crisis",
+            "description": "A financial crisis is a situation in which the value of financial institutions or assets drops rapidly, leading to a loss of confidence and economic instability."
+        },
+        {
+            "name": "feedback loops",
+            "description": "Feedback loops are processes where the output of a system feeds back into the system as input, influencing future outputs."
+        },
+        {
+            "name": "fast changing industries",
+            "description": "Industries characterized by rapid innovation and change, requiring businesses to adapt quickly to survive."
+        },
+        {
+            "name": "financial risks",
+            "description": "The potential for financial loss or adverse financial outcomes due to various factors, including market fluctuations and economic downturns."
+        },
+        {
+            "name": "forecasting",
+            "description": "The process of predicting future trends and events based on historical data and analysis."
+        },
+        {
+            "name": "fraud",
+            "description": "Deliberate deception to secure unfair or unlawful gain, often seen in financial contexts."
+        },
+        {
+            "name": "government owned businesses",
+            "description": "Enterprises owned and operated by the government, often providing public services."
+        },
+        {
+            "name": "high quality businesses",
+            "description": "Companies that demonstrate strong fundamentals, consistent performance, and sustainable competitive advantages."
+        },
+        {
+            "name": "long term investing",
+            "description": "An investment strategy focused on holding assets for an extended period to benefit from their growth over time."
+        },
+        {
+            "name": "margins",
+            "description": "The difference between the cost of goods sold and the revenue generated from sales, indicating profitability."
+        },
+        {
+            "name": "market valuations",
+            "description": "The process of determining the current worth of a business or asset based on market conditions."
+        },
+        {
+            "name": "opportunity costs",
+            "description": "The potential benefits lost when choosing one alternative over another."
+        },
+        {
+            "name": "private equity",
+            "description": "Investment in private companies or buyouts of public companies, typically involving long-term strategies."
+        },
+        {
+            "name": "risk avoidance",
+            "description": "Strategies aimed at minimizing exposure to potential losses or adverse outcomes."
+        },
+        {
+            "name": "return on equity",
+            "description": "A measure of financial performance calculated by dividing net income by shareholder's equity."
+        },
+        {
+            "name": "sustainable competitive advantage",
+            "description": "A long-term advantage that allows a company to outperform its competitors."
+        },
+        {
+            "name": "value creation",
+            "description": "The process of increasing the worth of a company through various strategies and operations."
+        },
+        {
+            "name": "volatility",
+            "description": "The degree of variation in trading prices over time, indicating the level of risk associated with an asset."
+        },
+        {
+            "name": "wealth creation",
+            "description": "The process of generating economic value, leading to an increase in wealth for individuals or organizations."
+        },
+        {
+            "name": "investment strategies",
+            "description": "Plans or methods employed by investors to achieve specific financial goals."
+        },
+        {
+            "name": "macroeconomics",
+            "description": "The branch of economics that studies the behavior and performance of an economy as a whole."
+        },
+        {
+            "name": "mergers and acquisitions",
+            "description": "The process of consolidating companies or assets through various types of financial transactions."
+        },
+        {
+            "name": "net debt",
+            "description": "A financial metric that indicates a company's total debt minus its cash and cash equivalents."
+        },
+        {
+            "name": "operating income",
+            "description": "The profit realized from a business's core operations, excluding deductions of interest and taxes."
+        },
+        {
+            "name": "price earnings ratio",
+            "description": "A valuation ratio calculated by dividing the market price per share by the earnings per share."
+        },
+        {
+            "name": "projected revenues",
+            "description": "Estimates of future sales or income based on historical data and market analysis."
+        },
+        {
+            "name": "return on capital employed",
+            "description": "A financial ratio that measures a company's profitability and the efficiency with which its capital is employed."
+        },
+        {
+            "name": "stock price fluctuations",
+            "description": "Variations in the price of a company's stock over time, influenced by market conditions and investor sentiment."
+        },
+        {
+            "name": "trailing twelve months",
+            "description": "A measurement of a company's financial performance over the past twelve months."
+        },
+        {
+            "name": "underperformance",
+            "description": "A situation where an investment or asset does not meet expected returns or benchmarks."
+        },
+        {
+            "name": "value stocks",
+            "description": "Stocks that are considered undervalued in price relative to their fundamentals."
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Investing",
+            "target": "Knowledge and Truth",
+            "weight": 0.8
+        },
+        {
+            "source": "Investing",
+            "target": "Risk Management",
+            "weight": 0.9
+        },
+        {
+            "source": "Investing",
+            "target": "Market Efficiency",
+            "weight": 0.85
+        },
+        {
+            "source": "Investing",
+            "target": "Long-Term Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Investing",
+            "target": "Value Investing",
+            "weight": 0.75
+        },
+        {
+            "source": "Risk Management",
+            "target": "Type I and Type II Errors",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Efficiency",
+            "target": "Investment Returns",
+            "weight": 0.7
+        },
+        {
+            "source": "Return on Capital Employed (ROCE)",
+            "target": "Investment Returns",
+            "weight": 0.85
+        },
+        {
+            "source": "Margin of Safety",
+            "target": "Value Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Robustness",
+            "target": "Investment Strategies",
+            "weight": 0.8
+        },
+        {
+            "source": "Proximate vs. Ultimate Causes",
+            "target": "Behavioral Economics",
+            "weight": 0.75
+        },
+        {
+            "source": "Proximate vs. Ultimate Causes",
+            "target": "Corporate Strategy",
+            "weight": 0.7
+        },
+        {
+            "source": "Macroeconomic Factors",
+            "target": "Market Trends",
+            "weight": 0.8
+        },
+        {
+            "source": "Thematic Investing",
+            "target": "Market Trends",
+            "weight": 0.75
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "Behavioral Biases",
+            "target": "Market Sentiment",
+            "weight": 0.85
+        },
+        {
+            "source": "Financial Metrics",
+            "target": "Financial Analysis",
+            "weight": 0.9
+        },
+        {
+            "source": "Sector Analysis",
+            "target": "Investment Strategies",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Horizon",
+            "target": "Investment Returns",
+            "weight": 0.75
+        },
+        {
+            "source": "Longitudinal Studies",
+            "target": "Behavioral Economics",
+            "weight": 0.7
+        },
+        {
+            "source": "Corporate Strategy",
+            "target": "Investment Strategies",
+            "weight": 0.85
+        },
+        {
+            "source": "Investment Returns",
+            "target": "Financial Analysis",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Risk",
+            "target": "Risk Management",
+            "weight": 0.95
+        },
+        {
+            "source": "Investment Risk",
+            "target": "Behavioral Biases",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Long-Term Investing",
+            "weight": 0.85
+        },
+        {
+            "source": "Calculated Risks",
+            "target": "Robustness",
+            "weight": 0.8
+        },
+        {
+            "source": "Calculated Risks",
+            "target": "Investment Strategies",
+            "weight": 0.75
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Investment Returns",
+            "weight": 0.85
+        },
+        {
+            "source": "Investment Strategies",
+            "target": "Market Efficiency",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Strategies",
+            "target": "Financial Metrics",
+            "weight": 0.75
+        },
+        {
+            "source": "Investment Strategies",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "Thematic Investing",
+            "target": "New Age Automotive Companies",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Valuation",
+            "target": "New Age Automotive Companies",
+            "weight": 0.8
+        },
+        {
+            "source": "Proximate Causes",
+            "target": "Ultimate Causes",
+            "weight": 0.7
+        },
+        {
+            "source": "Total Addressable Market (TAM)",
+            "target": "New Age Automotive Companies",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Strategies",
+            "target": "Thematic Investing",
+            "weight": 0.8
+        },
+        {
+            "source": "Electric Vehicles (EVs)",
+            "target": "New Age Automotive Companies",
+            "weight": 0.9
+        },
+        {
+            "source": "Initial Public Offerings (IPOs)",
+            "target": "New Age Automotive Companies",
+            "weight": 0.85
+        },
+        {
+            "source": "Feedback Loop",
+            "target": "Market Dynamics",
+            "weight": 0.75
+        },
+        {
+            "source": "Google Trends",
+            "target": "Consumer Behavior",
+            "weight": 0.7
+        },
+        {
+            "source": "Private Startups",
+            "target": "New Age Automotive Companies",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Dynamics",
+            "target": "Consumer Behavior",
+            "weight": 0.6
+        },
+        {
+            "source": "Financial Performance",
+            "target": "Market Valuation",
+            "weight": 0.85
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Market Dynamics",
+            "weight": 0.7
+        },
+        {
+            "source": "Scuttlebutt",
+            "target": "Financial Performance",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Financial Performance",
+            "weight": 0.75
+        },
+        {
+            "source": "Risk Management",
+            "target": "Investment Strategies",
+            "weight": 0.7
+        },
+        {
+            "source": "Long-term Investing",
+            "target": "Investment Strategies",
+            "weight": 0.8
+        },
+        {
+            "source": "Valuation Metrics",
+            "target": "Market Valuation",
+            "weight": 0.9
+        },
+        {
+            "source": "Creative Destruction",
+            "target": "Market Dynamics",
+            "weight": 0.8
+        },
+        {
+            "source": "Evolutionary Theory",
+            "target": "Convergence in Nature",
+            "weight": 0.85
+        },
+        {
+            "source": "Investment Philosophy",
+            "target": "Investment Strategies",
+            "weight": 0.8
+        },
+        {
+            "source": "Behavioral Economics",
+            "target": "Consumer Behavior",
+            "weight": 0.75
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Market Dynamics",
+            "weight": 0.7
+        },
+        {
+            "source": "Financial Analysis",
+            "target": "Investment Strategies",
+            "weight": 0.75
+        },
+        {
+            "source": "Investment Risk",
+            "target": "Market Dynamics",
+            "weight": 0.65
+        },
+        {
+            "source": "Market Trends",
+            "target": "Market Dynamics",
+            "weight": 0.8
+        },
+        {
+            "source": "Supply Chain Dynamics",
+            "target": "Market Dynamics",
+            "weight": 0.7
+        },
+        {
+            "source": "Consumer Technology",
+            "target": "Market Dynamics",
+            "weight": 0.75
+        },
+        {
+            "source": "Financial Reporting",
+            "target": "Financial Performance",
+            "weight": 0.85
+        },
+        {
+            "source": "Fortune 500",
+            "target": "Private Equity",
+            "weight": 0.7
+        },
+        {
+            "source": "Private Equity",
+            "target": "Acquisition",
+            "weight": 0.8
+        },
+        {
+            "source": "Creative Destruction",
+            "target": "Long-term Investment",
+            "weight": 0.6
+        },
+        {
+            "source": "Market Concentration",
+            "target": "Competitive Landscape",
+            "weight": 0.8
+        },
+        {
+            "source": "Punctuated Equilibrium",
+            "target": "Evolutionary Theory",
+            "weight": 0.9
+        },
+        {
+            "source": "Stock Price Fluctuation",
+            "target": "Market Trends",
+            "weight": 0.8
+        },
+        {
+            "source": "High-Quality Businesses",
+            "target": "Investment Strategy",
+            "weight": 0.9
+        },
+        {
+            "source": "Failure Rate",
+            "target": "Long-term Investment",
+            "weight": 0.7
+        },
+        {
+            "source": "Empirical Data",
+            "target": "Market Dynamics",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Share",
+            "target": "Competitive Landscape",
+            "weight": 0.7
+        },
+        {
+            "source": "Debt Levels",
+            "target": "Financial Performance",
+            "weight": 0.8
+        },
+        {
+            "source": "Valuation",
+            "target": "Investment Returns",
+            "weight": 0.9
+        },
+        {
+            "source": "Resilience",
+            "target": "Economic Resilience",
+            "weight": 0.8
+        },
+        {
+            "source": "Behavioral Economics",
+            "target": "Investor Sentiment",
+            "weight": 0.7
+        },
+        {
+            "source": "Investment Horizon",
+            "target": "Portfolio Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Risk Management",
+            "target": "Investment Strategy",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Dynamics",
+            "target": "Economic Indicators",
+            "weight": 0.7
+        },
+        {
+            "source": "Consumer Behavior",
+            "target": "Market Trends",
+            "weight": 0.6
+        },
+        {
+            "source": "Investment Returns",
+            "target": "Financial Performance",
+            "weight": 0.9
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Financial Performance",
+            "weight": 0.7
+        },
+        {
+            "source": "Competitive Landscape",
+            "target": "Market Efficiency",
+            "weight": 0.6
+        },
+        {
+            "source": "Investor Sentiment",
+            "target": "Market Trends",
+            "weight": 0.8
+        },
+        {
+            "source": "Economic Indicators",
+            "target": "Economic Resilience",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Efficiency",
+            "target": "Stock Price Fluctuation",
+            "weight": 0.8
+        },
+        {
+            "source": "Long-term Investment",
+            "target": "High-Quality Businesses",
+            "weight": 0.9
+        },
+        {
+            "source": "Creative Destruction",
+            "target": "Market Concentration",
+            "weight": 0.7
+        },
+        {
+            "source": "Punctuated Equilibrium",
+            "target": "Market Dynamics",
+            "weight": 0.6
+        },
+        {
+            "source": "Debt Levels",
+            "target": "Corporate Governance",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Trends",
+            "target": "Investor Sentiment",
+            "weight": 0.8
+        },
+        {
+            "source": "Financial Performance",
+            "target": "Corporate Governance",
+            "weight": 0.8
+        },
+        {
+            "source": "fair prices",
+            "target": "financial risks",
+            "weight": 0.7
+        },
+        {
+            "source": "financial crisis",
+            "target": "feedback loops",
+            "weight": 0.6
+        },
+        {
+            "source": "fast changing industries",
+            "target": "forecasting",
+            "weight": 0.8
+        },
+        {
+            "source": "financial risks",
+            "target": "opportunity costs",
+            "weight": 0.5
+        },
+        {
+            "source": "forecasting",
+            "target": "market valuations",
+            "weight": 0.9
+        },
+        {
+            "source": "fraud",
+            "target": "government owned businesses",
+            "weight": 0.4
+        },
+        {
+            "source": "high quality businesses",
+            "target": "long term investing",
+            "weight": 0.8
+        },
+        {
+            "source": "margins",
+            "target": "return on equity",
+            "weight": 0.7
+        },
+        {
+            "source": "market valuations",
+            "target": "private equity",
+            "weight": 0.6
+        },
+        {
+            "source": "risk avoidance",
+            "target": "volatility",
+            "weight": 0.5
+        },
+        {
+            "source": "return on equity",
+            "target": "value creation",
+            "weight": 0.7
+        },
+        {
+            "source": "sustainable competitive advantage",
+            "target": "wealth creation",
+            "weight": 0.8
+        },
+        {
+            "source": "investment strategies",
+            "target": "macroeconomics",
+            "weight": 0.6
+        },
+        {
+            "source": "mergers and acquisitions",
+            "target": "projected revenues",
+            "weight": 0.7
+        },
+        {
+            "source": "net debt",
+            "target": "operating income",
+            "weight": 0.5
+        },
+        {
+            "source": "price earnings ratio",
+            "target": "value stocks",
+            "weight": 0.6
+        },
+        {
+            "source": "underperformance",
+            "target": "value creation",
+            "weight": 0.4
+        }
+    ]
+}

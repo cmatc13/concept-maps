@@ -1,0 +1,4324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="book_list" attr.type="string"/>
+<key id="d16" for="edge" attr.name="book_count" attr.type="long"/>
+<key id="d15" for="edge" attr.name="books" attr.type="string"/>
+<key id="d14" for="edge" attr.name="width" attr.type="double"/>
+<key id="d13" for="edge" attr.name="description" attr.type="string"/>
+<key id="d12" for="edge" attr.name="relationship_type" attr.type="string"/>
+<key id="d11" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d10" for="node" attr.name="book_list" attr.type="string"/>
+<key id="d9" for="node" attr.name="book_count" attr.type="long"/>
+<key id="d8" for="node" attr.name="books" attr.type="string"/>
+<key id="d7" for="node" attr.name="size" attr.type="double"/>
+<key id="d6" for="node" attr.name="book_title" attr.type="string"/>
+<key id="d5" for="node" attr.name="chapter" attr.type="string"/>
+<key id="d4" for="node" attr.name="importance" attr.type="double"/>
+<key id="d3" for="node" attr.name="type" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="graph" attr.name="processed_date" attr.type="string"/>
+<key id="d0" for="graph" attr.name="title" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">The Halo Effect</data>
+<data key="d1">2024-11-29T13:40:18.025654</data>
+<node id="Delusion of Absolute Performance">
+  <data key="d2">The misconception that a company's performance can be judged in isolation, without considering the competitive context.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Delusion of the Wrong End of the Stick">
+  <data key="d2">A focused strategy may correlate with success, but it does not guarantee it.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Delusion of Organizational Physics">
+  <data key="d2">Company performance cannot be predicted with the same certainty as scientific laws.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Core Business Focus">
+  <data key="d2">Companies often need to return to their core competencies to regain profitability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Adaptation">
+  <data key="d2">Companies must adapt to changing market conditions to maintain relevance and success.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Halo Effect">
+  <data key="d2">A cognitive bias where the perception of one positive quality leads to the assumption of other positive qualities.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Hubris">
+  <data key="d2">Excessive pride in leadership can lead to poor decision-making and eventual failure.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Culture">
+  <data key="d2">The shared values, beliefs, and practices that shape the behavior and performance of an organization.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Orientation">
+  <data key="d2">A focus on customer needs and satisfaction is crucial for business success.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Performance">
+  <data key="d2">Financial metrics are often used to gauge overall company health and influence perceptions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Leadership Influence">
+  <data key="d2">The effectiveness of a company's leadership can significantly impact its performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Acquisition Strategy">
+  <data key="d2">Companies often grow through acquisitions, but success depends on effective integration.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Risk Management">
+  <data key="d2">The identification, assessment, and prioritization of risks followed by coordinated efforts to minimize, monitor, and control the probability of unfortunate events.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Innovation">
+  <data key="d2">Continuous innovation is necessary for companies to stay competitive in rapidly changing markets.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Strategic Vision">
+  <data key="d2">A clear strategic vision guides companies in decision-making and long-term planning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Engagement">
+  <data key="d2">Engaged employees are more productive and contribute positively to company performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management">
+  <data key="d2">The strategies and actions taken by a company to respond to and recover from significant adverse events.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Positioning">
+  <data key="d2">How a company positions itself in the market can influence its success and customer perception.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Operational Efficiency">
+  <data key="d2">The ability of a company to deliver products or services in the most cost-effective manner without sacrificing quality.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Longitudinal Studies">
+  <data key="d2">Longitudinal studies track changes over time, providing better insights into causality.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Quasi-experimental Designs">
+  <data key="d2">These designs allow researchers to study effects in real-world settings without full control.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Causal Inference">
+  <data key="d2">Determining causality requires careful analysis to avoid misleading conclusions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Social Responsibility (CSR)">
+  <data key="d2">CSR practices can enhance a company's reputation and potentially lead to better financial performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Turbulence">
+  <data key="d2">Changes in market conditions can significantly impact company performance and strategy.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Satisfaction">
+  <data key="d2">Satisfied employees are believed to contribute to higher company performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Management Practices">
+  <data key="d2">The methods and techniques used by managers to organize, plan, and control company resources.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Strategic Alignment">
+  <data key="d2">Aligning business units around a common strategic vision can enhance overall performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Innovation Culture">
+  <data key="d2">A culture that encourages innovation can lead to new products and services that drive growth.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Performance Attribution">
+  <data key="d2">Attributing performance to specific factors can be misleading due to the Halo Effect.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Delusion of Correlation and Causality">
+  <data key="d2">Assuming that correlation implies causation can lead to incorrect conclusions about performance drivers.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Delusion of Single Explanations">
+  <data key="d2">Relying on a single factor to explain performance overlooks the complexity of business success.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Delusion of Connecting the Winning Dots">
+  <data key="d2">Only studying successful companies can lead to misleading conclusions about what drives success.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cognitive Dissonance">
+  <data key="d2">The discomfort of holding conflicting beliefs can lead to biased perceptions and attributions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Executive Compensation">
+  <data key="d2">High executive compensation can lead to public scrutiny and perceptions of greed.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis of Confidence">
+  <data key="d2">Public perception of a company's integrity can shift dramatically in response to crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Expectations">
+  <data key="d2">The anticipated performance of a company's stock based on various factors, including economic conditions and company performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Performance Metrics">
+  <data key="d2">Using objective performance metrics is essential for accurate assessments of company health.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Supply Chain Management">
+  <data key="d2">Effective supply chain management is crucial for operational efficiency and customer satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Strategic Decision Making">
+  <data key="d2">Making informed strategic decisions is critical for navigating complex business environments.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Model Innovation">
+  <data key="d2">Innovating business models can provide competitive advantages in changing markets.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cultural Fit">
+  <data key="d2">Ensuring a good cultural fit during mergers and acquisitions can enhance integration success.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Stakeholder Engagement">
+  <data key="d2">The process of involving individuals or groups that have an interest in the company's activities and outcomes.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Data-Driven Decision Making">
+  <data key="d2">The practice of making decisions based on data analysis rather than intuition or observation alone.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Agility">
+  <data key="d2">The ability to adapt quickly to market changes is vital for sustaining competitive advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Performance Reviews">
+  <data key="d2">Regular performance reviews can help identify strengths and weaknesses within a company.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Research">
+  <data key="d2">Conducting thorough market research is essential for understanding customer needs and preferences.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Brand Equity">
+  <data key="d2">Strong brand equity can enhance customer loyalty and drive sales.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Metrics">
+  <data key="d2">Financial metrics are often used as indicators of overall company performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Recovery">
+  <data key="d2">Companies must develop strategies for recovering from crises to restore performance and reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Advantage">
+  <data key="d2">Achieving and maintaining competitive advantage is crucial for long-term success.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Organizational Learning">
+  <data key="d2">Fostering a culture of learning can help companies adapt and innovate.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Development">
+  <data key="d2">Investing in employee development can lead to higher engagement and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Leadership">
+  <data key="d2">Being a market leader can enhance a company's reputation and attract more customers.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Transparency">
+  <data key="d2">Transparency in financial reporting can build trust with investors and stakeholders.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Communication">
+  <data key="d2">Effective communication during a crisis is essential for managing public perception.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Innovation Strategy">
+  <data key="d2">A clear innovation strategy can guide companies in developing new products and services.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Long-Term Planning">
+  <data key="d2">Strategic long-term planning is essential for navigating uncertainties in the business environment.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Differentiation">
+  <data key="d2">Differentiating products and services can help companies stand out in competitive markets.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Stakeholder Value">
+  <data key="d2">Balancing the interests of various stakeholders is crucial for sustainable business success.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Preparedness">
+  <data key="d2">Being prepared for potential crises can mitigate their impact on company performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Innovation Metrics">
+  <data key="d2">Measuring innovation outcomes can help companies assess their effectiveness in this area.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Operational Resilience">
+  <data key="d2">Building resilience in operations can help companies withstand disruptions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Loyalty">
+  <data key="d2">The tendency of customers to continue buying from a particular brand or company.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Segmentation">
+  <data key="d2">Segmenting the market allows companies to tailor their offerings to specific customer needs.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Governance">
+  <data key="d2">The system by which companies are directed and controlled, including the roles of shareholders, boards of directors, and management.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cultural Transformation">
+  <data key="d2">Transforming corporate culture can lead to improved performance and employee satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Strategic Partnerships">
+  <data key="d2">Forming strategic partnerships can enhance capabilities and market reach.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Change Management">
+  <data key="d2">Effective change management practices are essential for successful organizational transitions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Feedback">
+  <data key="d2">Gathering customer feedback is vital for understanding their needs and improving products.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Trends">
+  <data key="d2">The general direction in which a market is moving, often influenced by consumer behavior and preferences.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Performance Benchmarking">
+  <data key="d2">Benchmarking against industry standards can help companies identify areas for improvement.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Social Capital">
+  <data key="d2">Building social capital within and outside the organization can enhance collaboration and trust.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Retention">
+  <data key="d2">High employee retention rates can indicate a healthy organizational culture.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Brand Loyalty">
+  <data key="d2">Brand loyalty can significantly impact a company's market position and profitability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Practices">
+  <data key="d2">Implementing sustainability practices can enhance a company's reputation and operational efficiency.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Leadership">
+  <data key="d2">Strong leadership during crises can help steer a company through difficult times.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Intelligence">
+  <data key="d2">Gathering market intelligence is essential for making informed strategic decisions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Ethics">
+  <data key="d2">Maintaining high ethical standards is crucial for long-term success and reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Innovation Ecosystem">
+  <data key="d2">A network of organizations and individuals that work together to foster innovation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Health">
+  <data key="d2">Assessing financial health is essential for understanding a company's overall performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Resilience">
+  <data key="d2">Building resilience can help companies recover more quickly from adverse events.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Leadership Development">
+  <data key="d2">Investing in leadership development can strengthen a company's management capabilities.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Operational Strategy">
+  <data key="d2">A clear operational strategy is essential for achieving business objectives.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Experience">
+  <data key="d2">The overall perception of a customer based on their interactions with a company.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Brand Reputation">
+  <data key="d2">A strong brand reputation can enhance customer trust and attract new business.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Planning">
+  <data key="d2">Having a crisis management plan can help mitigate risks and protect the company.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Data Analytics">
+  <data key="d2">Leveraging data analytics can provide insights for better decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Empowerment">
+  <data key="d2">Empowering employees can lead to greater innovation and job satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Strategic Resource Allocation">
+  <data key="d2">Allocating resources strategically is essential for maximizing impact and efficiency.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Recovery Strategies">
+  <data key="d2">Developing recovery strategies can help companies bounce back from setbacks.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Landscape">
+  <data key="d2">Understanding the competitive landscape is crucial for strategic planning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Talent Management">
+  <data key="d2">Effective talent management practices can enhance organizational performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Sustainability">
+  <data key="d2">Ensuring financial sustainability is essential for long-term business viability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Communication Strategy">
+  <data key="d2">A well-defined crisis communication strategy can help manage public perception.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Innovation Pipeline">
+  <data key="d2">Maintaining a robust innovation pipeline is essential for long-term growth.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Responsiveness">
+  <data key="d2">Being responsive to market changes is crucial for maintaining a competitive edge.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Organizational Agility">
+  <data key="d2">Organizational agility enables companies to adapt quickly to changing conditions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Reporting">
+  <data key="d2">Transparent financial reporting is essential for building trust with stakeholders.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Preparedness Planning">
+  <data key="d2">Planning for potential crises can help organizations respond effectively.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer-Centric Strategy">
+  <data key="d2">A customer-centric strategy focuses on meeting customer needs and preferences.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Brand Strategy">
+  <data key="d2">A well-defined brand strategy can enhance market positioning and customer loyalty.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Risk Assessment">
+  <data key="d2">The identification and analysis of potential issues that could negatively impact key business initiatives or projects.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Feedback Mechanisms">
+  <data key="d2">Implementing feedback mechanisms can enhance employee engagement and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Share Analysis">
+  <data key="d2">Analyzing market share can provide insights into competitive positioning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Social Impact">
+  <data key="d2">Assessing corporate social impact can enhance reputation and stakeholder relations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Leadership Accountability">
+  <data key="d2">Holding leaders accountable for performance can drive better results.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Leadership Training">
+  <data key="d2">Training leaders in crisis management can enhance organizational resilience.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Recognition Programs">
+  <data key="d2">Implementing recognition programs can boost morale and retention.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Metrics">
+  <data key="d2">Measuring sustainability efforts can enhance corporate responsibility and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Strategy">
+  <data key="d2">Developing a competitive strategy is essential for gaining market advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Retention Strategies">
+  <data key="d2">Implementing customer retention strategies can enhance long-term profitability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Risk Management">
+  <data key="d2">Effective financial risk management practices are essential for stability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Simulation Exercises">
+  <data key="d2">Conducting crisis simulations can prepare organizations for real-world challenges.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Satisfaction Surveys">
+  <data key="d2">Conducting surveys can provide valuable insights into customer preferences.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Brand Equity Measurement">
+  <data key="d2">Measuring brand equity can provide insights into market positioning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Response Teams">
+  <data key="d2">Establishing crisis response teams can enhance organizational preparedness.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Training Programs">
+  <data key="d2">Investing in training can enhance employee skills and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Opportunity Analysis">
+  <data key="d2">Analyzing market opportunities can guide strategic decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Governance Standards">
+  <data key="d2">Adhering to governance standards can enhance accountability and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Recovery Plans">
+  <data key="d2">Developing recovery plans can help organizations rebound from setbacks.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Experience Management">
+  <data key="d2">Managing customer experience is crucial for enhancing satisfaction and loyalty.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Performance Indicators">
+  <data key="d2">Using performance indicators can help assess overall company health.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Frameworks">
+  <data key="d2">Establishing frameworks can guide organizations in responding to crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Engagement Surveys">
+  <data key="d2">Conducting engagement surveys can provide insights into workforce satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Initiatives">
+  <data key="d2">Implementing sustainability initiatives can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Analysis">
+  <data key="d2">Conducting competitive analysis can provide insights into market positioning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Philanthropy">
+  <data key="d2">Engaging in philanthropy can enhance corporate reputation and community relations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Communication Protocols">
+  <data key="d2">Establishing protocols can guide effective communication during crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Wellness Programs">
+  <data key="d2">Implementing wellness programs can enhance employee satisfaction and productivity.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Position Analysis">
+  <data key="d2">Analyzing market position can provide insights into competitive advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Ethics Training">
+  <data key="d2">Providing ethics training can enhance corporate responsibility and integrity.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Training">
+  <data key="d2">Training in crisis management can enhance organizational preparedness.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Development Plans">
+  <data key="d2">Creating development plans can enhance employee skills and career growth.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Entry Strategies">
+  <data key="d2">The planned method of delivering goods or services to a new target market.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Social Responsibility Reporting">
+  <data key="d2">Reporting on CSR efforts can enhance transparency and stakeholder trust.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Preparedness Training">
+  <data key="d2">Training in crisis preparedness can enhance organizational resilience.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Satisfaction Metrics">
+  <data key="d2">Measuring employee satisfaction can provide insights into workplace culture.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Reporting">
+  <data key="d2">Reporting on sustainability efforts can enhance corporate responsibility.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Positioning">
+  <data key="d2">Effective competitive positioning can enhance market share and profitability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Governance Practices">
+  <data key="d2">Implementing strong governance practices can enhance accountability and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Policies">
+  <data key="d2">Establishing policies can guide effective crisis response.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Feedback Systems">
+  <data key="d2">Implementing feedback systems can enhance employee engagement and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Share Growth">
+  <data key="d2">Growing market share is crucial for sustaining competitive advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Social Responsibility Initiatives">
+  <data key="d2">Engaging in CSR initiatives can enhance corporate reputation and stakeholder relations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Communication Plans">
+  <data key="d2">Developing communication plans can guide effective messaging during crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Productivity Metrics">
+  <data key="d2">Measuring productivity can provide insights into workforce effectiveness.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Demand Analysis">
+  <data key="d2">Analyzing market demand can guide strategic decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Responsibility Standards">
+  <data key="d2">Adhering to responsibility standards can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Framework">
+  <data key="d2">Establishing frameworks can guide organizations in responding to crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Engagement Strategies">
+  <data key="d2">Implementing engagement strategies can enhance workforce satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Trends Analysis">
+  <data key="d2">Analyzing market trends can guide strategic planning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Philanthropy Programs">
+  <data key="d2">Engaging in philanthropy can enhance corporate reputation and community relations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Recovery Frameworks">
+  <data key="d2">Establishing frameworks can guide organizations in recovering from crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Recognition Systems">
+  <data key="d2">Implementing recognition systems can boost morale and retention.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Goals">
+  <data key="d2">Setting sustainability goals can enhance corporate responsibility.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Strategy Development">
+  <data key="d2">Developing competitive strategies is essential for gaining market advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Retention Metrics">
+  <data key="d2">Measuring customer retention can provide insights into loyalty.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Health Metrics">
+  <data key="d2">Using financial health metrics is essential for understanding overall performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Assessment">
+  <data key="d2">Assessing crisis management capabilities can enhance preparedness.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Training and Development">
+  <data key="d2">The ongoing education and training of employees to enhance their skills and knowledge.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Opportunity Identification">
+  <data key="d2">Identifying market opportunities can guide strategic decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Protocols">
+  <data key="d2">Establishing protocols can guide effective crisis response.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Engagement Metrics">
+  <data key="d2">Measuring engagement can provide insights into workforce satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Practices Assessment">
+  <data key="d2">Assessing sustainability practices can enhance corporate responsibility.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Landscape Analysis">
+  <data key="d2">Analyzing the competitive landscape is crucial for strategic planning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Social Responsibility Assessment">
+  <data key="d2">Assessing CSR efforts can enhance transparency and stakeholder trust.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Training Programs">
+  <data key="d2">Training programs can enhance crisis management capabilities.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Development Strategies">
+  <data key="d2">Implementing development strategies can enhance employee skills and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Positioning Strategies">
+  <data key="d2">Developing positioning strategies can enhance competitive advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Ethics Assessment">
+  <data key="d2">Assessing ethics practices can enhance corporate responsibility.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Communication Training">
+  <data key="d2">Training in crisis communication can enhance organizational preparedness.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Satisfaction Surveys">
+  <data key="d2">Conducting surveys can provide insights into workplace culture.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Initiatives Assessment">
+  <data key="d2">Assessing sustainability initiatives can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Strategy Analysis">
+  <data key="d2">Analyzing competitive strategies can guide decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Philanthropy Assessment">
+  <data key="d2">Assessing philanthropy efforts can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Evaluation">
+  <data key="d2">Evaluating crisis management capabilities can enhance preparedness.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Recognition Programs Evaluation">
+  <data key="d2">Evaluating recognition programs can boost morale and retention.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Demand Evaluation">
+  <data key="d2">Evaluating market demand can guide strategic decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Responsibility Evaluation">
+  <data key="d2">Evaluating responsibility efforts can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Recovery Evaluation">
+  <data key="d2">Evaluating recovery strategies can help organizations rebound from setbacks.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Engagement Evaluation">
+  <data key="d2">Evaluating engagement can provide insights into workforce satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Reporting Evaluation">
+  <data key="d2">Evaluating sustainability reporting can enhance corporate responsibility.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Positioning Evaluation">
+  <data key="d2">Evaluating positioning can enhance market share and profitability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Governance Evaluation">
+  <data key="d2">Evaluating governance practices can enhance accountability and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Framework Evaluation">
+  <data key="d2">Evaluating frameworks can guide organizations in responding to crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Training Evaluation">
+  <data key="d2">Evaluating training can enhance employee skills and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Opportunity Evaluation">
+  <data key="d2">Evaluating opportunities can guide strategic decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Responsibility Standards Evaluation">
+  <data key="d2">Evaluating responsibility standards can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Protocol Evaluation">
+  <data key="d2">Evaluating protocols can guide effective crisis response.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Engagement Strategies Evaluation">
+  <data key="d2">Evaluating strategies can enhance workforce satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Trends Evaluation">
+  <data key="d2">Evaluating trends can guide strategic planning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Philanthropy Programs Evaluation">
+  <data key="d2">Evaluating philanthropy programs can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Training Evaluation">
+  <data key="d2">Evaluating training can enhance crisis management capabilities.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Development Programs Evaluation">
+  <data key="d2">Evaluating development programs can enhance employee skills and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Positioning Evaluation">
+  <data key="d2">Evaluating positioning can enhance competitive advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Governance Practices Evaluation">
+  <data key="d2">Evaluating governance practices can enhance accountability and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Assessment Evaluation">
+  <data key="d2">Evaluating assessment can guide organizations in responding to crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Recognition Systems Evaluation">
+  <data key="d2">Evaluating recognition systems can boost morale and retention.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Goals Evaluation">
+  <data key="d2">Evaluating sustainability goals can enhance corporate responsibility.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Strategy Development Evaluation">
+  <data key="d2">Evaluating strategy development can enhance market advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Retention Strategies Evaluation">
+  <data key="d2">Evaluating retention strategies can enhance long-term profitability.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Health Metrics Evaluation">
+  <data key="d2">Evaluating health metrics can provide insights into overall performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Policies Evaluation">
+  <data key="d2">Evaluating policies can guide effective crisis response.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Engagement Metrics Evaluation">
+  <data key="d2">Evaluating engagement metrics can provide insights into workforce satisfaction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Practices Evaluation">
+  <data key="d2">Evaluating practices can enhance corporate responsibility.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Landscape Evaluation">
+  <data key="d2">Evaluating landscape can guide strategic planning.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Social Responsibility Assessment Evaluation">
+  <data key="d2">Evaluating CSR assessment can enhance transparency and stakeholder trust.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Training Programs Evaluation">
+  <data key="d2">Evaluating training programs can enhance crisis management capabilities.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Development Strategies Evaluation">
+  <data key="d2">Evaluating strategies can enhance employee skills and performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Positioning Strategies Evaluation">
+  <data key="d2">Evaluating positioning strategies can enhance competitive advantage.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Ethics Assessment Evaluation">
+  <data key="d2">Evaluating ethics assessment can enhance corporate responsibility.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Communication Training Evaluation">
+  <data key="d2">Evaluating training can enhance organizational preparedness.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Employee Satisfaction Surveys Evaluation">
+  <data key="d2">Evaluating surveys can provide insights into workplace culture.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Sustainability Initiatives Assessment Evaluation">
+  <data key="d2">Evaluating initiatives can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Strategy Analysis Evaluation">
+  <data key="d2">Evaluating strategy analysis can guide decision-making.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Philanthropy Assessment Evaluation">
+  <data key="d2">Evaluating philanthropy assessment can enhance corporate reputation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Management Evaluation Evaluation">
+  <data key="d2">Evaluating evaluation can guide organizations in responding to crises.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Visionary Companies">
+  <data key="d2">Companies identified as having outperformed the market significantly over a long period.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Shareholder Return">
+  <data key="d2">The total return on investment for shareholders, including dividends and stock price appreciation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="S&amp;P 500">
+  <data key="d2">A stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Operating Profit">
+  <data key="d2">The profit a company makes from its normal business operations, excluding any income derived from non-operating activities.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Regression to the Mean">
+  <data key="d2">The phenomenon where extreme performance tends to be followed by more average performance over time.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Delusion of Lasting Success">
+  <data key="d2">The belief that companies can achieve enduring greatness through specific practices or principles.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Delusion of Rigorous Research">
+  <data key="d2">The false belief that extensive data collection and analysis guarantees the validity of research findings.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Strategic Choice">
+  <data key="d2">The decisions made by a company regarding its direction and competitive positioning in the market.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Execution">
+  <data key="d2">The process of implementing a company's strategy through effective management and operational practices.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Creative Destruction">
+  <data key="d2">The process by which new innovations replace outdated technologies or products, leading to economic growth.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Competition">
+  <data key="d2">The rivalry among businesses to attract customers and achieve market share.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Ethical Problems">
+  <data key="d2">Issues related to moral principles that may arise in business practices, such as price fixing or misleading advertising.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Long-Term Prosperity">
+  <data key="d2">The sustained financial success of a company over an extended period.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Causal Ambiguity">
+  <data key="d2">The difficulty in determining the exact cause of a company's success or failure due to the complex interplay of factors.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Probability in Decision Making">
+  <data key="d2">The assessment of the likelihood of various outcomes when making strategic choices.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Forces">
+  <data key="d2">The economic factors that influence the supply and demand of goods and services in the market.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Adaptability">
+  <data key="d2">The ability of a company to adjust its strategies and operations in response to changing market conditions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Analysis">
+  <data key="d2">The assessment of a company's financial performance through the examination of financial statements and metrics.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Dynamics">
+  <data key="d2">The forces that impact the supply and demand of goods and services in the market.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Strategy">
+  <data key="d2">The overarching plan that outlines how a company will achieve its goals and objectives.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Share">
+  <data key="d2">The portion of a market controlled by a particular company or product.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Satisfaction">
+  <data key="d2">The measure of how products or services meet or exceed customer expectations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Leadership Styles">
+  <data key="d2">The various approaches that leaders use to motivate and manage their teams.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Organizational Structure">
+  <data key="d2">The way in which a company arranges its lines of authority and communications.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Model">
+  <data key="d2">The plan implemented by a company to generate revenue and make a profit from operations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Human Resource Management">
+  <data key="d2">The strategic approach to managing an organization's workforce to optimize employee performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Crisis Response">
+  <data key="d2">The actions taken by a company to address and manage a crisis situation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Investment Strategies">
+  <data key="d2">The methods used by investors to allocate resources in order to achieve specific financial goals.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Economic Conditions">
+  <data key="d2">The state of the economy at a given time, which can influence business performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Consumer Behavior">
+  <data key="d2">The study of how individuals make decisions to spend their available resources.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Strategic Planning">
+  <data key="d2">The process of defining a company's direction and making decisions on allocating resources to pursue that direction.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Performance Measurement">
+  <data key="d2">The process of evaluating the efficiency and effectiveness of an organization's actions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Innovation Management">
+  <data key="d2">The discipline of managing processes in innovation.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Sustainability">
+  <data key="d2">The ability of a company to operate without negatively impacting the environment, community, or economy.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Cultural Competence">
+  <data key="d2">The ability to understand, communicate with, and effectively interact with people across cultures.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Social Responsibility">
+  <data key="d2">The practice of integrating social and environmental concerns in business operations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Resilience">
+  <data key="d2">The ability of a company to withstand economic downturns and recover from financial shocks.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Ethics">
+  <data key="d2">The principles and standards that guide behavior in the world of business.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Competitive Intelligence">
+  <data key="d2">The process of gathering and analyzing information about competitors to inform business decisions.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Transformation">
+  <data key="d2">A fundamental change in how a business operates, often involving significant shifts in strategy, processes, and culture.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Value Proposition">
+  <data key="d2">The promise of value to be delivered to customers, explaining why they should choose a product or service.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Customer Relationship Management">
+  <data key="d2">The strategies and technologies used by companies to manage interactions with customers.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Continuity Planning">
+  <data key="d2">The process of creating systems of prevention and recovery to deal with potential threats to a company.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Digital Transformation">
+  <data key="d2">The integration of digital technology into all areas of a business, fundamentally changing how it operates and delivers value.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Performance Appraisal">
+  <data key="d2">The evaluation of an employee's performance and contributions to the organization.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Planning">
+  <data key="d2">The process of estimating the capital required and determining its competition.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Strategy Alignment">
+  <data key="d2">The process of ensuring that a company's strategic objectives are aligned with its operational capabilities.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Networking">
+  <data key="d2">The act of establishing a mutually beneficial relationship with other business people.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Strategic Alliances">
+  <data key="d2">Agreements between two or more parties to pursue a set of agreed-upon objectives while remaining independent organizations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Market Disruption">
+  <data key="d2">A significant change in an industry that alters the competitive landscape.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Financial Ratios">
+  <data key="d2">Quantitative measures used to evaluate a company's financial performance.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Corporate Vision">
+  <data key="d2">A future-oriented declaration of the organization's purpose and aspirations.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<node id="Business Intelligence">
+  <data key="d2">The technologies and strategies used by enterprises for data analysis of business information.</data>
+  <data key="d3">concept</data>
+  <data key="d4">0.5</data>
+  <data key="d5">unknown</data>
+  <data key="d6">The Halo Effect</data>
+  <data key="d7">45.0</data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+  <data key="d10"></data>
+</node>
+<edge source="Delusion of Absolute Performance" target="Core Business Focus">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delusion of Absolute Performance" target="Visionary Companies">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delusion of the Wrong End of the Stick" target="Market Adaptation">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delusion of Organizational Physics" target="Crisis Management">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Halo Effect" target="Financial Performance">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Halo Effect" target="Delusion of Rigorous Research">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Hubris" target="Leadership Influence">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Culture" target="Employee Engagement">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Customer Orientation" target="Market Positioning">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Performance" target="Market Trends">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Leadership Influence" target="Crisis Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Acquisition Strategy" target="Operational Efficiency">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Risk Management" target="Crisis Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Innovation" target="Market Adaptation">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Innovation" target="Market Competition">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Strategic Vision" target="Leadership Influence">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Engagement" target="Customer Satisfaction">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Management" target="Crisis Recovery">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Management" target="Strategic Choice">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Positioning" target="Brand Equity">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Positioning" target="Competitive Advantage">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Operational Efficiency" target="Financial Performance">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Operational Efficiency" target="Execution">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Longitudinal Studies" target="Causal Inference">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Quasi-experimental Designs" target="Causal Inference">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Causal Inference" target="Performance Attribution">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Social Responsibility (CSR)" target="Market Positioning">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Turbulence" target="Crisis Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Satisfaction" target="Employee Engagement">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Management Practices" target="Operational Efficiency">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Strategic Alignment" target="Corporate Culture">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Innovation Culture" target="Market Adaptation">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Performance Attribution" target="Crisis Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delusion of Correlation and Causality" target="Causal Inference">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delusion of Single Explanations" target="Causal Inference">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delusion of Connecting the Winning Dots" target="Causal Inference">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Cognitive Dissonance" target="Performance Attribution">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Executive Compensation" target="Crisis Management">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis of Confidence" target="Crisis Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Expectations" target="Financial Performance">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Expectations" target="Shareholder Return">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Performance Metrics" target="Financial Performance">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Supply Chain Management" target="Operational Efficiency">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Supply Chain Management" target="Execution">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Strategic Decision Making" target="Crisis Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Business Model Innovation" target="Market Adaptation">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Cultural Fit" target="Acquisition Strategy">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Stakeholder Engagement" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Data-Driven Decision Making" target="Operational Efficiency">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Business Agility" target="Market Adaptation">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Performance Reviews" target="Employee Engagement">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Research" target="Customer Orientation">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Research" target="Strategic Choice">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Brand Equity" target="Market Positioning">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Brand Equity" target="Market Share">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Metrics" target="Performance Measurement">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Competitive Advantage" target="Market Positioning">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Competitive Advantage" target="Market Competition">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Organizational Learning" target="Innovation">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Development" target="Employee Engagement">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Leadership" target="Brand Equity">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Transparency" target="Crisis Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Communication" target="Crisis Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Innovation Strategy" target="Market Adaptation">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Long-Term Planning" target="Strategic Vision">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Differentiation" target="Brand Equity">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Differentiation" target="Competitive Advantage">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Stakeholder Value" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Preparedness" target="Crisis Management">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Innovation Metrics" target="Operational Efficiency">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Governance" target="Stakeholder Engagement">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Change Management" target="Execution">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Trends" target="Market Competition">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Innovation Ecosystem" target="Market Competition">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Health" target="Crisis Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Customer Experience" target="Customer Satisfaction">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Brand Reputation" target="Customer Loyalty">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Recovery Strategies" target="Crisis Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Risk Assessment" target="Strategic Choice">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Customer Retention Strategies" target="Customer Orientation">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Customer Satisfaction Surveys" target="Customer Orientation">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Brand Equity Measurement" target="Market Positioning">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Response Teams" target="Crisis Management">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Training Programs" target="Employee Development">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Opportunity Analysis" target="Strategic Decision Making">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Governance Standards" target="Crisis Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Philanthropy" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Management Training" target="Crisis Preparedness">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Development Plans" target="Employee Engagement">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Governance Practices" target="Crisis Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Management Policies" target="Crisis Preparedness">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Engagement Strategies" target="Employee Engagement">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Trends Analysis" target="Market Adaptation">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Sustainability Goals" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Competitive Strategy Development" target="Market Positioning">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Health Metrics" target="Crisis Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Training and Development" target="Human Resource Management">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Engagement Metrics" target="Employee Engagement">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Management Training Programs" target="Crisis Preparedness">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Positioning Strategies" target="Competitive Advantage">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Management Policies Evaluation" target="Crisis Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Engagement Metrics Evaluation" target="Employee Engagement">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Sustainability Practices Evaluation" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Competitive Landscape Evaluation" target="Market Positioning">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Social Responsibility Assessment Evaluation" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Management Training Programs Evaluation" target="Crisis Preparedness">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Development Strategies Evaluation" target="Employee Engagement">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Positioning Strategies Evaluation" target="Competitive Advantage">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Ethics Assessment Evaluation" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Communication Training Evaluation" target="Crisis Management">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Employee Satisfaction Surveys Evaluation" target="Employee Engagement">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Sustainability Initiatives Assessment Evaluation" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Competitive Strategy Analysis Evaluation" target="Market Positioning">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Philanthropy Assessment Evaluation" target="Corporate Social Responsibility (CSR)">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Management Evaluation Evaluation" target="Crisis Management">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Visionary Companies" target="Shareholder Return">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Shareholder Return" target="S&amp;P 500">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Operating Profit" target="Shareholder Return">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Regression to the Mean" target="Visionary Companies">
+  <data key="d11">0.9</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.6</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Delusion of Lasting Success" target="Visionary Companies">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Strategic Choice" target="Execution">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Competition" target="Customer Satisfaction">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Dynamics" target="Market Competition">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Strategy" target="Strategic Choice">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Share" target="Customer Satisfaction">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Leadership Styles" target="Corporate Culture">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Business Model" target="Corporate Strategy">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Human Resource Management" target="Employee Engagement">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Crisis Response" target="Crisis Management">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Investment Strategies" target="Market Competition">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Economic Conditions" target="Market Dynamics">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Consumer Behavior" target="Customer Satisfaction">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Strategic Planning" target="Corporate Strategy">
+  <data key="d11">0.8</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">4.2</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Performance Measurement" target="Execution">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Innovation Management" target="Market Competition">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Business Sustainability" target="Corporate Social Responsibility">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Cultural Competence" target="Employee Engagement">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Social Responsibility" target="Brand Reputation">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Digital Transformation" target="Innovation">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Performance Appraisal" target="Employee Engagement">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Planning" target="Performance Measurement">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Strategy Alignment" target="Execution">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Business Networking" target="Stakeholder Engagement">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Strategic Alliances" target="Market Competition">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Market Disruption" target="Market Dynamics">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Financial Ratios" target="Performance Measurement">
+  <data key="d11">0.6</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.4</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Corporate Vision" target="Strategic Planning">
+  <data key="d11">0.7</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.8</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+<edge source="Business Intelligence" target="Market Research">
+  <data key="d11">0.5</data>
+  <data key="d12">related</data>
+  <data key="d13"></data>
+  <data key="d14">3.0</data>
+  <data key="d15"></data>
+  <data key="d16">0</data>
+  <data key="d17"></data>
+</edge>
+</graph></graphml>

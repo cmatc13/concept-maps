@@ -1,0 +1,548 @@
+{
+    "concepts": [
+        {
+            "name": "Value Investing",
+            "description": "An investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value."
+        },
+        {
+            "name": "Common Stocks",
+            "description": "Equity securities that represent ownership in a corporation and entitle the shareholder to a portion of the company's profits."
+        },
+        {
+            "name": "Market Volatility",
+            "description": "The degree of variation in trading prices over time, often perceived as a risk by investors."
+        },
+        {
+            "name": "Permanent Loss",
+            "description": "A loss that cannot be recovered, typically associated with investments that become worthless."
+        },
+        {
+            "name": "Liquidity",
+            "description": "The ease with which an asset can be converted into cash without affecting its market price."
+        },
+        {
+            "name": "Earnings Per Share (EPS)",
+            "description": "A company's profit divided by the outstanding shares of its common stock, indicating profitability."
+        },
+        {
+            "name": "Margin of Safety",
+            "description": "The principle of buying securities at a price significantly below their intrinsic value to minimize risk."
+        },
+        {
+            "name": "Behavioral Economics",
+            "description": "A field of economics that studies how psychological factors affect economic decision-making."
+        },
+        {
+            "name": "Contrarian Investing",
+            "description": "An investment strategy that involves going against prevailing market trends or sentiments."
+        },
+        {
+            "name": "Risk Management",
+            "description": "The identification, assessment, and prioritization of risks followed by coordinated efforts to minimize, monitor, and control the probability of unfortunate events."
+        },
+        {
+            "name": "Corporate Acquisitions",
+            "description": "The process of one company purchasing most or all of another company's shares to gain control."
+        },
+        {
+            "name": "Dividends",
+            "description": "Payments made by a corporation to its shareholders, typically from profits."
+        },
+        {
+            "name": "Economic Growth",
+            "description": "An increase in the production of goods and services in an economy over a period of time."
+        },
+        {
+            "name": "Price to Earnings Ratio (P/E)",
+            "description": "A valuation ratio calculated by dividing the market price per share by the earnings per share, used to assess a company's valuation."
+        },
+        {
+            "name": "Investment Thesis",
+            "description": "A reasoned argument for why an investment should be made, based on analysis of the company's fundamentals."
+        },
+        {
+            "name": "Cyclical Stocks",
+            "description": "Stocks whose performance is closely tied to the economic cycle, typically rising during economic expansions and falling during recessions."
+        },
+        {
+            "name": "Market Sentiment",
+            "description": "The overall attitude of investors toward a particular security or financial market."
+        },
+        {
+            "name": "Cash Flow",
+            "description": "The total amount of money being transferred into and out of a business, especially as it affects liquidity."
+        },
+        {
+            "name": "Competitive Advantage",
+            "description": "A condition or circumstance that puts a company in a favorable or superior business position."
+        },
+        {
+            "name": "Financial Ratios",
+            "description": "Metrics used to assess a company's financial performance, often used in financial analysis."
+        },
+        {
+            "name": "Short Selling",
+            "description": "The practice of selling borrowed securities with the intention of buying them back at a lower price."
+        },
+        {
+            "name": "Long-Term Investment",
+            "description": "An investment strategy focused on holding securities for an extended period, typically years, to realize growth."
+        },
+        {
+            "name": "Active vs. Passive Investing",
+            "description": "Active investing involves ongoing buying and selling activities, while passive investing typically involves a buy-and-hold strategy."
+        },
+        {
+            "name": "Economic Indicators",
+            "description": "Statistics that provide information about the economic performance of a country, used to gauge the health of the economy."
+        },
+        {
+            "name": "Investment Management",
+            "description": "The professional management of various securities and assets to meet specified investment goals for the benefit of investors."
+        },
+        {
+            "name": "Herd Behavior",
+            "description": "The tendency for individuals to mimic the actions of a larger group, often leading to irrational market movements."
+        },
+        {
+            "name": "Outlier Events",
+            "description": "Rare occurrences that deviate significantly from the expected norm, often having a substantial impact on markets."
+        },
+        {
+            "name": "Economic Moat",
+            "description": "A competitive advantage that allows a company to protect its profits and market share from competitors."
+        },
+        {
+            "name": "Market Capitalization",
+            "description": "The total market value of a company's outstanding shares, calculated by multiplying the share price by the total number of shares."
+        },
+        {
+            "name": "Stock Buybacks",
+            "description": "When a company purchases its own shares from the marketplace, reducing the number of outstanding shares."
+        },
+        {
+            "name": "Investor Psychology",
+            "description": "The study of how psychological factors influence investors' decisions and market movements."
+        },
+        {
+            "name": "Financial Crisis",
+            "description": "A situation in which the value of financial institutions or assets drops rapidly, often leading to widespread economic instability."
+        },
+        {
+            "name": "Investment Strategy",
+            "description": "A plan designed to achieve a specific financial goal through the selection of investments."
+        },
+        {
+            "name": "Diversification",
+            "description": "The practice of spreading investments across various financial instruments, industries, and other categories to reduce risk."
+        },
+        {
+            "name": "Icarus",
+            "description": "A figure from Greek mythology who flew too close to the sun with wings made of feathers and wax, leading to his downfall."
+        },
+        {
+            "name": "Human Flight Attempts",
+            "description": "Historical attempts by various individuals to achieve human flight, often resulting in failure and injury."
+        },
+        {
+            "name": "Leonardo da Vinci",
+            "description": "A Renaissance artist and inventor who studied bird flight and designed various flying machines, including gliders and parachutes."
+        },
+        {
+            "name": "Galileo Galilei",
+            "description": "An Italian scientist who discovered that air has weight, leading to the concept of lighter-than-air flight."
+        },
+        {
+            "name": "Balloon",
+            "description": "A lighter-than-air vehicle that rises when filled with hot air or gas, first successfully demonstrated in the early 18th century."
+        },
+        {
+            "name": "Montgolfier Brothers",
+            "description": "French inventors who created the first successful hot air balloon, launching it in 1783."
+        },
+        {
+            "name": "Hydrogen Balloon",
+            "description": "A type of balloon filled with hydrogen gas, which is lighter than air, developed by Jacques Charles and the Robert brothers."
+        },
+        {
+            "name": "Dirigible",
+            "description": "A steerable balloon or airship, which became more practical for flight in the 19th century."
+        },
+        {
+            "name": "Count Ferdinand von Zeppelin",
+            "description": "A German pioneer of airship travel who developed the rigid-frame dirigible known as the Zeppelin."
+        },
+        {
+            "name": "Sir George Cayley",
+            "description": "An English engineer credited with foundational principles of aerodynamics and the design of early flying machines."
+        },
+        {
+            "name": "Wright Brothers",
+            "description": "Wilbur and Orville Wright, who achieved the first powered flight in 1903, marking the beginning of modern aviation."
+        },
+        {
+            "name": "Samuel Langley",
+            "description": "An American scientist who conducted early experiments with powered flight and designed the Aerodrome."
+        },
+        {
+            "name": "Aviation Industry",
+            "description": "The sector involved in the design, development, production, and operation of aircraft."
+        },
+        {
+            "name": "Commercial Aviation",
+            "description": "The segment of the aviation industry that provides air transport services for passengers and cargo."
+        },
+        {
+            "name": "Boeing",
+            "description": "An American aerospace company that is one of the largest manufacturers of commercial jetliners and military aircraft."
+        },
+        {
+            "name": "Airbus",
+            "description": "A European multinational corporation that designs, manufactures, and sells civil and military aerospace products."
+        },
+        {
+            "name": "Investment Analysis",
+            "description": "The process of evaluating an investment for its potential return and risk."
+        },
+        {
+            "name": "Market Dynamics",
+            "description": "The forces that impact the supply and demand of goods and services in a market."
+        },
+        {
+            "name": "Pension Liabilities",
+            "description": "The obligations a company has to pay its employees' pensions, which can impact its financial health."
+        },
+        {
+            "name": "Economic Cycles",
+            "description": "The fluctuations in economic activity that an economy experiences over a period of time."
+        },
+        {
+            "name": "Airline Industry",
+            "description": "The sector of the aviation industry that focuses on the transportation of passengers and cargo by air."
+        },
+        {
+            "name": "Southwest Airlines",
+            "description": "An American low-cost airline known for its low fares and efficient operations."
+        },
+        {
+            "name": "Goldman Sachs",
+            "description": "A leading global investment banking, securities, and investment management firm."
+        },
+        {
+            "name": "Financial Regulation",
+            "description": "Laws and rules that govern financial institutions and markets to maintain stability and protect investors."
+        },
+        {
+            "name": "Corporate Governance",
+            "description": "The system by which companies are directed and controlled, including the relationships among stakeholders."
+        },
+        {
+            "name": "Market Valuation",
+            "description": "The process of determining the current worth of an asset or company based on its market price."
+        },
+        {
+            "name": "Return on Equity (ROE)",
+            "description": "A measure of financial performance calculated by dividing net income by shareholders' equity."
+        },
+        {
+            "name": "Share Repurchase",
+            "description": "The process by which a company buys back its own shares from the marketplace, reducing the number of outstanding shares."
+        },
+        {
+            "name": "Long-term Investing",
+            "description": "An investment strategy focused on holding assets for an extended period, regardless of market fluctuations."
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Value Investing",
+            "target": "Common Stocks",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Volatility",
+            "target": "Permanent Loss",
+            "weight": 0.8
+        },
+        {
+            "source": "Liquidity",
+            "target": "Common Stocks",
+            "weight": 0.7
+        },
+        {
+            "source": "Earnings Per Share (EPS)",
+            "target": "Value Investing",
+            "weight": 0.8
+        },
+        {
+            "source": "Margin of Safety",
+            "target": "Value Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Behavioral Economics",
+            "target": "Investor Psychology",
+            "weight": 0.8
+        },
+        {
+            "source": "Contrarian Investing",
+            "target": "Market Sentiment",
+            "weight": 0.7
+        },
+        {
+            "source": "Risk Management",
+            "target": "Permanent Loss",
+            "weight": 0.9
+        },
+        {
+            "source": "Corporate Acquisitions",
+            "target": "Common Stocks",
+            "weight": 0.6
+        },
+        {
+            "source": "Dividends",
+            "target": "Common Stocks",
+            "weight": 0.7
+        },
+        {
+            "source": "Economic Growth",
+            "target": "Common Stocks",
+            "weight": 0.8
+        },
+        {
+            "source": "Price to Earnings Ratio (P/E)",
+            "target": "Value Investing",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Thesis",
+            "target": "Value Investing",
+            "weight": 0.8
+        },
+        {
+            "source": "Cyclical Stocks",
+            "target": "Market Volatility",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Investor Psychology",
+            "weight": 0.8
+        },
+        {
+            "source": "Cash Flow",
+            "target": "Earnings Per Share (EPS)",
+            "weight": 0.9
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Value Investing",
+            "weight": 0.8
+        },
+        {
+            "source": "Financial Ratios",
+            "target": "Value Investing",
+            "weight": 0.7
+        },
+        {
+            "source": "Short Selling",
+            "target": "Market Volatility",
+            "weight": 0.6
+        },
+        {
+            "source": "Long-Term Investment",
+            "target": "Value Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Active vs. Passive Investing",
+            "target": "Investment Strategy",
+            "weight": 0.7
+        },
+        {
+            "source": "Economic Indicators",
+            "target": "Economic Growth",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Management",
+            "target": "Value Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Herd Behavior",
+            "target": "Market Sentiment",
+            "weight": 0.8
+        },
+        {
+            "source": "Outlier Events",
+            "target": "Market Volatility",
+            "weight": 0.9
+        },
+        {
+            "source": "Economic Moat",
+            "target": "Competitive Advantage",
+            "weight": 0.9
+        },
+        {
+            "source": "Market Capitalization",
+            "target": "Common Stocks",
+            "weight": 0.7
+        },
+        {
+            "source": "Stock Buybacks",
+            "target": "Earnings Per Share (EPS)",
+            "weight": 0.8
+        },
+        {
+            "source": "Investor Psychology",
+            "target": "Behavioral Economics",
+            "weight": 0.9
+        },
+        {
+            "source": "Financial Crisis",
+            "target": "Market Volatility",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Strategy",
+            "target": "Value Investing",
+            "weight": 0.8
+        },
+        {
+            "source": "Diversification",
+            "target": "Risk Management",
+            "weight": 0.8
+        },
+        {
+            "source": "Icarus",
+            "target": "Human Flight Attempts",
+            "weight": 0.9
+        },
+        {
+            "source": "Human Flight Attempts",
+            "target": "Leonardo da Vinci",
+            "weight": 0.8
+        },
+        {
+            "source": "Leonardo da Vinci",
+            "target": "Aviation Industry",
+            "weight": 0.7
+        },
+        {
+            "source": "Galileo Galilei",
+            "target": "Balloon",
+            "weight": 0.8
+        },
+        {
+            "source": "Montgolfier Brothers",
+            "target": "Balloon",
+            "weight": 0.9
+        },
+        {
+            "source": "Hydrogen Balloon",
+            "target": "Balloon",
+            "weight": 0.8
+        },
+        {
+            "source": "Dirigible",
+            "target": "Count Ferdinand von Zeppelin",
+            "weight": 0.9
+        },
+        {
+            "source": "Sir George Cayley",
+            "target": "Wright Brothers",
+            "weight": 0.8
+        },
+        {
+            "source": "Wright Brothers",
+            "target": "Aviation Industry",
+            "weight": 0.9
+        },
+        {
+            "source": "Samuel Langley",
+            "target": "Wright Brothers",
+            "weight": 0.8
+        },
+        {
+            "source": "Boeing",
+            "target": "Commercial Aviation",
+            "weight": 0.9
+        },
+        {
+            "source": "Airbus",
+            "target": "Commercial Aviation",
+            "weight": 0.9
+        },
+        {
+            "source": "Investment Analysis",
+            "target": "Value Investing",
+            "weight": 0.8
+        },
+        {
+            "source": "Risk Management",
+            "target": "Investment Analysis",
+            "weight": 0.8
+        },
+        {
+            "source": "Market Dynamics",
+            "target": "Airline Industry",
+            "weight": 0.7
+        },
+        {
+            "source": "Pension Liabilities",
+            "target": "Goldman Sachs",
+            "weight": 0.6
+        },
+        {
+            "source": "Economic Cycles",
+            "target": "Airline Industry",
+            "weight": 0.7
+        },
+        {
+            "source": "Southwest Airlines",
+            "target": "Airline Industry",
+            "weight": 0.9
+        },
+        {
+            "source": "Goldman Sachs",
+            "target": "Financial Regulation",
+            "weight": 0.8
+        },
+        {
+            "source": "Corporate Governance",
+            "target": "Goldman Sachs",
+            "weight": 0.7
+        },
+        {
+            "source": "Competitive Advantage",
+            "target": "Market Valuation",
+            "weight": 0.8
+        },
+        {
+            "source": "Return on Equity (ROE)",
+            "target": "Market Valuation",
+            "weight": 0.8
+        },
+        {
+            "source": "Investment Thesis",
+            "target": "Value Investing",
+            "weight": 0.9
+        },
+        {
+            "source": "Share Repurchase",
+            "target": "Market Valuation",
+            "weight": 0.7
+        },
+        {
+            "source": "Market Sentiment",
+            "target": "Market Dynamics",
+            "weight": 0.8
+        },
+        {
+            "source": "Long-term Investing",
+            "target": "Value Investing",
+            "weight": 0.9
+        }
+    ]
+}
